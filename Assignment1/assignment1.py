@@ -12,6 +12,7 @@ df = pd.read_csv('datagovdatasetsviewmetrics.csv',header=False,
 #Run SQL Commands, Group the views by org name, sum the views, then sort the records by Total Views and grab the top 10
 grouped = df[['Organization Name','Views']].groupby('Organization Name').sum().sort(columns='Views',ascending=False).head(10)
 #Bar Chart Section
+grouped.index.name = None
 print grouped.to_string()
 #add autolayout so labels aren't cutoff
 rcParams.update({'figure.autolayout': True})
