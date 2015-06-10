@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.hmpdataset/ontologies/ActivitySample.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.hmpdataset/ontologies/ActivitySample.owl">
+    <Prefix name="" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal datatypeIRI="&rdf;PlainLiteral">Activity Dataset.
+Activities of Daily Living (ADL) Recognition with wrist worn accelerometer: 
+
+Activity Sample is the core class.
+One Participant per ActivitySample
+Multiple activites per Participant
+DataUnit consists of x,y,z and is mapped to activity.</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Activities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ActivitySample"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ActivitySampleParticipant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrushTeeth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClimbStairs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CombHair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DataUnit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DescendStairs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DrinkGlass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EatMeat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EatSoup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GetUpBed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LieDownBed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PourWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SitDownChair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UseTelephone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Walk"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasActivity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasData"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isActivity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isData"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#x"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#y"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#z"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry5"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Entry6"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Activities"/>
+        <Class IRI="#ActivitySample"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ActivitySampleParticipant"/>
+        <Class IRI="#ActivitySample"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrushTeeth"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClimbStairs"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CombHair"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#BrushTeeth"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#ClimbStairs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#CombHair"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#DescendStairs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#DrinkGlass"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#EatMeat"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#EatSoup"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#GetUpBed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#LieDownBed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#PourWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#SitDownChair"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#UseTelephone"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DataUnit"/>
+        <Class IRI="#Walk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DescendStairs"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DrinkGlass"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EatMeat"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EatSoup"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GetUpBed"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LieDownBed"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PourWater"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SitDownChair"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UseTelephone"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Walk"/>
+        <Class IRI="#Activities"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#BrushTeeth"/>
+        <Class IRI="#ClimbStairs"/>
+        <Class IRI="#CombHair"/>
+        <Class IRI="#DescendStairs"/>
+        <Class IRI="#DrinkGlass"/>
+        <Class IRI="#EatSoup"/>
+        <Class IRI="#GetUpBed"/>
+        <Class IRI="#LieDownBed"/>
+        <Class IRI="#PourWater"/>
+        <Class IRI="#SitDownChair"/>
+        <Class IRI="#UseTelephone"/>
+        <Class IRI="#Walk"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry2"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry3"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry5"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrushTeeth"/>
+        <NamedIndividual IRI="#Entry6"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry1"/>
+        <Literal datatypeIRI="&xsd;integer">22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#y"/>
+        <NamedIndividual IRI="#Entry1"/>
+        <Literal datatypeIRI="&xsd;integer">49</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry1"/>
+        <Literal datatypeIRI="&xsd;integer">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry2"/>
+        <Literal datatypeIRI="&xsd;integer">22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry2"/>
+        <Literal datatypeIRI="&xsd;integer">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry2"/>
+        <Literal datatypeIRI="&xsd;integer">49</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry3"/>
+        <Literal datatypeIRI="&xsd;integer">22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#y"/>
+        <NamedIndividual IRI="#Entry3"/>
+        <Literal datatypeIRI="&xsd;integer">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry3"/>
+        <Literal datatypeIRI="&xsd;integer">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry4"/>
+        <Literal datatypeIRI="&xsd;integer">22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#y"/>
+        <NamedIndividual IRI="#Entry4"/>
+        <Literal datatypeIRI="&xsd;integer">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry4"/>
+        <Literal datatypeIRI="&xsd;integer">35</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry5"/>
+        <Literal datatypeIRI="&xsd;integer">21</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#y"/>
+        <NamedIndividual IRI="#Entry5"/>
+        <Literal datatypeIRI="&xsd;integer">52</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry5"/>
+        <Literal datatypeIRI="&xsd;integer">34</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#x"/>
+        <NamedIndividual IRI="#Entry6"/>
+        <Literal datatypeIRI="&xsd;integer">22</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#y"/>
+        <NamedIndividual IRI="#Entry6"/>
+        <Literal datatypeIRI="&xsd;integer">51</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#z"/>
+        <NamedIndividual IRI="#Entry6"/>
+        <Literal datatypeIRI="&xsd;integer">34</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isActivity"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isData"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#hasActivity"/>
+        <ObjectProperty IRI="#isActivity"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#isData"/>
+        <ObjectProperty IRI="#hasData"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#hasActivity"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#hasData"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#isData"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasData"/>
+        <Class IRI="#Activities"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isActivity"/>
+        <Class IRI="#Activities"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isData"/>
+        <Class IRI="#DataUnit"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasActivity"/>
+        <Class IRI="#Activities"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasData"/>
+        <Class IRI="#DataUnit"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isData"/>
+        <Class IRI="#Activities"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+
