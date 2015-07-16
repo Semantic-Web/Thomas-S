@@ -1,0 +1,791 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="http://data.cityofchicago.org/resource/" xmlns:ds="http://data.cityofchicago.org/resource/_7imc-umy4/">
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/1">
+    <socrata:rowID>1</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Albany Park  </ds:location>
+    <ds:january>8234</ds:january>
+    <ds:february>8979</ds:february>
+    <ds:march>13017</ds:march>
+    <ds:april>12912</ds:april>
+    <ds:may>11979</ds:may>
+    <ds:ytd>55121</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/2">
+    <socrata:rowID>2</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Altgeld  </ds:location>
+    <ds:january>4577</ds:january>
+    <ds:february>2619</ds:february>
+    <ds:march>4131</ds:march>
+    <ds:april>4083</ds:april>
+    <ds:may>3939</ds:may>
+    <ds:ytd>19349</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/3">
+    <socrata:rowID>3</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Archer Heights*</ds:location>
+    <ds:january>8435</ds:january>
+    <ds:february>7672</ds:february>
+    <ds:march>9256</ds:march>
+    <ds:april>9530</ds:april>
+    <ds:may>7536</ds:may>
+    <ds:ytd>42429</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/4">
+    <socrata:rowID>4</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Austin </ds:location>
+    <ds:january>6241</ds:january>
+    <ds:february>5340</ds:february>
+    <ds:march>6007</ds:march>
+    <ds:april>6403</ds:april>
+    <ds:may>5246</ds:may>
+    <ds:ytd>29237</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/5">
+    <socrata:rowID>5</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Austin-Irving  </ds:location>
+    <ds:january>8331</ds:january>
+    <ds:february>8121</ds:february>
+    <ds:march>9915</ds:march>
+    <ds:april>9761</ds:april>
+    <ds:may>8406</ds:may>
+    <ds:ytd>44534</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/6">
+    <socrata:rowID>6</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Avalon*</ds:location>
+    <ds:january>9191</ds:january>
+    <ds:february>7835</ds:february>
+    <ds:march>9721</ds:march>
+    <ds:april>9925</ds:april>
+    <ds:may>8873</ds:may>
+    <ds:ytd>45545</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/7">
+    <socrata:rowID>7</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Back of the Yards</ds:location>
+    <ds:january>4541</ds:january>
+    <ds:february>3562</ds:february>
+    <ds:march>4983</ds:march>
+    <ds:april>5615</ds:april>
+    <ds:may>5095</ds:may>
+    <ds:ytd>23796</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/8">
+    <socrata:rowID>8</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Beverly*</ds:location>
+    <ds:january>8853</ds:january>
+    <ds:february>7513</ds:february>
+    <ds:march>9244</ds:march>
+    <ds:april>9025</ds:april>
+    <ds:may>7603</ds:may>
+    <ds:ytd>42238</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/9">
+    <socrata:rowID>9</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Bezazian </ds:location>
+    <ds:january>10431</ds:january>
+    <ds:february>8750</ds:february>
+    <ds:march>11575</ds:march>
+    <ds:april>12767</ds:april>
+    <ds:may>11290</ds:may>
+    <ds:ytd>54813</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/10">
+    <socrata:rowID>10</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Blackstone </ds:location>
+    <ds:january>9266</ds:january>
+    <ds:february>7317</ds:february>
+    <ds:march>9310</ds:march>
+    <ds:april>10315</ds:april>
+    <ds:may>8551</ds:may>
+    <ds:ytd>44759</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/11">
+    <socrata:rowID>11</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Brainerd*</ds:location>
+    <ds:january>3922</ds:january>
+    <ds:february>3210</ds:february>
+    <ds:march>3933</ds:march>
+    <ds:april>4548</ds:april>
+    <ds:may>3503</ds:may>
+    <ds:ytd>19116</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/12">
+    <socrata:rowID>12</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Brighton Park </ds:location>
+    <ds:january>5906</ds:january>
+    <ds:february>5414</ds:february>
+    <ds:march>5774</ds:march>
+    <ds:april>7154</ds:april>
+    <ds:may>5156</ds:may>
+    <ds:ytd>29404</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/13">
+    <socrata:rowID>13</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Bucktown-Wicker Park </ds:location>
+    <ds:january>9220</ds:january>
+    <ds:february>8867</ds:february>
+    <ds:march>11633</ds:march>
+    <ds:april>11973</ds:april>
+    <ds:may>8477</ds:may>
+    <ds:ytd>50170</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/14">
+    <socrata:rowID>14</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Budlong Woods*</ds:location>
+    <ds:january>10093</ds:january>
+    <ds:february>9851</ds:february>
+    <ds:march>11631</ds:march>
+    <ds:april>12034</ds:april>
+    <ds:may>9405</ds:may>
+    <ds:ytd>53014</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/15">
+    <socrata:rowID>15</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Canaryville </ds:location>
+    <ds:january>3171</ds:january>
+    <ds:february>2746</ds:february>
+    <ds:march>3374</ds:march>
+    <ds:april>3675</ds:april>
+    <ds:may>3700</ds:may>
+    <ds:ytd>16666</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/16">
+    <socrata:rowID>16</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Chicago Bee*</ds:location>
+    <ds:january>4294</ds:january>
+    <ds:february>6494</ds:february>
+    <ds:march>6220</ds:march>
+    <ds:april>5675</ds:april>
+    <ds:may>5755</ds:may>
+    <ds:ytd>28438</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/17">
+    <socrata:rowID>17</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Chicago Lawn  </ds:location>
+    <ds:january>5768</ds:january>
+    <ds:february>4954</ds:february>
+    <ds:march>6029</ds:march>
+    <ds:april>6749</ds:april>
+    <ds:may>5304</ds:may>
+    <ds:ytd>28804</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/18">
+    <socrata:rowID>18</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Chinatown </ds:location>
+    <ds:january>18827</ds:january>
+    <ds:february>14436</ds:february>
+    <ds:march>19295</ds:march>
+    <ds:april>20053</ds:april>
+    <ds:may>17738</ds:may>
+    <ds:ytd>90349</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/19">
+    <socrata:rowID>19</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Clearing*</ds:location>
+    <ds:january>6031</ds:january>
+    <ds:february>5581</ds:february>
+    <ds:march>7160</ds:march>
+    <ds:april>7638</ds:april>
+    <ds:may>6035</ds:may>
+    <ds:ytd>32445</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/20">
+    <socrata:rowID>20</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Coleman*</ds:location>
+    <ds:january>8240</ds:january>
+    <ds:february>7098</ds:february>
+    <ds:march>8346</ds:march>
+    <ds:april>8126</ds:april>
+    <ds:may>6922</ds:may>
+    <ds:ytd>38732</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/21">
+    <socrata:rowID>21</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Daley, Richard J.-Bridgeport</ds:location>
+    <ds:january>6743</ds:january>
+    <ds:february>5973</ds:february>
+    <ds:march>7143</ds:march>
+    <ds:april>8668</ds:april>
+    <ds:may>6544</ds:may>
+    <ds:ytd>35071</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/22">
+    <socrata:rowID>22</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Daley, Richard M.-W Humboldt*</ds:location>
+    <ds:january>16021</ds:january>
+    <ds:february>9128</ds:february>
+    <ds:march>11444</ds:march>
+    <ds:april>9274</ds:april>
+    <ds:may>7165</ds:may>
+    <ds:ytd>53032</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/23">
+    <socrata:rowID>23</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Douglass  </ds:location>
+    <ds:january>7630</ds:january>
+    <ds:february>7483</ds:february>
+    <ds:march>10105</ds:march>
+    <ds:april>8106</ds:april>
+    <ds:may>6973</ds:may>
+    <ds:ytd>40297</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/24">
+    <socrata:rowID>24</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Dunning*</ds:location>
+    <ds:january>10277</ds:january>
+    <ds:february>10634</ds:february>
+    <ds:march>13969</ds:march>
+    <ds:april>13027</ds:april>
+    <ds:may>11317</ds:may>
+    <ds:ytd>59224</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/25">
+    <socrata:rowID>25</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Edgebrook </ds:location>
+    <ds:january>7811</ds:january>
+    <ds:february>6880</ds:february>
+    <ds:march>8549</ds:march>
+    <ds:april>8615</ds:april>
+    <ds:may>6823</ds:may>
+    <ds:ytd>38678</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/26">
+    <socrata:rowID>26</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Edgewater  </ds:location>
+    <ds:january>12409</ds:january>
+    <ds:february>13125</ds:february>
+    <ds:march>14751</ds:march>
+    <ds:april>16401</ds:april>
+    <ds:may>13522</ds:may>
+    <ds:ytd>70208</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/27">
+    <socrata:rowID>27</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Gage Park </ds:location>
+    <ds:january>3861</ds:january>
+    <ds:february>3367</ds:february>
+    <ds:march>3348</ds:march>
+    <ds:april>3732</ds:april>
+    <ds:may>3240</ds:may>
+    <ds:ytd>17548</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/28">
+    <socrata:rowID>28</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Galewood-Mont Clare </ds:location>
+    <ds:january>1193</ds:january>
+    <ds:february>987</ds:february>
+    <ds:march>1576</ds:march>
+    <ds:april>2116</ds:april>
+    <ds:may>1564</ds:may>
+    <ds:ytd>7436</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/29">
+    <socrata:rowID>29</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Garfield Ridge*</ds:location>
+    <ds:january>5623</ds:january>
+    <ds:february>5557</ds:february>
+    <ds:march>6654</ds:march>
+    <ds:april>7009</ds:april>
+    <ds:may>5522</ds:may>
+    <ds:ytd>30365</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/30">
+    <socrata:rowID>30</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Greater Grand Crossing*</ds:location>
+    <ds:january>7366</ds:january>
+    <ds:february>3989</ds:february>
+    <ds:march>3118</ds:march>
+    <ds:april>3509</ds:april>
+    <ds:may>2908</ds:may>
+    <ds:ytd>20890</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/31">
+    <socrata:rowID>31</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Hall </ds:location>
+    <ds:january>5747</ds:january>
+    <ds:february>4608</ds:february>
+    <ds:march>5498</ds:march>
+    <ds:april>5806</ds:april>
+    <ds:may>5374</ds:may>
+    <ds:ytd>27033</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/32">
+    <socrata:rowID>32</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Harold Washington Library Center*</ds:location>
+    <ds:january>102037</ds:january>
+    <ds:february>66148</ds:february>
+    <ds:march>98064</ds:march>
+    <ds:april>82879</ds:april>
+    <ds:may>47414</ds:may>
+    <ds:ytd>396542</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/33">
+    <socrata:rowID>33</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Hegewisch*</ds:location>
+    <ds:january>4434</ds:january>
+    <ds:february>4130</ds:february>
+    <ds:march>4783</ds:march>
+    <ds:april>4498</ds:april>
+    <ds:may>4114</ds:may>
+    <ds:ytd>21959</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/34">
+    <socrata:rowID>34</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Humboldt Park*</ds:location>
+    <ds:january>7342</ds:january>
+    <ds:february>9131</ds:february>
+    <ds:march>8807</ds:march>
+    <ds:april>8745</ds:april>
+    <ds:may>6150</ds:may>
+    <ds:ytd>40175</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/35">
+    <socrata:rowID>35</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Independence </ds:location>
+    <ds:january>5584</ds:january>
+    <ds:february>6016</ds:february>
+    <ds:march>7670</ds:march>
+    <ds:april>7609</ds:april>
+    <ds:may>5599</ds:may>
+    <ds:ytd>32478</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/36">
+    <socrata:rowID>36</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Jefferson Park </ds:location>
+    <ds:january>7033</ds:january>
+    <ds:february>6415</ds:february>
+    <ds:march>7630</ds:march>
+    <ds:april>8498</ds:april>
+    <ds:may>6965</ds:may>
+    <ds:ytd>36541</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/37">
+    <socrata:rowID>37</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Jeffery Manor*</ds:location>
+    <ds:january>6377</ds:january>
+    <ds:february>5244</ds:february>
+    <ds:march>7066</ds:march>
+    <ds:april>6702</ds:april>
+    <ds:may>5129</ds:may>
+    <ds:ytd>30518</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/38">
+    <socrata:rowID>38</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Kelly*</ds:location>
+    <ds:january>4954</ds:january>
+    <ds:february>4162</ds:february>
+    <ds:march>5163</ds:march>
+    <ds:april>5651</ds:april>
+    <ds:may>4549</ds:may>
+    <ds:ytd>24479</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/39">
+    <socrata:rowID>39</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>King</ds:location>
+    <ds:january>5715</ds:january>
+    <ds:february>4924</ds:february>
+    <ds:march>6060</ds:march>
+    <ds:april>6919</ds:april>
+    <ds:may>5621</ds:may>
+    <ds:ytd>29239</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/40">
+    <socrata:rowID>40</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Legler </ds:location>
+    <ds:january>6727</ds:january>
+    <ds:february>6487</ds:february>
+    <ds:march>7293</ds:march>
+    <ds:april>6432</ds:april>
+    <ds:may>6080</ds:may>
+    <ds:ytd>33019</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/41">
+    <socrata:rowID>41</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Lincoln Belmont*</ds:location>
+    <ds:january>12072</ds:january>
+    <ds:february>9240</ds:february>
+    <ds:march>12128</ds:march>
+    <ds:april>12599</ds:april>
+    <ds:may>11415</ds:may>
+    <ds:ytd>57454</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/42">
+    <socrata:rowID>42</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Lincoln Park </ds:location>
+    <ds:january>10617</ds:january>
+    <ds:february>12258</ds:february>
+    <ds:march>13968</ds:march>
+    <ds:april>12624</ds:april>
+    <ds:may>8787</ds:may>
+    <ds:ytd>58254</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/43">
+    <socrata:rowID>43</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Little Village*</ds:location>
+    <ds:january>11184</ds:january>
+    <ds:february>9299</ds:february>
+    <ds:march>11558</ds:march>
+    <ds:april>12335</ds:april>
+    <ds:may>10137</ds:may>
+    <ds:ytd>54513</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/44">
+    <socrata:rowID>44</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Logan Square*</ds:location>
+    <ds:january>12563</ds:january>
+    <ds:february>10172</ds:february>
+    <ds:march>12990</ds:march>
+    <ds:april>12807</ds:april>
+    <ds:may>10684</ds:may>
+    <ds:ytd>59216</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/45">
+    <socrata:rowID>45</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Lozano</ds:location>
+    <ds:january>12754</ds:january>
+    <ds:february>11763</ds:february>
+    <ds:march>16444</ds:march>
+    <ds:april>13864</ds:april>
+    <ds:may>10589</ds:may>
+    <ds:ytd>65414</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/46">
+    <socrata:rowID>46</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Manning*</ds:location>
+    <ds:january>9724</ds:january>
+    <ds:february>7836</ds:february>
+    <ds:march>9459</ds:march>
+    <ds:april>8679</ds:april>
+    <ds:may>8051</ds:may>
+    <ds:ytd>43749</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/47">
+    <socrata:rowID>47</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Mayfair  </ds:location>
+    <ds:january>5244</ds:january>
+    <ds:february>4812</ds:february>
+    <ds:march>5198</ds:march>
+    <ds:april>5471</ds:april>
+    <ds:may>4920</ds:may>
+    <ds:ytd>25645</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/48">
+    <socrata:rowID>48</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>McKinley Park*</ds:location>
+    <ds:january>8608</ds:january>
+    <ds:february>7004</ds:february>
+    <ds:march>8345</ds:march>
+    <ds:april>8170</ds:april>
+    <ds:may>6706</ds:may>
+    <ds:ytd>38833</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/49">
+    <socrata:rowID>49</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Merlo</ds:location>
+    <ds:january>8404</ds:january>
+    <ds:february>9348</ds:february>
+    <ds:march>11007</ds:march>
+    <ds:april>10335</ds:april>
+    <ds:may>7552</ds:may>
+    <ds:ytd>46646</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/50">
+    <socrata:rowID>50</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Mount Greenwood*</ds:location>
+    <ds:january>6024</ds:january>
+    <ds:february>5368</ds:february>
+    <ds:march>6528</ds:march>
+    <ds:april>6330</ds:april>
+    <ds:may>5360</ds:may>
+    <ds:ytd>29610</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/51">
+    <socrata:rowID>51</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Near North*</ds:location>
+    <ds:january>11037</ds:january>
+    <ds:february>9040</ds:february>
+    <ds:march>10965</ds:march>
+    <ds:april>11575</ds:april>
+    <ds:may>10256</ds:may>
+    <ds:ytd>52873</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/52">
+    <socrata:rowID>52</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>North Austin  </ds:location>
+    <ds:january>5822</ds:january>
+    <ds:february>4780</ds:february>
+    <ds:march>6029</ds:march>
+    <ds:april>5261</ds:april>
+    <ds:may>5666</ds:may>
+    <ds:ytd>27558</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/53">
+    <socrata:rowID>53</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>North Pulaski  </ds:location>
+    <ds:january>5187</ds:january>
+    <ds:february>4188</ds:february>
+    <ds:march>4918</ds:march>
+    <ds:april>5571</ds:april>
+    <ds:may>4327</ds:may>
+    <ds:ytd>24191</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/54">
+    <socrata:rowID>54</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Northtown </ds:location>
+    <ds:january>10028</ds:january>
+    <ds:february>8958</ds:february>
+    <ds:march>10069</ds:march>
+    <ds:april>11752</ds:april>
+    <ds:may>9881</ds:may>
+    <ds:ytd>50688</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/55">
+    <socrata:rowID>55</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Oriole Park*</ds:location>
+    <ds:january>7012</ds:january>
+    <ds:february>6269</ds:february>
+    <ds:march>7931</ds:march>
+    <ds:april>7721</ds:april>
+    <ds:may>6311</ds:may>
+    <ds:ytd>35244</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/56">
+    <socrata:rowID>56</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Portage-Cragin </ds:location>
+    <ds:january>6652</ds:january>
+    <ds:february>6829</ds:february>
+    <ds:march>9220</ds:march>
+    <ds:april>9553</ds:april>
+    <ds:may>6233</ds:may>
+    <ds:ytd>38487</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/57">
+    <socrata:rowID>57</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Pullman </ds:location>
+    <ds:january>6226</ds:january>
+    <ds:february>4874</ds:february>
+    <ds:march>5792</ds:march>
+    <ds:april>5936</ds:april>
+    <ds:may>5080</ds:may>
+    <ds:ytd>27908</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/58">
+    <socrata:rowID>58</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Roden</ds:location>
+    <ds:january>4656</ds:january>
+    <ds:february>8297</ds:february>
+    <ds:march>10143</ds:march>
+    <ds:april>8285</ds:april>
+    <ds:may>4542</ds:may>
+    <ds:ytd>35923</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/59">
+    <socrata:rowID>59</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Rogers Park </ds:location>
+    <ds:january>11735</ds:january>
+    <ds:february>11041</ds:february>
+    <ds:march>13999</ds:march>
+    <ds:april>14780</ds:april>
+    <ds:may>12205</ds:may>
+    <ds:ytd>63760</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/60">
+    <socrata:rowID>60</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Roosevelt*</ds:location>
+    <ds:january>7376</ds:january>
+    <ds:february>6124</ds:february>
+    <ds:march>8127</ds:march>
+    <ds:april>8173</ds:april>
+    <ds:may>6975</ds:may>
+    <ds:ytd>36775</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/61">
+    <socrata:rowID>61</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Scottsdale  </ds:location>
+    <ds:january>5004</ds:january>
+    <ds:february>5038</ds:february>
+    <ds:march>5305</ds:march>
+    <ds:april>6290</ds:april>
+    <ds:may>5110</ds:may>
+    <ds:ytd>26747</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/62">
+    <socrata:rowID>62</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Sherman Park </ds:location>
+    <ds:january>4949</ds:january>
+    <ds:february>3562</ds:february>
+    <ds:march>6214</ds:march>
+    <ds:april>5704</ds:april>
+    <ds:may>5135</ds:may>
+    <ds:ytd>25564</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/63">
+    <socrata:rowID>63</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>South Chicago </ds:location>
+    <ds:january>5875</ds:january>
+    <ds:february>5199</ds:february>
+    <ds:march>5685</ds:march>
+    <ds:april>6045</ds:april>
+    <ds:may>5557</ds:may>
+    <ds:ytd>28361</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/64">
+    <socrata:rowID>64</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>South Shore  </ds:location>
+    <ds:january>9697</ds:january>
+    <ds:february>7623</ds:february>
+    <ds:march>8978</ds:march>
+    <ds:april>8997</ds:april>
+    <ds:may>8111</ds:may>
+    <ds:ytd>43406</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/65">
+    <socrata:rowID>65</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Sulzer Regional*</ds:location>
+    <ds:january>38043</ds:january>
+    <ds:february>28492</ds:february>
+    <ds:march>34046</ds:march>
+    <ds:april>37660</ds:april>
+    <ds:may>31829</ds:may>
+    <ds:ytd>170070</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/66">
+    <socrata:rowID>66</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Thurgood Marshall*</ds:location>
+    <ds:january>9427</ds:january>
+    <ds:february>7513</ds:february>
+    <ds:march>9189</ds:march>
+    <ds:april>9886</ds:april>
+    <ds:may>5915</ds:may>
+    <ds:ytd>41930</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/67">
+    <socrata:rowID>67</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Toman* </ds:location>
+    <ds:january>6250</ds:january>
+    <ds:february>7031</ds:february>
+    <ds:march>9488</ds:march>
+    <ds:april>10412</ds:april>
+    <ds:may>7626</ds:may>
+    <ds:ytd>40807</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/68">
+    <socrata:rowID>68</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Uptown*</ds:location>
+    <ds:january>11162</ds:january>
+    <ds:february>9560</ds:february>
+    <ds:march>11699</ds:march>
+    <ds:april>12071</ds:april>
+    <ds:may>11151</ds:may>
+    <ds:ytd>55643</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/69">
+    <socrata:rowID>69</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Vodak-East Side*</ds:location>
+    <ds:january>6775</ds:january>
+    <ds:february>5797</ds:february>
+    <ds:march>7574</ds:march>
+    <ds:april>7643</ds:april>
+    <ds:may>6160</ds:may>
+    <ds:ytd>33949</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/70">
+    <socrata:rowID>70</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Walker </ds:location>
+    <ds:january>4171</ds:january>
+    <ds:february>4343</ds:february>
+    <ds:march>5153</ds:march>
+    <ds:april>5135</ds:april>
+    <ds:may>4307</ds:may>
+    <ds:ytd>23109</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/71">
+    <socrata:rowID>71</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Belmont </ds:location>
+    <ds:january>7637</ds:january>
+    <ds:february>7342</ds:february>
+    <ds:march>12172</ds:march>
+    <ds:april>13121</ds:april>
+    <ds:may>8249</ds:may>
+    <ds:ytd>48521</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/72">
+    <socrata:rowID>72</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Chicago Avenue*</ds:location>
+    <ds:january>6708</ds:january>
+    <ds:february>6179</ds:february>
+    <ds:march>6852</ds:march>
+    <ds:april>7052</ds:april>
+    <ds:may>5250</ds:may>
+    <ds:ytd>32041</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/73">
+    <socrata:rowID>73</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Englewood*</ds:location>
+    <ds:january>9119</ds:january>
+    <ds:february>8820</ds:february>
+    <ds:march>10792</ds:march>
+    <ds:april>10208</ds:april>
+    <ds:may>10303</ds:may>
+    <ds:ytd>49242</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/74">
+    <socrata:rowID>74</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Lawn </ds:location>
+    <ds:january>6694</ds:january>
+    <ds:february>6075</ds:february>
+    <ds:march>6880</ds:march>
+    <ds:april>8242</ds:april>
+    <ds:may>6173</ds:may>
+    <ds:ytd>34064</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/75">
+    <socrata:rowID>75</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Pullman*</ds:location>
+    <ds:january>6823</ds:january>
+    <ds:february>6264</ds:february>
+    <ds:march>6552</ds:march>
+    <ds:april>9994</ds:april>
+    <ds:may>5682</ds:may>
+    <ds:ytd>35315</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/76">
+    <socrata:rowID>76</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>West Town</ds:location>
+    <ds:january>10647</ds:january>
+    <ds:february>10487</ds:february>
+    <ds:march>11907</ds:march>
+    <ds:april>10842</ds:april>
+    <ds:may>9905</ds:may>
+    <ds:ytd>53788</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/77">
+    <socrata:rowID>77</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Whitney M. Young, Jr. </ds:location>
+    <ds:january>8239</ds:january>
+    <ds:february>8297</ds:february>
+    <ds:march>9932</ds:march>
+    <ds:april>9707</ds:april>
+    <ds:may>7282</ds:may>
+    <ds:ytd>43457</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/78">
+    <socrata:rowID>78</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Woodson Regional</ds:location>
+    <ds:january>21402</ds:january>
+    <ds:february>19486</ds:february>
+    <ds:march>27425</ds:march>
+    <ds:april>30405</ds:april>
+    <ds:may>25158</ds:may>
+    <ds:ytd>123876</ds:ytd></dsbase:_7imc-umy4>
+<dsbase:_7imc-umy4 rdf:about="http://data.cityofchicago.org/resource/_7imc-umy4/79">
+    <socrata:rowID>79</socrata:rowID>
+    <rdfs:member rdf:resource="http://data.cityofchicago.org/resource/_7imc-umy4"/>
+    <ds:location>Wrightwood-Ashburn*</ds:location>
+    <ds:january>5600</ds:january>
+    <ds:february>5495</ds:february>
+    <ds:march>6611</ds:march>
+    <ds:april>6720</ds:april>
+    <ds:may>5233</ds:may>
+    <ds:ytd>29659</ds:ytd></dsbase:_7imc-umy4></rdf:RDF>
