@@ -1,0 +1,6997 @@
+Area,Year,Deaths
+New England,2014,517
+"Boston, MA",2014,108
+"Bridgeport, CT",2014,42
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,20
+"Hartford, CT",2014,45
+"Lowell, MA",2014,26
+"Lynn, MA",2014,3
+"New Bedford, MA",2014,25
+"New Haven, CT",2014,34
+"Providence, RI",2014,52
+"Somerville, MA",2014,2
+"Springfield, MA",2014,32
+"Waterbury, CT",2014,31
+"Worcester, MA",2014,78
+Mid. Atlantic,2014,2026
+"Albany, NY",2014,49
+"Allentown, PA",2014,24
+"Buffalo, NY",2014,167
+"Camden, NJ",2014,22
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,34
+"Jersey City, NJ",2014,21
+"New York City, NY",2014,1073
+"Newark, NJ",2014,53
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,63
+"Reading, PA",2014,43
+"Rochester, NY",2014,153
+"Schenectady, NY",2014,28
+"Scranton, PA",2014,36
+"Syracuse, NY",2014,150
+"Trenton, NJ",2014,44
+"Utica, NY",2014,10
+"Yonkers, NY",2014,17
+E.N. Central,2014,1453
+"Akron, OH",2014,42
+"Canton, OH",2014,28
+"Chicago, IL",2014,63
+"Cincinnati, OH",2014,64
+"Cleveland, OH",2014,217
+"Columbus, OH",2014,160
+"Dayton, OH",2014,116
+"Detroit, MI",2014,
+"Evansville, IN",2014,51
+"Fort Wayne, IN",2014,75
+"Gary, IN",2014,6
+"Grand Rapids, MI",2014,55
+"Indianapolis, IN",2014,159
+"Lansing, MI",2014,31
+"Milwaukee, WI",2014,89
+"Peoria, IL",2014,56
+"Rockford, IL",2014,74
+"South Bend, IN",2014,27
+"Toledo, OH",2014,82
+"Youngstown, OH",2014,58
+W.N. Central,2014,543
+"Des Moines, IA",2014,59
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,24
+"Kansas City, MO",2014,72
+"Lincoln, NC",2014,43
+"Minneapolis, MN",2014,55
+"Omaha, NE",2014,67
+"St. Louis, MO",2014,61
+"St. Paul, MN",2014,66
+"Wichita, KS",2014,70
+S. Atlantic,2014,966
+"Atlanta, GA",2014,114
+"Baltimore, MD",2014,73
+"Charlotte, NC",2014,136
+"Jacksonville, FL",2014,173
+"Miami, FL",2014,53
+"Norfolk, VA",2014,63
+"Richmond, VA",2014,42
+"Savannah, GA",2014,41
+"St. Petersburg, FL",2014,57
+"Tampa, FL",2014,103
+"Washington, D.C.",2014,99
+"Wilmington, DE",2014,12
+E.S. Central,2014,753
+"Birmingham, AL",2014,153
+"Chattanooga, TN",2014,70
+"Knoxville, TN",2014,73
+"Lexington, KY",2014,40
+"Memphis, TN",2014,147
+"Mobile, AL",2014,84
+"Montgomery, AL",2014,41
+"Nashville, TN",2014,145
+W.S. Central,2014,1267
+"Austin, TX",2014,104
+"Baton Rouge, LA",2014,87
+"Corpus Christi, TX",2014,53
+"Dallas, TX",2014,223
+"El Paso, TX",2014,46
+"Fort Worth, TX",2014,
+"Houston, TX",2014,538
+"Little Rock, AR",2014,64
+"New Orleans, LA",2014,33
+"San Antonio, TX",2014,25
+"Shreveport, LA",2014,43
+"Tulsa, OK",2014,51
+Mountain,2014,1135
+"Albuquerque, NM",2014,104
+"Boise, ID",2014,73
+"Colorado Springs, CO",2014,100
+"Denver, CO",2014,67
+"Las Vegas, NV",2014,404
+"Ogden, UT",2014,44
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,26
+"Salt Lake City, UT",2014,139
+"Tucson, AZ",2014,178
+Pacific,2014,1649
+"Berkeley, CA",2014,15
+"Fresno, CA",2014,137
+"Glendale, CA",2014,29
+"Honolulu, HI",2014,64
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,224
+"Pasadena, CA",2014,27
+"Portland, OR",2014,112
+"Sacramento, CA",2014,207
+"San Diego, CA",2014,166
+"San Francisco, CA",2014,108
+"San Jose, CA",2014,196
+"Santa Cruz, CA",2014,34
+"Seattle, WA",2014,111
+"Spokane, WA",2014,71
+"Tacoma, WA",2014,93
+Totalå¦,2014,10309
+New England,2014,694
+"Boston, MA",2014,181
+"Bridgeport, CT",2014,26
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,25
+"Hartford, CT",2014,68
+"Lowell, MA",2014,26
+"Lynn, MA",2014,7
+"New Bedford, MA",2014,23
+"New Haven, CT",2014,47
+"Providence, RI",2014,131
+"Somerville, MA",2014,3
+"Springfield, MA",2014,32
+"Waterbury, CT",2014,38
+"Worcester, MA",2014,72
+Mid. Atlantic,2014,1744
+"Albany, NY",2014,48
+"Allentown, PA",2014,32
+"Buffalo, NY",2014,82
+"Camden, NJ",2014,31
+"Elizabeth, NJ",2014,18
+"Erie, PA",2014,50
+"Jersey City, NJ",2014,25
+"New York City, NY",2014,960
+"Newark, NJ",2014,47
+"Paterson, NJ",2014,22
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,49
+"Reading, PA",2014,43
+"Rochester, NY",2014,151
+"Schenectady, NY",2014,29
+"Scranton, PA",2014,45
+"Syracuse, NY",2014,61
+"Trenton, NJ",2014,15
+"Utica, NY",2014,14
+"Yonkers, NY",2014,22
+E.N. Central,2014,1922
+"Akron, OH",2014,62
+"Canton, OH",2014,42
+"Chicago, IL",2014,
+"Cincinnati, OH",2014,83
+"Cleveland, OH",2014,331
+"Columbus, OH",2014,295
+"Dayton, OH",2014,179
+"Detroit, MI",2014,
+"Evansville, IN",2014,59
+"Fort Wayne, IN",2014,79
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,81
+"Indianapolis, IN",2014,153
+"Lansing, MI",2014,92
+"Milwaukee, WI",2014,110
+"Peoria, IL",2014,42
+"Rockford, IL",2014,72
+"South Bend, IN",2014,65
+"Toledo, OH",2014,86
+"Youngstown, OH",2014,77
+W.N. Central,2014,737
+"Des Moines, IA",2014,65
+"Duluth, MN",2014,36
+"Kansas City, KS",2014,40
+"Kansas City, MO",2014,124
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,71
+"Omaha, NE",2014,116
+"St. Louis, MO",2014,56
+"St. Paul, MN",2014,83
+"Wichita, KS",2014,96
+S. Atlantic,2014,1263
+"Atlanta, GA",2014,159
+"Baltimore, MD",2014,139
+"Charlotte, NC",2014,182
+"Jacksonville, FL",2014,166
+"Miami, FL",2014,70
+"Norfolk, VA",2014,84
+"Richmond, VA",2014,87
+"Savannah, GA",2014,71
+"St. Petersburg, FL",2014,50
+"Tampa, FL",2014,113
+"Washington, D.C.",2014,127
+"Wilmington, DE",2014,15
+E.S. Central,2014,1221
+"Birmingham, AL",2014,280
+"Chattanooga, TN",2014,113
+"Knoxville, TN",2014,112
+"Lexington, KY",2014,92
+"Memphis, TN",2014,229
+"Mobile, AL",2014,121
+"Montgomery, AL",2014,82
+"Nashville, TN",2014,192
+W.S. Central,2014,2055
+"Austin, TX",2014,138
+"Baton Rouge, LA",2014,157
+"Corpus Christi, TX",2014,78
+"Dallas, TX",2014,303
+"El Paso, TX",2014,138
+"Fort Worth, TX",2014,
+"Houston, TX",2014,556
+"Little Rock, AR",2014,102
+"New Orleans, LA",2014,95
+"San Antonio, TX",2014,327
+"Shreveport, LA",2014,103
+"Tulsa, OK",2014,58
+Mountain,2014,1210
+"Albuquerque, NM",2014,143
+"Boise, ID",2014,74
+"Colorado Springs, CO",2014,112
+"Denver, CO",2014,97
+"Las Vegas, NV",2014,346
+"Ogden, UT",2014,39
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,41
+"Salt Lake City, UT",2014,178
+"Tucson, AZ",2014,180
+Pacific,2014,2159
+"Berkeley, CA",2014,15
+"Fresno, CA",2014,176
+"Glendale, CA",2014,47
+"Honolulu, HI",2014,94
+"Long Beach, CA",2014,81
+"Los Angeles, CA",2014,289
+"Pasadena, CA",2014,31
+"Portland, OR",2014,144
+"Sacramento, CA",2014,284
+"San Diego, CA",2014,188
+"San Francisco, CA",2014,139
+"San Jose, CA",2014,277
+"Santa Cruz, CA",2014,31
+"Seattle, WA",2014,156
+"Spokane, WA",2014,70
+"Tacoma, WA",2014,137
+Totalå¦,2014,13005
+New England,2014,628
+"Boston, MA",2014,168
+"Bridgeport, CT",2014,46
+"Cambridge, MA",2014,23
+"Fall River, MA",2014,23
+"Hartford, CT",2014,59
+"Lowell, MA",2014,31
+"Lynn, MA",2014,11
+"New Bedford, MA",2014,27
+"New Haven, CT",2014,49
+"Providence, RI",2014,76
+"Somerville, MA",2014,5
+"Springfield, MA",2014,26
+"Waterbury, CT",2014,30
+"Worcester, MA",2014,54
+Mid. Atlantic,2014,2238
+"Albany, NY",2014,57
+"Allentown, PA",2014,26
+"Buffalo, NY",2014,96
+"Camden, NJ",2014,
+"Elizabeth, NJ",2014,28
+"Erie, PA",2014,53
+"Jersey City, NJ",2014,26
+"New York City, NY",2014,1485
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,50
+"Reading, PA",2014,35
+"Rochester, NY",2014,172
+"Schenectady, NY",2014,29
+"Scranton, PA",2014,31
+"Syracuse, NY",2014,75
+"Trenton, NJ",2014,
+"Utica, NY",2014,20
+"Yonkers, NY",2014,23
+E.N. Central,2014,2559
+"Akron, OH",2014,55
+"Canton, OH",2014,51
+"Chicago, IL",2014,321
+"Cincinnati, OH",2014,110
+"Cleveland, OH",2014,378
+"Columbus, OH",2014,327
+"Dayton, OH",2014,159
+"Detroit, MI",2014,
+"Evansville, IN",2014,57
+"Fort Wayne, IN",2014,98
+"Gary, IN",2014,17
+"Grand Rapids, MI",2014,75
+"Indianapolis, IN",2014,302
+"Lansing, MI",2014,67
+"Milwaukee, WI",2014,97
+"Peoria, IL",2014,62
+"Rockford, IL",2014,65
+"South Bend, IN",2014,73
+"Toledo, OH",2014,166
+"Youngstown, OH",2014,79
+W.N. Central,2014,843
+"Des Moines, IA",2014,77
+"Duluth, MN",2014,35
+"Kansas City, KS",2014,41
+"Kansas City, MO",2014,125
+"Lincoln, NC",2014,51
+"Minneapolis, MN",2014,84
+"Omaha, NE",2014,118
+"St. Louis, MO",2014,134
+"St. Paul, MN",2014,66
+"Wichita, KS",2014,112
+S. Atlantic,2014,1211
+"Atlanta, GA",2014,230
+"Baltimore, MD",2014,160
+"Charlotte, NC",2014,161
+"Jacksonville, FL",2014,220
+"Miami, FL",2014,49
+"Norfolk, VA",2014,50
+"Richmond, VA",2014,56
+"Savannah, GA",2014,92
+"St. Petersburg, FL",2014,57
+"Tampa, FL",2014,118
+"Washington, D.C.",2014,
+"Wilmington, DE",2014,18
+E.S. Central,2014,1148
+"Birmingham, AL",2014,170
+"Chattanooga, TN",2014,143
+"Knoxville, TN",2014,139
+"Lexington, KY",2014,86
+"Memphis, TN",2014,217
+"Mobile, AL",2014,120
+"Montgomery, AL",2014,74
+"Nashville, TN",2014,199
+W.S. Central,2014,1848
+"Austin, TX",2014,129
+"Baton Rouge, LA",2014,114
+"Corpus Christi, TX",2014,100
+"Dallas, TX",2014,247
+"El Paso, TX",2014,170
+"Fort Worth, TX",2014,
+"Houston, TX",2014,471
+"Little Rock, AR",2014,
+"New Orleans, LA",2014,80
+"San Antonio, TX",2014,361
+"Shreveport, LA",2014,106
+"Tulsa, OK",2014,70
+Mountain,2014,1156
+"Albuquerque, NM",2014,198
+"Boise, ID",2014,54
+"Colorado Springs, CO",2014,96
+"Denver, CO",2014,140
+"Las Vegas, NV",2014,278
+"Ogden, UT",2014,34
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,35
+"Salt Lake City, UT",2014,128
+"Tucson, AZ",2014,193
+Pacific,2014,2051
+"Berkeley, CA",2014,17
+"Fresno, CA",2014,171
+"Glendale, CA",2014,38
+"Honolulu, HI",2014,75
+"Long Beach, CA",2014,75
+"Los Angeles, CA",2014,278
+"Pasadena, CA",2014,27
+"Portland, OR",2014,146
+"Sacramento, CA",2014,285
+"San Diego, CA",2014,178
+"San Francisco, CA",2014,121
+"San Jose, CA",2014,274
+"Santa Cruz, CA",2014,42
+"Seattle, WA",2014,116
+"Spokane, WA",2014,75
+"Tacoma, WA",2014,133
+Totalå¦,2014,13682
+New England,2014,529
+"Boston, MA",2014,157
+"Bridgeport, CT",2014,30
+"Cambridge, MA",2014,14
+"Fall River, MA",2014,17
+"Hartford, CT",2014,35
+"Lowell, MA",2014,25
+"Lynn, MA",2014,9
+"New Bedford, MA",2014,33
+"New Haven, CT",2014,33
+"Providence, RI",2014,45
+"Somerville, MA",2014,2
+"Springfield, MA",2014,44
+"Waterbury, CT",2014,21
+"Worcester, MA",2014,64
+Mid. Atlantic,2014,1802
+"Albany, NY",2014,39
+"Allentown, PA",2014,37
+"Buffalo, NY",2014,96
+"Camden, NJ",2014,27
+"Elizabeth, NJ",2014,23
+"Erie, PA",2014,57
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,1029
+"Newark, NJ",2014,33
+"Paterson, NJ",2014,12
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,30
+"Rochester, NY",2014,185
+"Schenectady, NY",2014,33
+"Scranton, PA",2014,23
+"Syracuse, NY",2014,72
+"Trenton, NJ",2014,13
+"Utica, NY",2014,19
+"Yonkers, NY",2014,14
+E.N. Central,2014,2084
+"Akron, OH",2014,67
+"Canton, OH",2014,36
+"Chicago, IL",2014,303
+"Cincinnati, OH",2014,93
+"Cleveland, OH",2014,261
+"Columbus, OH",2014,159
+"Dayton, OH",2014,145
+"Detroit, MI",2014,
+"Evansville, IN",2014,51
+"Fort Wayne, IN",2014,95
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,69
+"Indianapolis, IN",2014,257
+"Lansing, MI",2014,52
+"Milwaukee, WI",2014,87
+"Peoria, IL",2014,72
+"Rockford, IL",2014,58
+"South Bend, IN",2014,66
+"Toledo, OH",2014,138
+"Youngstown, OH",2014,61
+W.N. Central,2014,793
+"Des Moines, IA",2014,102
+"Duluth, MN",2014,33
+"Kansas City, KS",2014,46
+"Kansas City, MO",2014,102
+"Lincoln, NC",2014,55
+"Minneapolis, MN",2014,79
+"Omaha, NE",2014,88
+"St. Louis, MO",2014,91
+"St. Paul, MN",2014,64
+"Wichita, KS",2014,133
+S. Atlantic,2014,987
+"Atlanta, GA",2014,
+"Baltimore, MD",2014,205
+"Charlotte, NC",2014,133
+"Jacksonville, FL",2014,188
+"Miami, FL",2014,68
+"Norfolk, VA",2014,
+"Richmond, VA",2014,81
+"Savannah, GA",2014,52
+"St. Petersburg, FL",2014,59
+"Tampa, FL",2014,130
+"Washington, D.C.",2014,60
+"Wilmington, DE",2014,11
+E.S. Central,2014,1043
+"Birmingham, AL",2014,194
+"Chattanooga, TN",2014,110
+"Knoxville, TN",2014,112
+"Lexington, KY",2014,68
+"Memphis, TN",2014,207
+"Mobile, AL",2014,120
+"Montgomery, AL",2014,47
+"Nashville, TN",2014,185
+W.S. Central,2014,1215
+"Austin, TX",2014,77
+"Baton Rouge, LA",2014,
+"Corpus Christi, TX",2014,69
+"Dallas, TX",2014,250
+"El Paso, TX",2014,115
+"Fort Worth, TX",2014,
+"Houston, TX",2014,335
+"Little Rock, AR",2014,7
+"New Orleans, LA",2014,
+"San Antonio, TX",2014,314
+"Shreveport, LA",2014,
+"Tulsa, OK",2014,48
+Mountain,2014,1188
+"Albuquerque, NM",2014,141
+"Boise, ID",2014,61
+"Colorado Springs, CO",2014,97
+"Denver, CO",2014,89
+"Las Vegas, NV",2014,362
+"Ogden, UT",2014,41
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,39
+"Salt Lake City, UT",2014,170
+"Tucson, AZ",2014,188
+Pacific,2014,1841
+"Berkeley, CA",2014,18
+"Fresno, CA",2014,145
+"Glendale, CA",2014,40
+"Honolulu, HI",2014,86
+"Long Beach, CA",2014,54
+"Los Angeles, CA",2014,297
+"Pasadena, CA",2014,20
+"Portland, OR",2014,124
+"Sacramento, CA",2014,217
+"San Diego, CA",2014,153
+"San Francisco, CA",2014,115
+"San Jose, CA",2014,228
+"Santa Cruz, CA",2014,35
+"Seattle, WA",2014,110
+"Spokane, WA",2014,75
+"Tacoma, WA",2014,124
+Totalå¦,2014,11482
+New England,2014,628
+"Boston, MA",2014,165
+"Bridgeport, CT",2014,43
+"Cambridge, MA",2014,16
+"Fall River, MA",2014,28
+"Hartford, CT",2014,62
+"Lowell, MA",2014,24
+"Lynn, MA",2014,9
+"New Bedford, MA",2014,21
+"New Haven, CT",2014,39
+"Providence, RI",2014,72
+"Somerville, MA",2014,5
+"Springfield, MA",2014,53
+"Waterbury, CT",2014,31
+"Worcester, MA",2014,60
+Mid. Atlantic,2014,1923
+"Albany, NY",2014,58
+"Allentown, PA",2014,25
+"Buffalo, NY",2014,107
+"Camden, NJ",2014,16
+"Elizabeth, NJ",2014,14
+"Erie, PA",2014,74
+"Jersey City, NJ",2014,29
+"New York City, NY",2014,1171
+"Newark, NJ",2014,30
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,49
+"Reading, PA",2014,33
+"Rochester, NY",2014,143
+"Schenectady, NY",2014,25
+"Scranton, PA",2014,33
+"Syracuse, NY",2014,90
+"Trenton, NJ",2014,
+"Utica, NY",2014,9
+"Yonkers, NY",2014,17
+E.N. Central,2014,2125
+"Akron, OH",2014,51
+"Canton, OH",2014,37
+"Chicago, IL",2014,270
+"Cincinnati, OH",2014,79
+"Cleveland, OH",2014,317
+"Columbus, OH",2014,286
+"Dayton, OH",2014,135
+"Detroit, MI",2014,
+"Evansville, IN",2014,51
+"Fort Wayne, IN",2014,103
+"Gary, IN",2014,13
+"Grand Rapids, MI",2014,51
+"Indianapolis, IN",2014,228
+"Lansing, MI",2014,74
+"Milwaukee, WI",2014,73
+"Peoria, IL",2014,70
+"Rockford, IL",2014,63
+"South Bend, IN",2014,51
+"Toledo, OH",2014,109
+"Youngstown, OH",2014,64
+W.N. Central,2014,840
+"Des Moines, IA",2014,119
+"Duluth, MN",2014,28
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,142
+"Lincoln, NC",2014,44
+"Minneapolis, MN",2014,84
+"Omaha, NE",2014,103
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,65
+"Wichita, KS",2014,131
+S. Atlantic,2014,983
+"Atlanta, GA",2014,74
+"Baltimore, MD",2014,
+"Charlotte, NC",2014,143
+"Jacksonville, FL",2014,174
+"Miami, FL",2014,80
+"Norfolk, VA",2014,50
+"Richmond, VA",2014,56
+"Savannah, GA",2014,44
+"St. Petersburg, FL",2014,71
+"Tampa, FL",2014,125
+"Washington, D.C.",2014,151
+"Wilmington, DE",2014,15
+E.S. Central,2014,1049
+"Birmingham, AL",2014,146
+"Chattanooga, TN",2014,98
+"Knoxville, TN",2014,148
+"Lexington, KY",2014,93
+"Memphis, TN",2014,252
+"Mobile, AL",2014,75
+"Montgomery, AL",2014,54
+"Nashville, TN",2014,183
+W.S. Central,2014,1756
+"Austin, TX",2014,133
+"Baton Rouge, LA",2014,67
+"Corpus Christi, TX",2014,75
+"Dallas, TX",2014,264
+"El Paso, TX",2014,141
+"Fort Worth, TX",2014,
+"Houston, TX",2014,523
+"Little Rock, AR",2014,15
+"New Orleans, LA",2014,45
+"San Antonio, TX",2014,324
+"Shreveport, LA",2014,92
+"Tulsa, OK",2014,77
+Mountain,2014,1150
+"Albuquerque, NM",2014,160
+"Boise, ID",2014,63
+"Colorado Springs, CO",2014,76
+"Denver, CO",2014,99
+"Las Vegas, NV",2014,353
+"Ogden, UT",2014,38
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,37
+"Salt Lake City, UT",2014,147
+"Tucson, AZ",2014,177
+Pacific,2014,2045
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,152
+"Glendale, CA",2014,34
+"Honolulu, HI",2014,76
+"Long Beach, CA",2014,68
+"Los Angeles, CA",2014,293
+"Pasadena, CA",2014,36
+"Portland, OR",2014,120
+"Sacramento, CA",2014,277
+"San Diego, CA",2014,185
+"San Francisco, CA",2014,142
+"San Jose, CA",2014,259
+"Santa Cruz, CA",2014,38
+"Seattle, WA",2014,140
+"Spokane, WA",2014,73
+"Tacoma, WA",2014,139
+Totalå¦,2014,12499
+New England,2014,567
+"Boston, MA",2014,147
+"Bridgeport, CT",2014,28
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,30
+"Hartford, CT",2014,64
+"Lowell, MA",2014,20
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,25
+"New Haven, CT",2014,38
+"Providence, RI",2014,71
+"Somerville, MA",2014,1
+"Springfield, MA",2014,26
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,60
+Mid. Atlantic,2014,1868
+"Albany, NY",2014,44
+"Allentown, PA",2014,18
+"Buffalo, NY",2014,84
+"Camden, NJ",2014,17
+"Elizabeth, NJ",2014,20
+"Erie, PA",2014,58
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,1089
+"Newark, NJ",2014,53
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,54
+"Reading, PA",2014,26
+"Rochester, NY",2014,201
+"Schenectady, NY",2014,32
+"Scranton, PA",2014,17
+"Syracuse, NY",2014,92
+"Trenton, NJ",2014,
+"Utica, NY",2014,14
+"Yonkers, NY",2014,29
+E.N. Central,2014,1818
+"Akron, OH",2014,74
+"Canton, OH",2014,30
+"Chicago, IL",2014,
+"Cincinnati, OH",2014,81
+"Cleveland, OH",2014,258
+"Columbus, OH",2014,256
+"Dayton, OH",2014,158
+"Detroit, MI",2014,
+"Evansville, IN",2014,45
+"Fort Wayne, IN",2014,97
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,58
+"Indianapolis, IN",2014,252
+"Lansing, MI",2014,52
+"Milwaukee, WI",2014,102
+"Peoria, IL",2014,57
+"Rockford, IL",2014,58
+"South Bend, IN",2014,66
+"Toledo, OH",2014,95
+"Youngstown, OH",2014,68
+W.N. Central,2014,724
+"Des Moines, IA",2014,82
+"Duluth, MN",2014,35
+"Kansas City, KS",2014,35
+"Kansas City, MO",2014,92
+"Lincoln, NC",2014,48
+"Minneapolis, MN",2014,71
+"Omaha, NE",2014,100
+"St. Louis, MO",2014,90
+"St. Paul, MN",2014,68
+"Wichita, KS",2014,103
+S. Atlantic,2014,1205
+"Atlanta, GA",2014,179
+"Baltimore, MD",2014,
+"Charlotte, NC",2014,169
+"Jacksonville, FL",2014,186
+"Miami, FL",2014,84
+"Norfolk, VA",2014,76
+"Richmond, VA",2014,70
+"Savannah, GA",2014,100
+"St. Petersburg, FL",2014,83
+"Tampa, FL",2014,125
+"Washington, D.C.",2014,124
+"Wilmington, DE",2014,9
+E.S. Central,2014,1143
+"Birmingham, AL",2014,209
+"Chattanooga, TN",2014,96
+"Knoxville, TN",2014,163
+"Lexington, KY",2014,63
+"Memphis, TN",2014,219
+"Mobile, AL",2014,109
+"Montgomery, AL",2014,80
+"Nashville, TN",2014,204
+W.S. Central,2014,1756
+"Austin, TX",2014,88
+"Baton Rouge, LA",2014,136
+"Corpus Christi, TX",2014,61
+"Dallas, TX",2014,260
+"El Paso, TX",2014,138
+"Fort Worth, TX",2014,
+"Houston, TX",2014,531
+"Little Rock, AR",2014,14
+"New Orleans, LA",2014,73
+"San Antonio, TX",2014,288
+"Shreveport, LA",2014,107
+"Tulsa, OK",2014,60
+Mountain,2014,1148
+"Albuquerque, NM",2014,144
+"Boise, ID",2014,68
+"Colorado Springs, CO",2014,83
+"Denver, CO",2014,73
+"Las Vegas, NV",2014,351
+"Ogden, UT",2014,35
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,44
+"Salt Lake City, UT",2014,162
+"Tucson, AZ",2014,188
+Pacific,2014,1951
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,136
+"Glendale, CA",2014,42
+"Honolulu, HI",2014,97
+"Long Beach, CA",2014,80
+"Los Angeles, CA",2014,303
+"Pasadena, CA",2014,22
+"Portland, OR",2014,121
+"Sacramento, CA",2014,293
+"San Diego, CA",2014,160
+"San Francisco, CA",2014,110
+"San Jose, CA",2014,235
+"Santa Cruz, CA",2014,27
+"Seattle, WA",2014,119
+"Spokane, WA",2014,66
+"Tacoma, WA",2014,127
+Totalå¦,2014,12180
+New England,2014,520
+"Boston, MA",2014,159
+"Bridgeport, CT",2014,34
+"Cambridge, MA",2014,8
+"Fall River, MA",2014,29
+"Hartford, CT",2014,48
+"Lowell, MA",2014,26
+"Lynn, MA",2014,16
+"New Bedford, MA",2014,34
+"New Haven, CT",2014,37
+"Providence, RI",2014,
+"Somerville, MA",2014,3
+"Springfield, MA",2014,33
+"Waterbury, CT",2014,25
+"Worcester, MA",2014,68
+Mid. Atlantic,2014,1866
+"Albany, NY",2014,50
+"Allentown, PA",2014,36
+"Buffalo, NY",2014,112
+"Camden, NJ",2014,24
+"Elizabeth, NJ",2014,9
+"Erie, PA",2014,44
+"Jersey City, NJ",2014,
+"New York City, NY",2014,1130
+"Newark, NJ",2014,40
+"Paterson, NJ",2014,16
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,50
+"Reading, PA",2014,37
+"Rochester, NY",2014,161
+"Schenectady, NY",2014,35
+"Scranton, PA",2014,15
+"Syracuse, NY",2014,63
+"Trenton, NJ",2014,14
+"Utica, NY",2014,16
+"Yonkers, NY",2014,14
+E.N. Central,2014,2103
+"Akron, OH",2014,48
+"Canton, OH",2014,41
+"Chicago, IL",2014,317
+"Cincinnati, OH",2014,84
+"Cleveland, OH",2014,263
+"Columbus, OH",2014,257
+"Dayton, OH",2014,155
+"Detroit, MI",2014,126
+"Evansville, IN",2014,54
+"Fort Wayne, IN",2014,69
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,58
+"Indianapolis, IN",2014,212
+"Lansing, MI",2014,59
+"Milwaukee, WI",2014,81
+"Peoria, IL",2014,
+"Rockford, IL",2014,67
+"South Bend, IN",2014,47
+"Toledo, OH",2014,107
+"Youngstown, OH",2014,44
+W.N. Central,2014,728
+"Des Moines, IA",2014,75
+"Duluth, MN",2014,25
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,109
+"Lincoln, NC",2014,68
+"Minneapolis, MN",2014,66
+"Omaha, NE",2014,129
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,50
+"Wichita, KS",2014,82
+S. Atlantic,2014,1108
+"Atlanta, GA",2014,73
+"Baltimore, MD",2014,175
+"Charlotte, NC",2014,114
+"Jacksonville, FL",2014,169
+"Miami, FL",2014,83
+"Norfolk, VA",2014,57
+"Richmond, VA",2014,63
+"Savannah, GA",2014,90
+"St. Petersburg, FL",2014,70
+"Tampa, FL",2014,126
+"Washington, D.C.",2014,69
+"Wilmington, DE",2014,19
+E.S. Central,2014,925
+"Birmingham, AL",2014,204
+"Chattanooga, TN",2014,58
+"Knoxville, TN",2014,85
+"Lexington, KY",2014,78
+"Memphis, TN",2014,181
+"Mobile, AL",2014,123
+"Montgomery, AL",2014,39
+"Nashville, TN",2014,157
+W.S. Central,2014,1627
+"Austin, TX",2014,116
+"Baton Rouge, LA",2014,127
+"Corpus Christi, TX",2014,
+"Dallas, TX",2014,246
+"El Paso, TX",2014,148
+"Fort Worth, TX",2014,
+"Houston, TX",2014,365
+"Little Rock, AR",2014,117
+"New Orleans, LA",2014,91
+"San Antonio, TX",2014,285
+"Shreveport, LA",2014,76
+"Tulsa, OK",2014,56
+Mountain,2014,1288
+"Albuquerque, NM",2014,149
+"Boise, ID",2014,46
+"Colorado Springs, CO",2014,94
+"Denver, CO",2014,121
+"Las Vegas, NV",2014,297
+"Ogden, UT",2014,38
+"Phoenix, AZ",2014,175
+"Pueblo, CO",2014,28
+"Salt Lake City, UT",2014,142
+"Tucson, AZ",2014,198
+Pacific,2014,1979
+"Berkeley, CA",2014,15
+"Fresno, CA",2014,147
+"Glendale, CA",2014,41
+"Honolulu, HI",2014,80
+"Long Beach, CA",2014,62
+"Los Angeles, CA",2014,283
+"Pasadena, CA",2014,38
+"Portland, OR",2014,150
+"Sacramento, CA",2014,247
+"San Diego, CA",2014,187
+"San Francisco, CA",2014,131
+"San Jose, CA",2014,218
+"Santa Cruz, CA",2014,51
+"Seattle, WA",2014,117
+"Spokane, WA",2014,76
+"Tacoma, WA",2014,136
+Totalå¦,2014,12144
+New England,2014,634
+"Boston, MA",2014,155
+"Bridgeport, CT",2014,37
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,36
+"Hartford, CT",2014,65
+"Lowell, MA",2014,20
+"Lynn, MA",2014,8
+"New Bedford, MA",2014,25
+"New Haven, CT",2014,54
+"Providence, RI",2014,63
+"Somerville, MA",2014,3
+"Springfield, MA",2014,43
+"Waterbury, CT",2014,32
+"Worcester, MA",2014,80
+Mid. Atlantic,2014,1626
+"Albany, NY",2014,53
+"Allentown, PA",2014,39
+"Buffalo, NY",2014,93
+"Camden, NJ",2014,45
+"Elizabeth, NJ",2014,29
+"Erie, PA",2014,54
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,789
+"Newark, NJ",2014,30
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,52
+"Reading, PA",2014,42
+"Rochester, NY",2014,171
+"Schenectady, NY",2014,15
+"Scranton, PA",2014,36
+"Syracuse, NY",2014,91
+"Trenton, NJ",2014,
+"Utica, NY",2014,19
+"Yonkers, NY",2014,26
+E.N. Central,2014,1817
+"Akron, OH",2014,43
+"Canton, OH",2014,41
+"Chicago, IL",2014,242
+"Cincinnati, OH",2014,
+"Cleveland, OH",2014,239
+"Columbus, OH",2014,216
+"Dayton, OH",2014,119
+"Detroit, MI",2014,
+"Evansville, IN",2014,53
+"Fort Wayne, IN",2014,71
+"Gary, IN",2014,18
+"Grand Rapids, MI",2014,65
+"Indianapolis, IN",2014,187
+"Lansing, MI",2014,59
+"Milwaukee, WI",2014,86
+"Peoria, IL",2014,75
+"Rockford, IL",2014,53
+"South Bend, IN",2014,69
+"Toledo, OH",2014,103
+"Youngstown, OH",2014,78
+W.N. Central,2014,684
+"Des Moines, IA",2014,69
+"Duluth, MN",2014,31
+"Kansas City, KS",2014,24
+"Kansas City, MO",2014,107
+"Lincoln, NC",2014,46
+"Minneapolis, MN",2014,80
+"Omaha, NE",2014,92
+"St. Louis, MO",2014,73
+"St. Paul, MN",2014,61
+"Wichita, KS",2014,101
+S. Atlantic,2014,1180
+"Atlanta, GA",2014,171
+"Baltimore, MD",2014,152
+"Charlotte, NC",2014,202
+"Jacksonville, FL",2014,185
+"Miami, FL",2014,73
+"Norfolk, VA",2014,57
+"Richmond, VA",2014,71
+"Savannah, GA",2014,58
+"St. Petersburg, FL",2014,63
+"Tampa, FL",2014,119
+"Washington, D.C.",2014,11
+"Wilmington, DE",2014,18
+E.S. Central,2014,961
+"Birmingham, AL",2014,173
+"Chattanooga, TN",2014,113
+"Knoxville, TN",2014,136
+"Lexington, KY",2014,69
+"Memphis, TN",2014,154
+"Mobile, AL",2014,72
+"Montgomery, AL",2014,74
+"Nashville, TN",2014,170
+W.S. Central,2014,1585
+"Austin, TX",2014,99
+"Baton Rouge, LA",2014,134
+"Corpus Christi, TX",2014,61
+"Dallas, TX",2014,253
+"El Paso, TX",2014,104
+"Fort Worth, TX",2014,
+"Houston, TX",2014,384
+"Little Rock, AR",2014,45
+"New Orleans, LA",2014,92
+"San Antonio, TX",2014,285
+"Shreveport, LA",2014,73
+"Tulsa, OK",2014,55
+Mountain,2014,1240
+"Albuquerque, NM",2014,129
+"Boise, ID",2014,69
+"Colorado Springs, CO",2014,93
+"Denver, CO",2014,87
+"Las Vegas, NV",2014,307
+"Ogden, UT",2014,34
+"Phoenix, AZ",2014,149
+"Pueblo, CO",2014,50
+"Salt Lake City, UT",2014,145
+"Tucson, AZ",2014,177
+Pacific,2014,1684
+"Berkeley, CA",2014,21
+"Fresno, CA",2014,103
+"Glendale, CA",2014,36
+"Honolulu, HI",2014,69
+"Long Beach, CA",2014,69
+"Los Angeles, CA",2014,223
+"Pasadena, CA",2014,26
+"Portland, OR",2014,148
+"Sacramento, CA",2014,187
+"San Diego, CA",2014,164
+"San Francisco, CA",2014,103
+"San Jose, CA",2014,219
+"Santa Cruz, CA",2014,30
+"Seattle, WA",2014,103
+"Spokane, WA",2014,66
+"Tacoma, WA",2014,117
+Totalå¦,2014,11411
+New England,2014,641
+"Boston, MA",2014,137
+"Bridgeport, CT",2014,36
+"Cambridge, MA",2014,24
+"Fall River, MA",2014,24
+"Hartford, CT",2014,66
+"Lowell, MA",2014,20
+"Lynn, MA",2014,12
+"New Bedford, MA",2014,31
+"New Haven, CT",2014,40
+"Providence, RI",2014,84
+"Somerville, MA",2014,5
+"Springfield, MA",2014,47
+"Waterbury, CT",2014,41
+"Worcester, MA",2014,74
+Mid. Atlantic,2014,2003
+"Albany, NY",2014,58
+"Allentown, PA",2014,44
+"Buffalo, NY",2014,98
+"Camden, NJ",2014,
+"Elizabeth, NJ",2014,14
+"Erie, PA",2014,87
+"Jersey City, NJ",2014,14
+"New York City, NY",2014,1176
+"Newark, NJ",2014,43
+"Paterson, NJ",2014,18
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,53
+"Reading, PA",2014,35
+"Rochester, NY",2014,172
+"Schenectady, NY",2014,27
+"Scranton, PA",2014,36
+"Syracuse, NY",2014,101
+"Trenton, NJ",2014,
+"Utica, NY",2014,12
+"Yonkers, NY",2014,15
+E.N. Central,2014,2136
+"Akron, OH",2014,60
+"Canton, OH",2014,41
+"Chicago, IL",2014,239
+"Cincinnati, OH",2014,95
+"Cleveland, OH",2014,278
+"Columbus, OH",2014,282
+"Dayton, OH",2014,163
+"Detroit, MI",2014,49
+"Evansville, IN",2014,57
+"Fort Wayne, IN",2014,79
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,48
+"Indianapolis, IN",2014,232
+"Lansing, MI",2014,44
+"Milwaukee, WI",2014,82
+"Peoria, IL",2014,72
+"Rockford, IL",2014,66
+"South Bend, IN",2014,41
+"Toledo, OH",2014,121
+"Youngstown, OH",2014,73
+W.N. Central,2014,669
+"Des Moines, IA",2014,60
+"Duluth, MN",2014,37
+"Kansas City, KS",2014,40
+"Kansas City, MO",2014,99
+"Lincoln, NC",2014,56
+"Minneapolis, MN",2014,61
+"Omaha, NE",2014,89
+"St. Louis, MO",2014,68
+"St. Paul, MN",2014,49
+"Wichita, KS",2014,110
+S. Atlantic,2014,1053
+"Atlanta, GA",2014,157
+"Baltimore, MD",2014,
+"Charlotte, NC",2014,163
+"Jacksonville, FL",2014,157
+"Miami, FL",2014,72
+"Norfolk, VA",2014,58
+"Richmond, VA",2014,63
+"Savannah, GA",2014,70
+"St. Petersburg, FL",2014,71
+"Tampa, FL",2014,129
+"Washington, D.C.",2014,98
+"Wilmington, DE",2014,15
+E.S. Central,2014,1159
+"Birmingham, AL",2014,210
+"Chattanooga, TN",2014,140
+"Knoxville, TN",2014,163
+"Lexington, KY",2014,77
+"Memphis, TN",2014,235
+"Mobile, AL",2014,114
+"Montgomery, AL",2014,53
+"Nashville, TN",2014,167
+W.S. Central,2014,1601
+"Austin, TX",2014,110
+"Baton Rouge, LA",2014,83
+"Corpus Christi, TX",2014,94
+"Dallas, TX",2014,248
+"El Paso, TX",2014,72
+"Fort Worth, TX",2014,
+"Houston, TX",2014,448
+"Little Rock, AR",2014,105
+"New Orleans, LA",2014,58
+"San Antonio, TX",2014,254
+"Shreveport, LA",2014,74
+"Tulsa, OK",2014,55
+Mountain,2014,1314
+"Albuquerque, NM",2014,148
+"Boise, ID",2014,70
+"Colorado Springs, CO",2014,79
+"Denver, CO",2014,106
+"Las Vegas, NV",2014,331
+"Ogden, UT",2014,35
+"Phoenix, AZ",2014,188
+"Pueblo, CO",2014,32
+"Salt Lake City, UT",2014,122
+"Tucson, AZ",2014,203
+Pacific,2014,1933
+"Berkeley, CA",2014,16
+"Fresno, CA",2014,135
+"Glendale, CA",2014,27
+"Honolulu, HI",2014,101
+"Long Beach, CA",2014,58
+"Los Angeles, CA",2014,270
+"Pasadena, CA",2014,17
+"Portland, OR",2014,127
+"Sacramento, CA",2014,280
+"San Diego, CA",2014,191
+"San Francisco, CA",2014,115
+"San Jose, CA",2014,232
+"Santa Cruz, CA",2014,45
+"Seattle, WA",2014,149
+"Spokane, WA",2014,54
+"Tacoma, WA",2014,116
+Totalå¦,2014,12509
+New England,2014,571
+"Boston, MA",2014,128
+"Bridgeport, CT",2014,43
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,18
+"Hartford, CT",2014,60
+"Lowell, MA",2014,23
+"Lynn, MA",2014,16
+"New Bedford, MA",2014,24
+"New Haven, CT",2014,31
+"Providence, RI",2014,64
+"Somerville, MA",2014,2
+"Springfield, MA",2014,44
+"Waterbury, CT",2014,29
+"Worcester, MA",2014,76
+Mid. Atlantic,2014,1930
+"Albany, NY",2014,60
+"Allentown, PA",2014,53
+"Buffalo, NY",2014,76
+"Camden, NJ",2014,33
+"Elizabeth, NJ",2014,19
+"Erie, PA",2014,54
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,1177
+"Newark, NJ",2014,25
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,31
+"Reading, PA",2014,32
+"Rochester, NY",2014,137
+"Schenectady, NY",2014,20
+"Scranton, PA",2014,28
+"Syracuse, NY",2014,96
+"Trenton, NJ",2014,19
+"Utica, NY",2014,13
+"Yonkers, NY",2014,20
+E.N. Central,2014,1970
+"Akron, OH",2014,46
+"Canton, OH",2014,36
+"Chicago, IL",2014,282
+"Cincinnati, OH",2014,93
+"Cleveland, OH",2014,280
+"Columbus, OH",2014,157
+"Dayton, OH",2014,122
+"Detroit, MI",2014,103
+"Evansville, IN",2014,51
+"Fort Wayne, IN",2014,79
+"Gary, IN",2014,8
+"Grand Rapids, MI",2014,62
+"Indianapolis, IN",2014,177
+"Lansing, MI",2014,50
+"Milwaukee, WI",2014,102
+"Peoria, IL",2014,62
+"Rockford, IL",2014,58
+"South Bend, IN",2014,49
+"Toledo, OH",2014,93
+"Youngstown, OH",2014,60
+W.N. Central,2014,712
+"Des Moines, IA",2014,79
+"Duluth, MN",2014,25
+"Kansas City, KS",2014,28
+"Kansas City, MO",2014,113
+"Lincoln, NC",2014,41
+"Minneapolis, MN",2014,69
+"Omaha, NE",2014,96
+"St. Louis, MO",2014,85
+"St. Paul, MN",2014,80
+"Wichita, KS",2014,96
+S. Atlantic,2014,1012
+"Atlanta, GA",2014,147
+"Baltimore, MD",2014,
+"Charlotte, NC",2014,171
+"Jacksonville, FL",2014,138
+"Miami, FL",2014,71
+"Norfolk, VA",2014,43
+"Richmond, VA",2014,58
+"Savannah, GA",2014,95
+"St. Petersburg, FL",2014,52
+"Tampa, FL",2014,103
+"Washington, D.C.",2014,116
+"Wilmington, DE",2014,18
+E.S. Central,2014,971
+"Birmingham, AL",2014,193
+"Chattanooga, TN",2014,99
+"Knoxville, TN",2014,90
+"Lexington, KY",2014,97
+"Memphis, TN",2014,194
+"Mobile, AL",2014,82
+"Montgomery, AL",2014,54
+"Nashville, TN",2014,162
+W.S. Central,2014,1738
+"Austin, TX",2014,106
+"Baton Rouge, LA",2014,88
+"Corpus Christi, TX",2014,75
+"Dallas, TX",2014,209
+"El Paso, TX",2014,131
+"Fort Worth, TX",2014,
+"Houston, TX",2014,482
+"Little Rock, AR",2014,102
+"New Orleans, LA",2014,55
+"San Antonio, TX",2014,351
+"Shreveport, LA",2014,89
+"Tulsa, OK",2014,50
+Mountain,2014,1338
+"Albuquerque, NM",2014,172
+"Boise, ID",2014,64
+"Colorado Springs, CO",2014,94
+"Denver, CO",2014,81
+"Las Vegas, NV",2014,330
+"Ogden, UT",2014,43
+"Phoenix, AZ",2014,205
+"Pueblo, CO",2014,37
+"Salt Lake City, UT",2014,140
+"Tucson, AZ",2014,172
+Pacific,2014,1826
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,137
+"Glendale, CA",2014,38
+"Honolulu, HI",2014,90
+"Long Beach, CA",2014,48
+"Los Angeles, CA",2014,249
+"Pasadena, CA",2014,19
+"Portland, OR",2014,150
+"Sacramento, CA",2014,230
+"San Diego, CA",2014,163
+"San Francisco, CA",2014,120
+"San Jose, CA",2014,217
+"Santa Cruz, CA",2014,40
+"Seattle, WA",2014,116
+"Spokane, WA",2014,63
+"Tacoma, WA",2014,135
+Totalå¦,2014,12068
+New England,2014,620
+"Boston, MA",2014,191
+"Bridgeport, CT",2014,40
+"Cambridge, MA",2014,8
+"Fall River, MA",2014,24
+"Hartford, CT",2014,50
+"Lowell, MA",2014,19
+"Lynn, MA",2014,14
+"New Bedford, MA",2014,33
+"New Haven, CT",2014,32
+"Providence, RI",2014,75
+"Somerville, MA",2014,1
+"Springfield, MA",2014,43
+"Waterbury, CT",2014,24
+"Worcester, MA",2014,66
+Mid. Atlantic,2014,1605
+"Albany, NY",2014,50
+"Allentown, PA",2014,39
+"Buffalo, NY",2014,99
+"Camden, NJ",2014,30
+"Elizabeth, NJ",2014,20
+"Erie, PA",2014,52
+"Jersey City, NJ",2014,18
+"New York City, NY",2014,914
+"Newark, NJ",2014,
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,49
+"Reading, PA",2014,32
+"Rochester, NY",2014,122
+"Schenectady, NY",2014,20
+"Scranton, PA",2014,42
+"Syracuse, NY",2014,65
+"Trenton, NJ",2014,22
+"Utica, NY",2014,14
+"Yonkers, NY",2014,17
+E.N. Central,2014,2090
+"Akron, OH",2014,48
+"Canton, OH",2014,39
+"Chicago, IL",2014,261
+"Cincinnati, OH",2014,80
+"Cleveland, OH",2014,245
+"Columbus, OH",2014,295
+"Dayton, OH",2014,161
+"Detroit, MI",2014,91
+"Evansville, IN",2014,54
+"Fort Wayne, IN",2014,66
+"Gary, IN",2014,10
+"Grand Rapids, MI",2014,64
+"Indianapolis, IN",2014,215
+"Lansing, MI",2014,54
+"Milwaukee, WI",2014,95
+"Peoria, IL",2014,60
+"Rockford, IL",2014,60
+"South Bend, IN",2014,63
+"Toledo, OH",2014,71
+"Youngstown, OH",2014,58
+W.N. Central,2014,685
+"Des Moines, IA",2014,106
+"Duluth, MN",2014,33
+"Kansas City, KS",2014,43
+"Kansas City, MO",2014,86
+"Lincoln, NC",2014,44
+"Minneapolis, MN",2014,76
+"Omaha, NE",2014,103
+"St. Louis, MO",2014,73
+"St. Paul, MN",2014,36
+"Wichita, KS",2014,85
+S. Atlantic,2014,972
+"Atlanta, GA",2014,117
+"Baltimore, MD",2014,
+"Charlotte, NC",2014,134
+"Jacksonville, FL",2014,179
+"Miami, FL",2014,72
+"Norfolk, VA",2014,54
+"Richmond, VA",2014,65
+"Savannah, GA",2014,52
+"St. Petersburg, FL",2014,66
+"Tampa, FL",2014,115
+"Washington, D.C.",2014,99
+"Wilmington, DE",2014,19
+E.S. Central,2014,1047
+"Birmingham, AL",2014,181
+"Chattanooga, TN",2014,123
+"Knoxville, TN",2014,165
+"Lexington, KY",2014,97
+"Memphis, TN",2014,167
+"Mobile, AL",2014,110
+"Montgomery, AL",2014,36
+"Nashville, TN",2014,168
+W.S. Central,2014,1546
+"Austin, TX",2014,103
+"Baton Rouge, LA",2014,130
+"Corpus Christi, TX",2014,40
+"Dallas, TX",2014,210
+"El Paso, TX",2014,118
+"Fort Worth, TX",2014,
+"Houston, TX",2014,345
+"Little Rock, AR",2014,93
+"New Orleans, LA",2014,74
+"San Antonio, TX",2014,306
+"Shreveport, LA",2014,72
+"Tulsa, OK",2014,55
+Mountain,2014,1238
+"Albuquerque, NM",2014,149
+"Boise, ID",2014,69
+"Colorado Springs, CO",2014,81
+"Denver, CO",2014,103
+"Las Vegas, NV",2014,312
+"Ogden, UT",2014,32
+"Phoenix, AZ",2014,147
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,131
+"Tucson, AZ",2014,185
+Pacific,2014,1703
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,133
+"Glendale, CA",2014,30
+"Honolulu, HI",2014,83
+"Long Beach, CA",2014,76
+"Los Angeles, CA",2014,224
+"Pasadena, CA",2014,17
+"Portland, OR",2014,132
+"Sacramento, CA",2014,205
+"San Diego, CA",2014,141
+"San Francisco, CA",2014,110
+"San Jose, CA",2014,192
+"Santa Cruz, CA",2014,33
+"Seattle, WA",2014,118
+"Spokane, WA",2014,58
+"Tacoma, WA",2014,138
+Totalå¦,2014,11506
+New England,2014,504
+"Boston, MA",2014,147
+"Bridgeport, CT",2014,42
+"Cambridge, MA",2014,12
+"Fall River, MA",2014,21
+"Hartford, CT",2014,42
+"Lowell, MA",2014,19
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,30
+"New Haven, CT",2014,41
+"Providence, RI",2014,
+"Somerville, MA",2014,6
+"Springfield, MA",2014,37
+"Waterbury, CT",2014,36
+"Worcester, MA",2014,66
+Mid. Atlantic,2014,1779
+"Albany, NY",2014,46
+"Allentown, PA",2014,35
+"Buffalo, NY",2014,105
+"Camden, NJ",2014,13
+"Elizabeth, NJ",2014,19
+"Erie, PA",2014,61
+"Jersey City, NJ",2014,16
+"New York City, NY",2014,1047
+"Newark, NJ",2014,30
+"Paterson, NJ",2014,25
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,41
+"Reading, PA",2014,27
+"Rochester, NY",2014,163
+"Schenectady, NY",2014,28
+"Scranton, PA",2014,28
+"Syracuse, NY",2014,50
+"Trenton, NJ",2014,22
+"Utica, NY",2014,9
+"Yonkers, NY",2014,14
+E.N. Central,2014,2188
+"Akron, OH",2014,53
+"Canton, OH",2014,37
+"Chicago, IL",2014,273
+"Cincinnati, OH",2014,88
+"Cleveland, OH",2014,293
+"Columbus, OH",2014,265
+"Dayton, OH",2014,129
+"Detroit, MI",2014,152
+"Evansville, IN",2014,68
+"Fort Wayne, IN",2014,90
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,47
+"Indianapolis, IN",2014,186
+"Lansing, MI",2014,49
+"Milwaukee, WI",2014,48
+"Peoria, IL",2014,81
+"Rockford, IL",2014,66
+"South Bend, IN",2014,55
+"Toledo, OH",2014,128
+"Youngstown, OH",2014,65
+W.N. Central,2014,722
+"Des Moines, IA",2014,75
+"Duluth, MN",2014,35
+"Kansas City, KS",2014,32
+"Kansas City, MO",2014,122
+"Lincoln, NC",2014,43
+"Minneapolis, MN",2014,56
+"Omaha, NE",2014,104
+"St. Louis, MO",2014,122
+"St. Paul, MN",2014,48
+"Wichita, KS",2014,85
+S. Atlantic,2014,1146
+"Atlanta, GA",2014,156
+"Baltimore, MD",2014,130
+"Charlotte, NC",2014,141
+"Jacksonville, FL",2014,141
+"Miami, FL",2014,69
+"Norfolk, VA",2014,37
+"Richmond, VA",2014,62
+"Savannah, GA",2014,67
+"St. Petersburg, FL",2014,62
+"Tampa, FL",2014,108
+"Washington, D.C.",2014,164
+"Wilmington, DE",2014,9
+E.S. Central,2014,1043
+"Birmingham, AL",2014,211
+"Chattanooga, TN",2014,75
+"Knoxville, TN",2014,140
+"Lexington, KY",2014,99
+"Memphis, TN",2014,207
+"Mobile, AL",2014,92
+"Montgomery, AL",2014,50
+"Nashville, TN",2014,169
+W.S. Central,2014,1570
+"Austin, TX",2014,93
+"Baton Rouge, LA",2014,100
+"Corpus Christi, TX",2014,51
+"Dallas, TX",2014,255
+"El Paso, TX",2014,146
+"Fort Worth, TX",2014,
+"Houston, TX",2014,345
+"Little Rock, AR",2014,74
+"New Orleans, LA",2014,93
+"San Antonio, TX",2014,307
+"Shreveport, LA",2014,51
+"Tulsa, OK",2014,55
+Mountain,2014,1185
+"Albuquerque, NM",2014,134
+"Boise, ID",2014,56
+"Colorado Springs, CO",2014,75
+"Denver, CO",2014,90
+"Las Vegas, NV",2014,316
+"Ogden, UT",2014,41
+"Phoenix, AZ",2014,161
+"Pueblo, CO",2014,41
+"Salt Lake City, UT",2014,114
+"Tucson, AZ",2014,157
+Pacific,2014,1907
+"Berkeley, CA",2014,21
+"Fresno, CA",2014,125
+"Glendale, CA",2014,38
+"Honolulu, HI",2014,108
+"Long Beach, CA",2014,75
+"Los Angeles, CA",2014,257
+"Pasadena, CA",2014,27
+"Portland, OR",2014,147
+"Sacramento, CA",2014,214
+"San Diego, CA",2014,174
+"San Francisco, CA",2014,130
+"San Jose, CA",2014,219
+"Santa Cruz, CA",2014,37
+"Seattle, WA",2014,127
+"Spokane, WA",2014,69
+"Tacoma, WA",2014,139
+Totalå¦,2014,12044
+New England,2014,577
+"Boston, MA",2014,134
+"Bridgeport, CT",2014,26
+"Cambridge, MA",2014,18
+"Fall River, MA",2014,23
+"Hartford, CT",2014,69
+"Lowell, MA",2014,24
+"Lynn, MA",2014,6
+"New Bedford, MA",2014,24
+"New Haven, CT",2014,40
+"Providence, RI",2014,64
+"Somerville, MA",2014,1
+"Springfield, MA",2014,43
+"Waterbury, CT",2014,21
+"Worcester, MA",2014,84
+Mid. Atlantic,2014,1777
+"Albany, NY",2014,49
+"Allentown, PA",2014,19
+"Buffalo, NY",2014,83
+"Camden, NJ",2014,
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,52
+"Jersey City, NJ",2014,18
+"New York City, NY",2014,1091
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,14
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,32
+"Rochester, NY",2014,147
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,29
+"Syracuse, NY",2014,102
+"Trenton, NJ",2014,
+"Utica, NY",2014,7
+"Yonkers, NY",2014,21
+E.N. Central,2014,2039
+"Akron, OH",2014,45
+"Canton, OH",2014,33
+"Chicago, IL",2014,269
+"Cincinnati, OH",2014,80
+"Cleveland, OH",2014,272
+"Columbus, OH",2014,240
+"Dayton, OH",2014,145
+"Detroit, MI",2014,144
+"Evansville, IN",2014,32
+"Fort Wayne, IN",2014,56
+"Gary, IN",2014,9
+"Grand Rapids, MI",2014,66
+"Indianapolis, IN",2014,189
+"Lansing, MI",2014,71
+"Milwaukee, WI",2014,70
+"Peoria, IL",2014,43
+"Rockford, IL",2014,48
+"South Bend, IN",2014,62
+"Toledo, OH",2014,97
+"Youngstown, OH",2014,68
+W.N. Central,2014,788
+"Des Moines, IA",2014,76
+"Duluth, MN",2014,37
+"Kansas City, KS",2014,24
+"Kansas City, MO",2014,129
+"Lincoln, NC",2014,65
+"Minneapolis, MN",2014,74
+"Omaha, NE",2014,113
+"St. Louis, MO",2014,104
+"St. Paul, MN",2014,56
+"Wichita, KS",2014,110
+S. Atlantic,2014,1156
+"Atlanta, GA",2014,143
+"Baltimore, MD",2014,171
+"Charlotte, NC",2014,183
+"Jacksonville, FL",2014,139
+"Miami, FL",2014,70
+"Norfolk, VA",2014,70
+"Richmond, VA",2014,64
+"Savannah, GA",2014,52
+"St. Petersburg, FL",2014,59
+"Tampa, FL",2014,102
+"Washington, D.C.",2014,84
+"Wilmington, DE",2014,19
+E.S. Central,2014,970
+"Birmingham, AL",2014,190
+"Chattanooga, TN",2014,83
+"Knoxville, TN",2014,107
+"Lexington, KY",2014,75
+"Memphis, TN",2014,191
+"Mobile, AL",2014,119
+"Montgomery, AL",2014,49
+"Nashville, TN",2014,156
+W.S. Central,2014,1815
+"Austin, TX",2014,105
+"Baton Rouge, LA",2014,99
+"Corpus Christi, TX",2014,92
+"Dallas, TX",2014,206
+"El Paso, TX",2014,113
+"Fort Worth, TX",2014,
+"Houston, TX",2014,612
+"Little Rock, AR",2014,69
+"New Orleans, LA",2014,62
+"San Antonio, TX",2014,327
+"Shreveport, LA",2014,79
+"Tulsa, OK",2014,51
+Mountain,2014,1311
+"Albuquerque, NM",2014,161
+"Boise, ID",2014,61
+"Colorado Springs, CO",2014,75
+"Denver, CO",2014,120
+"Las Vegas, NV",2014,320
+"Ogden, UT",2014,25
+"Phoenix, AZ",2014,199
+"Pueblo, CO",2014,39
+"Salt Lake City, UT",2014,141
+"Tucson, AZ",2014,170
+Pacific,2014,1766
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,143
+"Glendale, CA",2014,37
+"Honolulu, HI",2014,81
+"Long Beach, CA",2014,50
+"Los Angeles, CA",2014,262
+"Pasadena, CA",2014,30
+"Portland, OR",2014,123
+"Sacramento, CA",2014,243
+"San Diego, CA",2014,164
+"San Francisco, CA",2014,108
+"San Jose, CA",2014,198
+"Santa Cruz, CA",2014,26
+"Seattle, WA",2014,110
+"Spokane, WA",2014,58
+"Tacoma, WA",2014,122
+Totalå¦,2014,12199
+New England,2014,608
+"Boston, MA",2014,143
+"Bridgeport, CT",2014,41
+"Cambridge, MA",2014,20
+"Fall River, MA",2014,19
+"Hartford, CT",2014,63
+"Lowell, MA",2014,19
+"Lynn, MA",2014,6
+"New Bedford, MA",2014,30
+"New Haven, CT",2014,39
+"Providence, RI",2014,65
+"Somerville, MA",2014,7
+"Springfield, MA",2014,50
+"Waterbury, CT",2014,30
+"Worcester, MA",2014,76
+Mid. Atlantic,2014,1843
+"Albany, NY",2014,41
+"Allentown, PA",2014,28
+"Buffalo, NY",2014,93
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,45
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,1109
+"Newark, NJ",2014,39
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,31
+"Rochester, NY",2014,158
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,33
+"Syracuse, NY",2014,67
+"Trenton, NJ",2014,25
+"Utica, NY",2014,16
+"Yonkers, NY",2014,20
+E.N. Central,2014,1986
+"Akron, OH",2014,52
+"Canton, OH",2014,39
+"Chicago, IL",2014,261
+"Cincinnati, OH",2014,78
+"Cleveland, OH",2014,265
+"Columbus, OH",2014,208
+"Dayton, OH",2014,117
+"Detroit, MI",2014,116
+"Evansville, IN",2014,59
+"Fort Wayne, IN",2014,89
+"Gary, IN",2014,21
+"Grand Rapids, MI",2014,64
+"Indianapolis, IN",2014,210
+"Lansing, MI",2014,48
+"Milwaukee, WI",2014,85
+"Peoria, IL",2014,45
+"Rockford, IL",2014,53
+"South Bend, IN",2014,52
+"Toledo, OH",2014,124
+"Youngstown, OH",2014,
+W.N. Central,2014,682
+"Des Moines, IA",2014,83
+"Duluth, MN",2014,27
+"Kansas City, KS",2014,32
+"Kansas City, MO",2014,98
+"Lincoln, NC",2014,36
+"Minneapolis, MN",2014,69
+"Omaha, NE",2014,119
+"St. Louis, MO",2014,64
+"St. Paul, MN",2014,65
+"Wichita, KS",2014,89
+S. Atlantic,2014,1165
+"Atlanta, GA",2014,121
+"Baltimore, MD",2014,135
+"Charlotte, NC",2014,138
+"Jacksonville, FL",2014,162
+"Miami, FL",2014,78
+"Norfolk, VA",2014,74
+"Richmond, VA",2014,60
+"Savannah, GA",2014,75
+"St. Petersburg, FL",2014,62
+"Tampa, FL",2014,106
+"Washington, D.C.",2014,150
+"Wilmington, DE",2014,4
+E.S. Central,2014,933
+"Birmingham, AL",2014,171
+"Chattanooga, TN",2014,101
+"Knoxville, TN",2014,95
+"Lexington, KY",2014,79
+"Memphis, TN",2014,183
+"Mobile, AL",2014,99
+"Montgomery, AL",2014,70
+"Nashville, TN",2014,135
+W.S. Central,2014,1489
+"Austin, TX",2014,116
+"Baton Rouge, LA",2014,82
+"Corpus Christi, TX",2014,76
+"Dallas, TX",2014,221
+"El Paso, TX",2014,115
+"Fort Worth, TX",2014,
+"Houston, TX",2014,365
+"Little Rock, AR",2014,103
+"New Orleans, LA",2014,43
+"San Antonio, TX",2014,260
+"Shreveport, LA",2014,53
+"Tulsa, OK",2014,55
+Mountain,2014,1218
+"Albuquerque, NM",2014,129
+"Boise, ID",2014,76
+"Colorado Springs, CO",2014,75
+"Denver, CO",2014,65
+"Las Vegas, NV",2014,307
+"Ogden, UT",2014,29
+"Phoenix, AZ",2014,174
+"Pueblo, CO",2014,40
+"Salt Lake City, UT",2014,139
+"Tucson, AZ",2014,184
+Pacific,2014,1765
+"Berkeley, CA",2014,19
+"Fresno, CA",2014,128
+"Glendale, CA",2014,46
+"Honolulu, HI",2014,87
+"Long Beach, CA",2014,58
+"Los Angeles, CA",2014,249
+"Pasadena, CA",2014,22
+"Portland, OR",2014,121
+"Sacramento, CA",2014,240
+"San Diego, CA",2014,158
+"San Francisco, CA",2014,108
+"San Jose, CA",2014,180
+"Santa Cruz, CA",2014,41
+"Seattle, WA",2014,106
+"Spokane, WA",2014,71
+"Tacoma, WA",2014,131
+Totalå¦,2014,11689
+New England,2014,573
+"Boston, MA",2014,141
+"Bridgeport, CT",2014,21
+"Cambridge, MA",2014,11
+"Fall River, MA",2014,26
+"Hartford, CT",2014,50
+"Lowell, MA",2014,25
+"Lynn, MA",2014,11
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,38
+"Providence, RI",2014,60
+"Somerville, MA",2014,4
+"Springfield, MA",2014,46
+"Waterbury, CT",2014,49
+"Worcester, MA",2014,72
+Mid. Atlantic,2014,1914
+"Albany, NY",2014,43
+"Allentown, PA",2014,42
+"Buffalo, NY",2014,102
+"Camden, NJ",2014,22
+"Elizabeth, NJ",2014,20
+"Erie, PA",2014,64
+"Jersey City, NJ",2014,
+"New York City, NY",2014,1118
+"Newark, NJ",2014,26
+"Paterson, NJ",2014,31
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,53
+"Reading, PA",2014,35
+"Rochester, NY",2014,141
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,24
+"Syracuse, NY",2014,120
+"Trenton, NJ",2014,18
+"Utica, NY",2014,16
+"Yonkers, NY",2014,20
+E.N. Central,2014,2182
+"Akron, OH",2014,49
+"Canton, OH",2014,37
+"Chicago, IL",2014,325
+"Cincinnati, OH",2014,86
+"Cleveland, OH",2014,271
+"Columbus, OH",2014,223
+"Dayton, OH",2014,146
+"Detroit, MI",2014,147
+"Evansville, IN",2014,46
+"Fort Wayne, IN",2014,77
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,58
+"Indianapolis, IN",2014,211
+"Lansing, MI",2014,56
+"Milwaukee, WI",2014,96
+"Peoria, IL",2014,53
+"Rockford, IL",2014,44
+"South Bend, IN",2014,53
+"Toledo, OH",2014,111
+"Youngstown, OH",2014,82
+W.N. Central,2014,742
+"Des Moines, IA",2014,78
+"Duluth, MN",2014,25
+"Kansas City, KS",2014,35
+"Kansas City, MO",2014,120
+"Lincoln, NC",2014,66
+"Minneapolis, MN",2014,77
+"Omaha, NE",2014,106
+"St. Louis, MO",2014,102
+"St. Paul, MN",2014,52
+"Wichita, KS",2014,81
+S. Atlantic,2014,1143
+"Atlanta, GA",2014,121
+"Baltimore, MD",2014,167
+"Charlotte, NC",2014,152
+"Jacksonville, FL",2014,166
+"Miami, FL",2014,66
+"Norfolk, VA",2014,37
+"Richmond, VA",2014,69
+"Savannah, GA",2014,64
+"St. Petersburg, FL",2014,72
+"Tampa, FL",2014,142
+"Washington, D.C.",2014,73
+"Wilmington, DE",2014,14
+E.S. Central,2014,856
+"Birmingham, AL",2014,136
+"Chattanooga, TN",2014,80
+"Knoxville, TN",2014,124
+"Lexington, KY",2014,76
+"Memphis, TN",2014,160
+"Mobile, AL",2014,86
+"Montgomery, AL",2014,39
+"Nashville, TN",2014,155
+W.S. Central,2014,1555
+"Austin, TX",2014,81
+"Baton Rouge, LA",2014,81
+"Corpus Christi, TX",2014,66
+"Dallas, TX",2014,233
+"El Paso, TX",2014,91
+"Fort Worth, TX",2014,
+"Houston, TX",2014,410
+"Little Rock, AR",2014,115
+"New Orleans, LA",2014,66
+"San Antonio, TX",2014,266
+"Shreveport, LA",2014,92
+"Tulsa, OK",2014,54
+Mountain,2014,1215
+"Albuquerque, NM",2014,153
+"Boise, ID",2014,64
+"Colorado Springs, CO",2014,67
+"Denver, CO",2014,74
+"Las Vegas, NV",2014,305
+"Ogden, UT",2014,41
+"Phoenix, AZ",2014,182
+"Pueblo, CO",2014,35
+"Salt Lake City, UT",2014,142
+"Tucson, AZ",2014,152
+Pacific,2014,1735
+"Berkeley, CA",2014,16
+"Fresno, CA",2014,116
+"Glendale, CA",2014,30
+"Honolulu, HI",2014,86
+"Long Beach, CA",2014,65
+"Los Angeles, CA",2014,271
+"Pasadena, CA",2014,23
+"Portland, OR",2014,116
+"Sacramento, CA",2014,211
+"San Diego, CA",2014,171
+"San Francisco, CA",2014,123
+"San Jose, CA",2014,187
+"Santa Cruz, CA",2014,30
+"Seattle, WA",2014,126
+"Spokane, WA",2014,44
+"Tacoma, WA",2014,120
+Totalå¦,2014,11915
+New England,2014,531
+"Boston, MA",2014,150
+"Bridgeport, CT",2014,29
+"Cambridge, MA",2014,18
+"Fall River, MA",2014,22
+"Hartford, CT",2014,46
+"Lowell, MA",2014,21
+"Lynn, MA",2014,7
+"New Bedford, MA",2014,23
+"New Haven, CT",2014,
+"Providence, RI",2014,86
+"Somerville, MA",2014,5
+"Springfield, MA",2014,32
+"Waterbury, CT",2014,23
+"Worcester, MA",2014,69
+Mid. Atlantic,2014,1891
+"Albany, NY",2014,53
+"Allentown, PA",2014,28
+"Buffalo, NY",2014,87
+"Camden, NJ",2014,16
+"Elizabeth, NJ",2014,26
+"Erie, PA",2014,44
+"Jersey City, NJ",2014,17
+"New York City, NY",2014,1183
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,10
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,45
+"Reading, PA",2014,24
+"Rochester, NY",2014,135
+"Schenectady, NY",2014,22
+"Scranton, PA",2014,34
+"Syracuse, NY",2014,83
+"Trenton, NJ",2014,16
+"Utica, NY",2014,13
+"Yonkers, NY",2014,23
+E.N. Central,2014,1956
+"Akron, OH",2014,48
+"Canton, OH",2014,27
+"Chicago, IL",2014,257
+"Cincinnati, OH",2014,77
+"Cleveland, OH",2014,250
+"Columbus, OH",2014,266
+"Dayton, OH",2014,131
+"Detroit, MI",2014,101
+"Evansville, IN",2014,46
+"Fort Wayne, IN",2014,81
+"Gary, IN",2014,9
+"Grand Rapids, MI",2014,59
+"Indianapolis, IN",2014,200
+"Lansing, MI",2014,42
+"Milwaukee, WI",2014,79
+"Peoria, IL",2014,47
+"Rockford, IL",2014,62
+"South Bend, IN",2014,33
+"Toledo, OH",2014,89
+"Youngstown, OH",2014,52
+W.N. Central,2014,726
+"Des Moines, IA",2014,106
+"Duluth, MN",2014,31
+"Kansas City, KS",2014,33
+"Kansas City, MO",2014,103
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,65
+"Omaha, NE",2014,85
+"St. Louis, MO",2014,102
+"St. Paul, MN",2014,59
+"Wichita, KS",2014,92
+S. Atlantic,2014,1005
+"Atlanta, GA",2014,116
+"Baltimore, MD",2014,130
+"Charlotte, NC",2014,117
+"Jacksonville, FL",2014,131
+"Miami, FL",2014,70
+"Norfolk, VA",2014,54
+"Richmond, VA",2014,64
+"Savannah, GA",2014,58
+"St. Petersburg, FL",2014,54
+"Tampa, FL",2014,102
+"Washington, D.C.",2014,105
+"Wilmington, DE",2014,4
+E.S. Central,2014,961
+"Birmingham, AL",2014,215
+"Chattanooga, TN",2014,85
+"Knoxville, TN",2014,122
+"Lexington, KY",2014,110
+"Memphis, TN",2014,134
+"Mobile, AL",2014,89
+"Montgomery, AL",2014,48
+"Nashville, TN",2014,158
+W.S. Central,2014,1466
+"Austin, TX",2014,75
+"Baton Rouge, LA",2014,83
+"Corpus Christi, TX",2014,54
+"Dallas, TX",2014,220
+"El Paso, TX",2014,114
+"Fort Worth, TX",2014,
+"Houston, TX",2014,389
+"Little Rock, AR",2014,74
+"New Orleans, LA",2014,71
+"San Antonio, TX",2014,292
+"Shreveport, LA",2014,61
+"Tulsa, OK",2014,33
+Mountain,2014,1188
+"Albuquerque, NM",2014,120
+"Boise, ID",2014,69
+"Colorado Springs, CO",2014,85
+"Denver, CO",2014,99
+"Las Vegas, NV",2014,272
+"Ogden, UT",2014,30
+"Phoenix, AZ",2014,198
+"Pueblo, CO",2014,34
+"Salt Lake City, UT",2014,130
+"Tucson, AZ",2014,151
+Pacific,2014,1642
+"Berkeley, CA",2014,15
+"Fresno, CA",2014,115
+"Glendale, CA",2014,23
+"Honolulu, HI",2014,57
+"Long Beach, CA",2014,60
+"Los Angeles, CA",2014,235
+"Pasadena, CA",2014,19
+"Portland, OR",2014,132
+"Sacramento, CA",2014,236
+"San Diego, CA",2014,176
+"San Francisco, CA",2014,95
+"San Jose, CA",2014,175
+"Santa Cruz, CA",2014,31
+"Seattle, WA",2014,87
+"Spokane, WA",2014,59
+"Tacoma, WA",2014,127
+Totalå¦,2014,11366
+New England,2014,520
+"Boston, MA",2014,155
+"Bridgeport, CT",2014,31
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,27
+"Hartford, CT",2014,56
+"Lowell, MA",2014,23
+"Lynn, MA",2014,8
+"New Bedford, MA",2014,17
+"New Haven, CT",2014,
+"Providence, RI",2014,59
+"Somerville, MA",2014,2
+"Springfield, MA",2014,44
+"Waterbury, CT",2014,37
+"Worcester, MA",2014,48
+Mid. Atlantic,2014,1838
+"Albany, NY",2014,50
+"Allentown, PA",2014,30
+"Buffalo, NY",2014,93
+"Camden, NJ",2014,36
+"Elizabeth, NJ",2014,17
+"Erie, PA",2014,51
+"Jersey City, NJ",2014,17
+"New York City, NY",2014,1076
+"Newark, NJ",2014,48
+"Paterson, NJ",2014,18
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,49
+"Reading, PA",2014,28
+"Rochester, NY",2014,125
+"Schenectady, NY",2014,17
+"Scranton, PA",2014,41
+"Syracuse, NY",2014,79
+"Trenton, NJ",2014,31
+"Utica, NY",2014,13
+"Yonkers, NY",2014,19
+E.N. Central,2014,2077
+"Akron, OH",2014,50
+"Canton, OH",2014,38
+"Chicago, IL",2014,245
+"Cincinnati, OH",2014,73
+"Cleveland, OH",2014,225
+"Columbus, OH",2014,196
+"Dayton, OH",2014,156
+"Detroit, MI",2014,173
+"Evansville, IN",2014,61
+"Fort Wayne, IN",2014,81
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,72
+"Indianapolis, IN",2014,207
+"Lansing, MI",2014,47
+"Milwaukee, WI",2014,84
+"Peoria, IL",2014,65
+"Rockford, IL",2014,60
+"South Bend, IN",2014,85
+"Toledo, OH",2014,80
+"Youngstown, OH",2014,65
+W.N. Central,2014,606
+"Des Moines, IA",2014,63
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,33
+"Kansas City, MO",2014,94
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,57
+"Omaha, NE",2014,89
+"St. Louis, MO",2014,58
+"St. Paul, MN",2014,40
+"Wichita, KS",2014,96
+S. Atlantic,2014,1173
+"Atlanta, GA",2014,134
+"Baltimore, MD",2014,185
+"Charlotte, NC",2014,172
+"Jacksonville, FL",2014,142
+"Miami, FL",2014,64
+"Norfolk, VA",2014,51
+"Richmond, VA",2014,60
+"Savannah, GA",2014,55
+"St. Petersburg, FL",2014,59
+"Tampa, FL",2014,136
+"Washington, D.C.",2014,104
+"Wilmington, DE",2014,11
+E.S. Central,2014,1028
+"Birmingham, AL",2014,171
+"Chattanooga, TN",2014,101
+"Knoxville, TN",2014,148
+"Lexington, KY",2014,65
+"Memphis, TN",2014,241
+"Mobile, AL",2014,83
+"Montgomery, AL",2014,49
+"Nashville, TN",2014,170
+W.S. Central,2014,1325
+"Austin, TX",2014,95
+"Baton Rouge, LA",2014,96
+"Corpus Christi, TX",2014,41
+"Dallas, TX",2014,196
+"El Paso, TX",2014,69
+"Fort Worth, TX",2014,
+"Houston, TX",2014,352
+"Little Rock, AR",2014,111
+"New Orleans, LA",2014,62
+"San Antonio, TX",2014,137
+"Shreveport, LA",2014,85
+"Tulsa, OK",2014,81
+Mountain,2014,1226
+"Albuquerque, NM",2014,128
+"Boise, ID",2014,51
+"Colorado Springs, CO",2014,81
+"Denver, CO",2014,71
+"Las Vegas, NV",2014,287
+"Ogden, UT",2014,37
+"Phoenix, AZ",2014,208
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,151
+"Tucson, AZ",2014,183
+Pacific,2014,1798
+"Berkeley, CA",2014,14
+"Fresno, CA",2014,134
+"Glendale, CA",2014,39
+"Honolulu, HI",2014,93
+"Long Beach, CA",2014,48
+"Los Angeles, CA",2014,249
+"Pasadena, CA",2014,29
+"Portland, OR",2014,125
+"Sacramento, CA",2014,222
+"San Diego, CA",2014,189
+"San Francisco, CA",2014,115
+"San Jose, CA",2014,206
+"Santa Cruz, CA",2014,30
+"Seattle, WA",2014,117
+"Spokane, WA",2014,75
+"Tacoma, WA",2014,113
+Totalå¦,2014,11591
+New England,2014,533
+"Boston, MA",2014,160
+"Bridgeport, CT",2014,22
+"Cambridge, MA",2014,18
+"Fall River, MA",2014,31
+"Hartford, CT",2014,59
+"Lowell, MA",2014,22
+"Lynn, MA",2014,9
+"New Bedford, MA",2014,23
+"New Haven, CT",2014,42
+"Providence, RI",2014,
+"Somerville, MA",2014,5
+"Springfield, MA",2014,33
+"Waterbury, CT",2014,40
+"Worcester, MA",2014,69
+Mid. Atlantic,2014,1766
+"Albany, NY",2014,45
+"Allentown, PA",2014,22
+"Buffalo, NY",2014,89
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,21
+"Erie, PA",2014,46
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,1051
+"Newark, NJ",2014,36
+"Paterson, NJ",2014,22
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,45
+"Reading, PA",2014,22
+"Rochester, NY",2014,150
+"Schenectady, NY",2014,17
+"Scranton, PA",2014,40
+"Syracuse, NY",2014,65
+"Trenton, NJ",2014,19
+"Utica, NY",2014,11
+"Yonkers, NY",2014,17
+E.N. Central,2014,1918
+"Akron, OH",2014,62
+"Canton, OH",2014,32
+"Chicago, IL",2014,284
+"Cincinnati, OH",2014,82
+"Cleveland, OH",2014,240
+"Columbus, OH",2014,217
+"Dayton, OH",2014,128
+"Detroit, MI",2014,
+"Evansville, IN",2014,38
+"Fort Wayne, IN",2014,77
+"Gary, IN",2014,4
+"Grand Rapids, MI",2014,54
+"Indianapolis, IN",2014,203
+"Lansing, MI",2014,54
+"Milwaukee, WI",2014,97
+"Peoria, IL",2014,47
+"Rockford, IL",2014,53
+"South Bend, IN",2014,69
+"Toledo, OH",2014,102
+"Youngstown, OH",2014,75
+W.N. Central,2014,679
+"Des Moines, IA",2014,74
+"Duluth, MN",2014,32
+"Kansas City, KS",2014,33
+"Kansas City, MO",2014,110
+"Lincoln, NC",2014,42
+"Minneapolis, MN",2014,70
+"Omaha, NE",2014,81
+"St. Louis, MO",2014,84
+"St. Paul, MN",2014,67
+"Wichita, KS",2014,86
+S. Atlantic,2014,1121
+"Atlanta, GA",2014,126
+"Baltimore, MD",2014,134
+"Charlotte, NC",2014,148
+"Jacksonville, FL",2014,164
+"Miami, FL",2014,65
+"Norfolk, VA",2014,72
+"Richmond, VA",2014,64
+"Savannah, GA",2014,44
+"St. Petersburg, FL",2014,63
+"Tampa, FL",2014,117
+"Washington, D.C.",2014,111
+"Wilmington, DE",2014,13
+E.S. Central,2014,928
+"Birmingham, AL",2014,173
+"Chattanooga, TN",2014,102
+"Knoxville, TN",2014,76
+"Lexington, KY",2014,78
+"Memphis, TN",2014,192
+"Mobile, AL",2014,79
+"Montgomery, AL",2014,49
+"Nashville, TN",2014,179
+W.S. Central,2014,1517
+"Austin, TX",2014,83
+"Baton Rouge, LA",2014,113
+"Corpus Christi, TX",2014,69
+"Dallas, TX",2014,219
+"El Paso, TX",2014,109
+"Fort Worth, TX",2014,
+"Houston, TX",2014,418
+"Little Rock, AR",2014,72
+"New Orleans, LA",2014,37
+"San Antonio, TX",2014,287
+"Shreveport, LA",2014,53
+"Tulsa, OK",2014,57
+Mountain,2014,1187
+"Albuquerque, NM",2014,117
+"Boise, ID",2014,55
+"Colorado Springs, CO",2014,84
+"Denver, CO",2014,96
+"Las Vegas, NV",2014,293
+"Ogden, UT",2014,38
+"Phoenix, AZ",2014,184
+"Pueblo, CO",2014,27
+"Salt Lake City, UT",2014,129
+"Tucson, AZ",2014,164
+Pacific,2014,1648
+"Berkeley, CA",2014,15
+"Fresno, CA",2014,138
+"Glendale, CA",2014,25
+"Honolulu, HI",2014,83
+"Long Beach, CA",2014,43
+"Los Angeles, CA",2014,231
+"Pasadena, CA",2014,19
+"Portland, OR",2014,103
+"Sacramento, CA",2014,215
+"San Diego, CA",2014,150
+"San Francisco, CA",2014,96
+"San Jose, CA",2014,201
+"Santa Cruz, CA",2014,35
+"Seattle, WA",2014,112
+"Spokane, WA",2014,67
+"Tacoma, WA",2014,115
+Totalå¦,2014,11297
+New England,2014,557
+"Boston, MA",2014,132
+"Bridgeport, CT",2014,29
+"Cambridge, MA",2014,14
+"Fall River, MA",2014,25
+"Hartford, CT",2014,39
+"Lowell, MA",2014,24
+"Lynn, MA",2014,9
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,45
+"Providence, RI",2014,65
+"Somerville, MA",2014,4
+"Springfield, MA",2014,42
+"Waterbury, CT",2014,34
+"Worcester, MA",2014,76
+Mid. Atlantic,2014,1798
+"Albany, NY",2014,35
+"Allentown, PA",2014,31
+"Buffalo, NY",2014,87
+"Camden, NJ",2014,43
+"Elizabeth, NJ",2014,10
+"Erie, PA",2014,41
+"Jersey City, NJ",2014,13
+"New York City, NY",2014,1054
+"Newark, NJ",2014,53
+"Paterson, NJ",2014,28
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,39
+"Reading, PA",2014,33
+"Rochester, NY",2014,147
+"Schenectady, NY",2014,27
+"Scranton, PA",2014,34
+"Syracuse, NY",2014,69
+"Trenton, NJ",2014,19
+"Utica, NY",2014,17
+"Yonkers, NY",2014,18
+E.N. Central,2014,2051
+"Akron, OH",2014,49
+"Canton, OH",2014,30
+"Chicago, IL",2014,272
+"Cincinnati, OH",2014,98
+"Cleveland, OH",2014,273
+"Columbus, OH",2014,249
+"Dayton, OH",2014,128
+"Detroit, MI",2014,210
+"Evansville, IN",2014,47
+"Fort Wayne, IN",2014,73
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,45
+"Indianapolis, IN",2014,177
+"Lansing, MI",2014,46
+"Milwaukee, WI",2014,75
+"Peoria, IL",2014,43
+"Rockford, IL",2014,61
+"South Bend, IN",2014,33
+"Toledo, OH",2014,80
+"Youngstown, OH",2014,51
+W.N. Central,2014,755
+"Des Moines, IA",2014,58
+"Duluth, MN",2014,34
+"Kansas City, KS",2014,25
+"Kansas City, MO",2014,97
+"Lincoln, NC",2014,59
+"Minneapolis, MN",2014,58
+"Omaha, NE",2014,98
+"St. Louis, MO",2014,188
+"St. Paul, MN",2014,48
+"Wichita, KS",2014,90
+S. Atlantic,2014,1102
+"Atlanta, GA",2014,100
+"Baltimore, MD",2014,162
+"Charlotte, NC",2014,115
+"Jacksonville, FL",2014,162
+"Miami, FL",2014,80
+"Norfolk, VA",2014,54
+"Richmond, VA",2014,55
+"Savannah, GA",2014,65
+"St. Petersburg, FL",2014,58
+"Tampa, FL",2014,104
+"Washington, D.C.",2014,143
+"Wilmington, DE",2014,4
+E.S. Central,2014,920
+"Birmingham, AL",2014,148
+"Chattanooga, TN",2014,79
+"Knoxville, TN",2014,73
+"Lexington, KY",2014,87
+"Memphis, TN",2014,213
+"Mobile, AL",2014,88
+"Montgomery, AL",2014,61
+"Nashville, TN",2014,171
+W.S. Central,2014,1581
+"Austin, TX",2014,88
+"Baton Rouge, LA",2014,108
+"Corpus Christi, TX",2014,62
+"Dallas, TX",2014,237
+"El Paso, TX",2014,110
+"Fort Worth, TX",2014,
+"Houston, TX",2014,439
+"Little Rock, AR",2014,40
+"New Orleans, LA",2014,40
+"San Antonio, TX",2014,306
+"Shreveport, LA",2014,85
+"Tulsa, OK",2014,66
+Mountain,2014,1178
+"Albuquerque, NM",2014,126
+"Boise, ID",2014,58
+"Colorado Springs, CO",2014,85
+"Denver, CO",2014,93
+"Las Vegas, NV",2014,272
+"Ogden, UT",2014,38
+"Phoenix, AZ",2014,141
+"Pueblo, CO",2014,39
+"Salt Lake City, UT",2014,146
+"Tucson, AZ",2014,180
+Pacific,2014,1684
+"Berkeley, CA",2014,9
+"Fresno, CA",2014,127
+"Glendale, CA",2014,20
+"Honolulu, HI",2014,94
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,241
+"Pasadena, CA",2014,33
+"Portland, OR",2014,118
+"Sacramento, CA",2014,207
+"San Diego, CA",2014,149
+"San Francisco, CA",2014,109
+"San Jose, CA",2014,196
+"Santa Cruz, CA",2014,30
+"Seattle, WA",2014,112
+"Spokane, WA",2014,64
+"Tacoma, WA",2014,120
+Totalå¦,2014,11626
+New England,2014,530
+"Boston, MA",2014,126
+"Bridgeport, CT",2014,36
+"Cambridge, MA",2014,14
+"Fall River, MA",2014,23
+"Hartford, CT",2014,42
+"Lowell, MA",2014,18
+"Lynn, MA",2014,11
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,31
+"Providence, RI",2014,68
+"Somerville, MA",2014,7
+"Springfield, MA",2014,34
+"Waterbury, CT",2014,38
+"Worcester, MA",2014,60
+Mid. Atlantic,2014,1721
+"Albany, NY",2014,52
+"Allentown, PA",2014,35
+"Buffalo, NY",2014,101
+"Camden, NJ",2014,9
+"Elizabeth, NJ",2014,13
+"Erie, PA",2014,37
+"Jersey City, NJ",2014,13
+"New York City, NY",2014,1023
+"Newark, NJ",2014,36
+"Paterson, NJ",2014,16
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,43
+"Reading, PA",2014,34
+"Rochester, NY",2014,147
+"Schenectady, NY",2014,15
+"Scranton, PA",2014,36
+"Syracuse, NY",2014,61
+"Trenton, NJ",2014,23
+"Utica, NY",2014,10
+"Yonkers, NY",2014,17
+E.N. Central,2014,2159
+"Akron, OH",2014,47
+"Canton, OH",2014,37
+"Chicago, IL",2014,270
+"Cincinnati, OH",2014,76
+"Cleveland, OH",2014,241
+"Columbus, OH",2014,243
+"Dayton, OH",2014,179
+"Detroit, MI",2014,246
+"Evansville, IN",2014,53
+"Fort Wayne, IN",2014,72
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,71
+"Indianapolis, IN",2014,183
+"Lansing, MI",2014,54
+"Milwaukee, WI",2014,81
+"Peoria, IL",2014,51
+"Rockford, IL",2014,56
+"South Bend, IN",2014,40
+"Toledo, OH",2014,80
+"Youngstown, OH",2014,64
+W.N. Central,2014,640
+"Des Moines, IA",2014,18
+"Duluth, MN",2014,40
+"Kansas City, KS",2014,25
+"Kansas City, MO",2014,139
+"Lincoln, NC",2014,34
+"Minneapolis, MN",2014,80
+"Omaha, NE",2014,90
+"St. Louis, MO",2014,72
+"St. Paul, MN",2014,49
+"Wichita, KS",2014,93
+S. Atlantic,2014,1076
+"Atlanta, GA",2014,122
+"Baltimore, MD",2014,176
+"Charlotte, NC",2014,129
+"Jacksonville, FL",2014,150
+"Miami, FL",2014,90
+"Norfolk, VA",2014,29
+"Richmond, VA",2014,73
+"Savannah, GA",2014,42
+"St. Petersburg, FL",2014,62
+"Tampa, FL",2014,131
+"Washington, D.C.",2014,57
+"Wilmington, DE",2014,15
+E.S. Central,2014,950
+"Birmingham, AL",2014,179
+"Chattanooga, TN",2014,96
+"Knoxville, TN",2014,94
+"Lexington, KY",2014,99
+"Memphis, TN",2014,124
+"Mobile, AL",2014,113
+"Montgomery, AL",2014,54
+"Nashville, TN",2014,191
+W.S. Central,2014,1330
+"Austin, TX",2014,81
+"Baton Rouge, LA",2014,98
+"Corpus Christi, TX",2014,81
+"Dallas, TX",2014,182
+"El Paso, TX",2014,74
+"Fort Worth, TX",2014,
+"Houston, TX",2014,279
+"Little Rock, AR",2014,70
+"New Orleans, LA",2014,70
+"San Antonio, TX",2014,268
+"Shreveport, LA",2014,88
+"Tulsa, OK",2014,39
+Mountain,2014,1185
+"Albuquerque, NM",2014,127
+"Boise, ID",2014,73
+"Colorado Springs, CO",2014,68
+"Denver, CO",2014,77
+"Las Vegas, NV",2014,258
+"Ogden, UT",2014,30
+"Phoenix, AZ",2014,174
+"Pueblo, CO",2014,37
+"Salt Lake City, UT",2014,140
+"Tucson, AZ",2014,201
+Pacific,2014,1825
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,120
+"Glendale, CA",2014,24
+"Honolulu, HI",2014,94
+"Long Beach, CA",2014,62
+"Los Angeles, CA",2014,284
+"Pasadena, CA",2014,20
+"Portland, OR",2014,125
+"Sacramento, CA",2014,215
+"San Diego, CA",2014,156
+"San Francisco, CA",2014,128
+"San Jose, CA",2014,234
+"Santa Cruz, CA",2014,38
+"Seattle, WA",2014,113
+"Spokane, WA",2014,81
+"Tacoma, WA",2014,118
+Totalå¦,2014,11416
+New England,2014,563
+"Boston, MA",2014,150
+"Bridgeport, CT",2014,27
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,28
+"Hartford, CT",2014,66
+"Lowell, MA",2014,18
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,23
+"New Haven, CT",2014,27
+"Providence, RI",2014,62
+"Somerville, MA",2014,2
+"Springfield, MA",2014,27
+"Waterbury, CT",2014,39
+"Worcester, MA",2014,65
+Mid. Atlantic,2014,1658
+"Albany, NY",2014,60
+"Allentown, PA",2014,25
+"Buffalo, NY",2014,71
+"Camden, NJ",2014,21
+"Elizabeth, NJ",2014,24
+"Erie, PA",2014,46
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,972
+"Newark, NJ",2014,38
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,26
+"Reading, PA",2014,25
+"Rochester, NY",2014,127
+"Schenectady, NY",2014,12
+"Scranton, PA",2014,25
+"Syracuse, NY",2014,80
+"Trenton, NJ",2014,33
+"Utica, NY",2014,21
+"Yonkers, NY",2014,14
+E.N. Central,2014,1720
+"Akron, OH",2014,51
+"Canton, OH",2014,40
+"Chicago, IL",2014,220
+"Cincinnati, OH",2014,63
+"Cleveland, OH",2014,243
+"Columbus, OH",2014,229
+"Dayton, OH",2014,159
+"Detroit, MI",2014,
+"Evansville, IN",2014,31
+"Fort Wayne, IN",2014,72
+"Gary, IN",2014,8
+"Grand Rapids, MI",2014,68
+"Indianapolis, IN",2014,170
+"Lansing, MI",2014,53
+"Milwaukee, WI",2014,46
+"Peoria, IL",2014,42
+"Rockford, IL",2014,67
+"South Bend, IN",2014,54
+"Toledo, OH",2014,104
+"Youngstown, OH",2014,
+W.N. Central,2014,683
+"Des Moines, IA",2014,6
+"Duluth, MN",2014,39
+"Kansas City, KS",2014,15
+"Kansas City, MO",2014,99
+"Lincoln, NC",2014,49
+"Minneapolis, MN",2014,67
+"Omaha, NE",2014,88
+"St. Louis, MO",2014,170
+"St. Paul, MN",2014,56
+"Wichita, KS",2014,94
+S. Atlantic,2014,1091
+"Atlanta, GA",2014,105
+"Baltimore, MD",2014,158
+"Charlotte, NC",2014,137
+"Jacksonville, FL",2014,181
+"Miami, FL",2014,54
+"Norfolk, VA",2014,47
+"Richmond, VA",2014,51
+"Savannah, GA",2014,88
+"St. Petersburg, FL",2014,50
+"Tampa, FL",2014,108
+"Washington, D.C.",2014,104
+"Wilmington, DE",2014,8
+E.S. Central,2014,1047
+"Birmingham, AL",2014,198
+"Chattanooga, TN",2014,90
+"Knoxville, TN",2014,154
+"Lexington, KY",2014,80
+"Memphis, TN",2014,222
+"Mobile, AL",2014,87
+"Montgomery, AL",2014,48
+"Nashville, TN",2014,168
+W.S. Central,2014,1567
+"Austin, TX",2014,104
+"Baton Rouge, LA",2014,75
+"Corpus Christi, TX",2014,55
+"Dallas, TX",2014,223
+"El Paso, TX",2014,93
+"Fort Worth, TX",2014,
+"Houston, TX",2014,480
+"Little Rock, AR",2014,105
+"New Orleans, LA",2014,44
+"San Antonio, TX",2014,250
+"Shreveport, LA",2014,94
+"Tulsa, OK",2014,44
+Mountain,2014,915
+"Albuquerque, NM",2014,130
+"Boise, ID",2014,63
+"Colorado Springs, CO",2014,81
+"Denver, CO",2014,75
+"Las Vegas, NV",2014,235
+"Ogden, UT",2014,40
+"Phoenix, AZ",2014,
+"Pueblo, CO",2014,46
+"Salt Lake City, UT",2014,115
+"Tucson, AZ",2014,130
+Pacific,2014,1690
+"Berkeley, CA",2014,16
+"Fresno, CA",2014,135
+"Glendale, CA",2014,26
+"Honolulu, HI",2014,62
+"Long Beach, CA",2014,60
+"Los Angeles, CA",2014,220
+"Pasadena, CA",2014,21
+"Portland, OR",2014,122
+"Sacramento, CA",2014,231
+"San Diego, CA",2014,146
+"San Francisco, CA",2014,106
+"San Jose, CA",2014,212
+"Santa Cruz, CA",2014,37
+"Seattle, WA",2014,126
+"Spokane, WA",2014,58
+"Tacoma, WA",2014,112
+Totalå¦,2014,10934
+New England,2014,510
+"Boston, MA",2014,135
+"Bridgeport, CT",2014,38
+"Cambridge, MA",2014,14
+"Fall River, MA",2014,33
+"Hartford, CT",2014,33
+"Lowell, MA",2014,19
+"Lynn, MA",2014,6
+"New Bedford, MA",2014,27
+"New Haven, CT",2014,35
+"Providence, RI",2014,56
+"Somerville, MA",2014,2
+"Springfield, MA",2014,39
+"Waterbury, CT",2014,14
+"Worcester, MA",2014,59
+Mid. Atlantic,2014,1516
+"Albany, NY",2014,37
+"Allentown, PA",2014,24
+"Buffalo, NY",2014,78
+"Camden, NJ",2014,33
+"Elizabeth, NJ",2014,12
+"Erie, PA",2014,57
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,869
+"Newark, NJ",2014,35
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,37
+"Reading, PA",2014,29
+"Rochester, NY",2014,141
+"Schenectady, NY",2014,18
+"Scranton, PA",2014,29
+"Syracuse, NY",2014,56
+"Trenton, NJ",2014,9
+"Utica, NY",2014,22
+"Yonkers, NY",2014,10
+E.N. Central,2014,1871
+"Akron, OH",2014,38
+"Canton, OH",2014,24
+"Chicago, IL",2014,223
+"Cincinnati, OH",2014,73
+"Cleveland, OH",2014,219
+"Columbus, OH",2014,143
+"Dayton, OH",2014,106
+"Detroit, MI",2014,253
+"Evansville, IN",2014,64
+"Fort Wayne, IN",2014,65
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,48
+"Indianapolis, IN",2014,185
+"Lansing, MI",2014,35
+"Milwaukee, WI",2014,93
+"Peoria, IL",2014,50
+"Rockford, IL",2014,54
+"South Bend, IN",2014,39
+"Toledo, OH",2014,83
+"Youngstown, OH",2014,64
+W.N. Central,2014,512
+"Des Moines, IA",2014,5
+"Duluth, MN",2014,31
+"Kansas City, KS",2014,12
+"Kansas City, MO",2014,83
+"Lincoln, NC",2014,39
+"Minneapolis, MN",2014,60
+"Omaha, NE",2014,71
+"St. Louis, MO",2014,111
+"St. Paul, MN",2014,51
+"Wichita, KS",2014,49
+S. Atlantic,2014,956
+"Atlanta, GA",2014,89
+"Baltimore, MD",2014,174
+"Charlotte, NC",2014,119
+"Jacksonville, FL",2014,135
+"Miami, FL",2014,60
+"Norfolk, VA",2014,45
+"Richmond, VA",2014,45
+"Savannah, GA",2014,49
+"St. Petersburg, FL",2014,61
+"Tampa, FL",2014,96
+"Washington, D.C.",2014,71
+"Wilmington, DE",2014,12
+E.S. Central,2014,817
+"Birmingham, AL",2014,165
+"Chattanooga, TN",2014,64
+"Knoxville, TN",2014,67
+"Lexington, KY",2014,97
+"Memphis, TN",2014,125
+"Mobile, AL",2014,106
+"Montgomery, AL",2014,57
+"Nashville, TN",2014,136
+W.S. Central,2014,1421
+"Austin, TX",2014,75
+"Baton Rouge, LA",2014,107
+"Corpus Christi, TX",2014,54
+"Dallas, TX",2014,222
+"El Paso, TX",2014,78
+"Fort Worth, TX",2014,
+"Houston, TX",2014,402
+"Little Rock, AR",2014,96
+"New Orleans, LA",2014,81
+"San Antonio, TX",2014,228
+"Shreveport, LA",2014,65
+"Tulsa, OK",2014,13
+Mountain,2014,1168
+"Albuquerque, NM",2014,117
+"Boise, ID",2014,59
+"Colorado Springs, CO",2014,71
+"Denver, CO",2014,91
+"Las Vegas, NV",2014,347
+"Ogden, UT",2014,37
+"Phoenix, AZ",2014,154
+"Pueblo, CO",2014,28
+"Salt Lake City, UT",2014,107
+"Tucson, AZ",2014,157
+Pacific,2014,1510
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,131
+"Glendale, CA",2014,33
+"Honolulu, HI",2014,79
+"Long Beach, CA",2014,56
+"Los Angeles, CA",2014,204
+"Pasadena, CA",2014,28
+"Portland, OR",2014,98
+"Sacramento, CA",2014,174
+"San Diego, CA",2014,135
+"San Francisco, CA",2014,110
+"San Jose, CA",2014,169
+"Santa Cruz, CA",2014,26
+"Seattle, WA",2014,68
+"Spokane, WA",2014,65
+"Tacoma, WA",2014,121
+Totalå¦,2014,10281
+New England,2014,548
+"Boston, MA",2014,111
+"Bridgeport, CT",2014,22
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,24
+"Hartford, CT",2014,56
+"Lowell, MA",2014,24
+"Lynn, MA",2014,14
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,42
+"Providence, RI",2014,64
+"Somerville, MA",2014,2
+"Springfield, MA",2014,60
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,60
+Mid. Atlantic,2014,1665
+"Albany, NY",2014,42
+"Allentown, PA",2014,23
+"Buffalo, NY",2014,107
+"Camden, NJ",2014,13
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,47
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,953
+"Newark, NJ",2014,29
+"Paterson, NJ",2014,16
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,34
+"Reading, PA",2014,22
+"Rochester, NY",2014,120
+"Schenectady, NY",2014,24
+"Scranton, PA",2014,26
+"Syracuse, NY",2014,122
+"Trenton, NJ",2014,18
+"Utica, NY",2014,16
+"Yonkers, NY",2014,19
+E.N. Central,2014,2237
+"Akron, OH",2014,49
+"Canton, OH",2014,23
+"Chicago, IL",2014,291
+"Cincinnati, OH",2014,103
+"Cleveland, OH",2014,281
+"Columbus, OH",2014,285
+"Dayton, OH",2014,145
+"Detroit, MI",2014,175
+"Evansville, IN",2014,49
+"Fort Wayne, IN",2014,91
+"Gary, IN",2014,7
+"Grand Rapids, MI",2014,64
+"Indianapolis, IN",2014,212
+"Lansing, MI",2014,56
+"Milwaukee, WI",2014,79
+"Peoria, IL",2014,58
+"Rockford, IL",2014,58
+"South Bend, IN",2014,52
+"Toledo, OH",2014,109
+"Youngstown, OH",2014,50
+W.N. Central,2014,627
+"Des Moines, IA",2014,3
+"Duluth, MN",2014,37
+"Kansas City, KS",2014,36
+"Kansas City, MO",2014,111
+"Lincoln, NC",2014,60
+"Minneapolis, MN",2014,62
+"Omaha, NE",2014,92
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,48
+"Wichita, KS",2014,83
+S. Atlantic,2014,1129
+"Atlanta, GA",2014,110
+"Baltimore, MD",2014,105
+"Charlotte, NC",2014,154
+"Jacksonville, FL",2014,158
+"Miami, FL",2014,62
+"Norfolk, VA",2014,62
+"Richmond, VA",2014,76
+"Savannah, GA",2014,71
+"St. Petersburg, FL",2014,61
+"Tampa, FL",2014,147
+"Washington, D.C.",2014,107
+"Wilmington, DE",2014,16
+E.S. Central,2014,1023
+"Birmingham, AL",2014,183
+"Chattanooga, TN",2014,94
+"Knoxville, TN",2014,151
+"Lexington, KY",2014,61
+"Memphis, TN",2014,239
+"Mobile, AL",2014,83
+"Montgomery, AL",2014,41
+"Nashville, TN",2014,171
+W.S. Central,2014,1715
+"Austin, TX",2014,96
+"Baton Rouge, LA",2014,89
+"Corpus Christi, TX",2014,52
+"Dallas, TX",2014,200
+"El Paso, TX",2014,134
+"Fort Worth, TX",2014,
+"Houston, TX",2014,484
+"Little Rock, AR",2014,110
+"New Orleans, LA",2014,76
+"San Antonio, TX",2014,260
+"Shreveport, LA",2014,72
+"Tulsa, OK",2014,142
+Mountain,2014,1268
+"Albuquerque, NM",2014,130
+"Boise, ID",2014,67
+"Colorado Springs, CO",2014,102
+"Denver, CO",2014,91
+"Las Vegas, NV",2014,293
+"Ogden, UT",2014,35
+"Phoenix, AZ",2014,172
+"Pueblo, CO",2014,44
+"Salt Lake City, UT",2014,146
+"Tucson, AZ",2014,188
+Pacific,2014,1874
+"Berkeley, CA",2014,18
+"Fresno, CA",2014,116
+"Glendale, CA",2014,37
+"Honolulu, HI",2014,98
+"Long Beach, CA",2014,70
+"Los Angeles, CA",2014,268
+"Pasadena, CA",2014,29
+"Portland, OR",2014,148
+"Sacramento, CA",2014,231
+"San Diego, CA",2014,203
+"San Francisco, CA",2014,85
+"San Jose, CA",2014,192
+"Santa Cruz, CA",2014,38
+"Seattle, WA",2014,135
+"Spokane, WA",2014,82
+"Tacoma, WA",2014,124
+Totalå¦,2014,12086
+New England,2014,543
+"Boston, MA",2014,144
+"Bridgeport, CT",2014,33
+"Cambridge, MA",2014,20
+"Fall River, MA",2014,25
+"Hartford, CT",2014,54
+"Lowell, MA",2014,20
+"Lynn, MA",2014,6
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,32
+"Providence, RI",2014,62
+"Somerville, MA",2014,4
+"Springfield, MA",2014,35
+"Waterbury, CT",2014,32
+"Worcester, MA",2014,54
+Mid. Atlantic,2014,1769
+"Albany, NY",2014,67
+"Allentown, PA",2014,29
+"Buffalo, NY",2014,81
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,16
+"Erie, PA",2014,46
+"Jersey City, NJ",2014,24
+"New York City, NY",2014,1016
+"Newark, NJ",2014,66
+"Paterson, NJ",2014,15
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,35
+"Rochester, NY",2014,156
+"Schenectady, NY",2014,22
+"Scranton, PA",2014,32
+"Syracuse, NY",2014,49
+"Trenton, NJ",2014,14
+"Utica, NY",2014,11
+"Yonkers, NY",2014,21
+E.N. Central,2014,1953
+"Akron, OH",2014,52
+"Canton, OH",2014,33
+"Chicago, IL",2014,250
+"Cincinnati, OH",2014,79
+"Cleveland, OH",2014,283
+"Columbus, OH",2014,235
+"Dayton, OH",2014,143
+"Detroit, MI",2014,127
+"Evansville, IN",2014,58
+"Fort Wayne, IN",2014,76
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,54
+"Indianapolis, IN",2014,186
+"Lansing, MI",2014,47
+"Milwaukee, WI",2014,
+"Peoria, IL",2014,42
+"Rockford, IL",2014,52
+"South Bend, IN",2014,69
+"Toledo, OH",2014,93
+"Youngstown, OH",2014,62
+W.N. Central,2014,638
+"Des Moines, IA",2014,4
+"Duluth, MN",2014,27
+"Kansas City, KS",2014,30
+"Kansas City, MO",2014,116
+"Lincoln, NC",2014,43
+"Minneapolis, MN",2014,65
+"Omaha, NE",2014,94
+"St. Louis, MO",2014,85
+"St. Paul, MN",2014,69
+"Wichita, KS",2014,105
+S. Atlantic,2014,1051
+"Atlanta, GA",2014,91
+"Baltimore, MD",2014,136
+"Charlotte, NC",2014,151
+"Jacksonville, FL",2014,155
+"Miami, FL",2014,52
+"Norfolk, VA",2014,53
+"Richmond, VA",2014,54
+"Savannah, GA",2014,56
+"St. Petersburg, FL",2014,63
+"Tampa, FL",2014,117
+"Washington, D.C.",2014,107
+"Wilmington, DE",2014,16
+E.S. Central,2014,934
+"Birmingham, AL",2014,180
+"Chattanooga, TN",2014,73
+"Knoxville, TN",2014,126
+"Lexington, KY",2014,66
+"Memphis, TN",2014,186
+"Mobile, AL",2014,80
+"Montgomery, AL",2014,59
+"Nashville, TN",2014,164
+W.S. Central,2014,1403
+"Austin, TX",2014,92
+"Baton Rouge, LA",2014,85
+"Corpus Christi, TX",2014,53
+"Dallas, TX",2014,234
+"El Paso, TX",2014,61
+"Fort Worth, TX",2014,
+"Houston, TX",2014,300
+"Little Rock, AR",2014,63
+"New Orleans, LA",2014,49
+"San Antonio, TX",2014,258
+"Shreveport, LA",2014,61
+"Tulsa, OK",2014,147
+Mountain,2014,1171
+"Albuquerque, NM",2014,124
+"Boise, ID",2014,56
+"Colorado Springs, CO",2014,78
+"Denver, CO",2014,115
+"Las Vegas, NV",2014,277
+"Ogden, UT",2014,32
+"Phoenix, AZ",2014,164
+"Pueblo, CO",2014,45
+"Salt Lake City, UT",2014,123
+"Tucson, AZ",2014,157
+Pacific,2014,1771
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,125
+"Glendale, CA",2014,39
+"Honolulu, HI",2014,73
+"Long Beach, CA",2014,70
+"Los Angeles, CA",2014,235
+"Pasadena, CA",2014,20
+"Portland, OR",2014,136
+"Sacramento, CA",2014,257
+"San Diego, CA",2014,176
+"San Francisco, CA",2014,106
+"San Jose, CA",2014,214
+"Santa Cruz, CA",2014,26
+"Seattle, WA",2014,96
+"Spokane, WA",2014,58
+"Tacoma, WA",2014,127
+Totalå¦,2014,11233
+New England,2014,535
+"Boston, MA",2014,143
+"Bridgeport, CT",2014,26
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,26
+"Hartford, CT",2014,56
+"Lowell, MA",2014,24
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,31
+"Providence, RI",2014,61
+"Somerville, MA",2014,1
+"Springfield, MA",2014,37
+"Waterbury, CT",2014,30
+"Worcester, MA",2014,56
+Mid. Atlantic,2014,1642
+"Albany, NY",2014,49
+"Allentown, PA",2014,31
+"Buffalo, NY",2014,85
+"Camden, NJ",2014,25
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,72
+"Jersey City, NJ",2014,15
+"New York City, NY",2014,958
+"Newark, NJ",2014,42
+"Paterson, NJ",2014,18
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,35
+"Rochester, NY",2014,109
+"Schenectady, NY",2014,18
+"Scranton, PA",2014,30
+"Syracuse, NY",2014,49
+"Trenton, NJ",2014,14
+"Utica, NY",2014,12
+"Yonkers, NY",2014,18
+E.N. Central,2014,1858
+"Akron, OH",2014,37
+"Canton, OH",2014,33
+"Chicago, IL",2014,275
+"Cincinnati, OH",2014,85
+"Cleveland, OH",2014,240
+"Columbus, OH",2014,
+"Dayton, OH",2014,123
+"Detroit, MI",2014,215
+"Evansville, IN",2014,48
+"Fort Wayne, IN",2014,71
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,64
+"Indianapolis, IN",2014,189
+"Lansing, MI",2014,48
+"Milwaukee, WI",2014,75
+"Peoria, IL",2014,60
+"Rockford, IL",2014,64
+"South Bend, IN",2014,58
+"Toledo, OH",2014,92
+"Youngstown, OH",2014,69
+W.N. Central,2014,621
+"Des Moines, IA",2014,2
+"Duluth, MN",2014,35
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,104
+"Lincoln, NC",2014,55
+"Minneapolis, MN",2014,68
+"Omaha, NE",2014,96
+"St. Louis, MO",2014,94
+"St. Paul, MN",2014,61
+"Wichita, KS",2014,77
+S. Atlantic,2014,1036
+"Atlanta, GA",2014,86
+"Baltimore, MD",2014,142
+"Charlotte, NC",2014,120
+"Jacksonville, FL",2014,139
+"Miami, FL",2014,70
+"Norfolk, VA",2014,50
+"Richmond, VA",2014,57
+"Savannah, GA",2014,60
+"St. Petersburg, FL",2014,63
+"Tampa, FL",2014,104
+"Washington, D.C.",2014,139
+"Wilmington, DE",2014,6
+E.S. Central,2014,888
+"Birmingham, AL",2014,186
+"Chattanooga, TN",2014,79
+"Knoxville, TN",2014,89
+"Lexington, KY",2014,71
+"Memphis, TN",2014,174
+"Mobile, AL",2014,82
+"Montgomery, AL",2014,41
+"Nashville, TN",2014,166
+W.S. Central,2014,1641
+"Austin, TX",2014,101
+"Baton Rouge, LA",2014,82
+"Corpus Christi, TX",2014,80
+"Dallas, TX",2014,199
+"El Paso, TX",2014,86
+"Fort Worth, TX",2014,
+"Houston, TX",2014,464
+"Little Rock, AR",2014,69
+"New Orleans, LA",2014,54
+"San Antonio, TX",2014,269
+"Shreveport, LA",2014,90
+"Tulsa, OK",2014,147
+Mountain,2014,1062
+"Albuquerque, NM",2014,128
+"Boise, ID",2014,45
+"Colorado Springs, CO",2014,73
+"Denver, CO",2014,86
+"Las Vegas, NV",2014,245
+"Ogden, UT",2014,39
+"Phoenix, AZ",2014,157
+"Pueblo, CO",2014,32
+"Salt Lake City, UT",2014,120
+"Tucson, AZ",2014,137
+Pacific,2014,1573
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,116
+"Glendale, CA",2014,25
+"Honolulu, HI",2014,77
+"Long Beach, CA",2014,63
+"Los Angeles, CA",2014,209
+"Pasadena, CA",2014,25
+"Portland, OR",2014,92
+"Sacramento, CA",2014,204
+"San Diego, CA",2014,147
+"San Francisco, CA",2014,99
+"San Jose, CA",2014,196
+"Santa Cruz, CA",2014,29
+"Seattle, WA",2014,93
+"Spokane, WA",2014,56
+"Tacoma, WA",2014,131
+Totalå¦,2014,10856
+New England,2014,550
+"Boston, MA",2014,139
+"Bridgeport, CT",2014,36
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,23
+"Hartford, CT",2014,42
+"Lowell, MA",2014,17
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,42
+"Providence, RI",2014,70
+"Somerville, MA",2014,1
+"Springfield, MA",2014,35
+"Waterbury, CT",2014,36
+"Worcester, MA",2014,62
+Mid. Atlantic,2014,1630
+"Albany, NY",2014,52
+"Allentown, PA",2014,26
+"Buffalo, NY",2014,89
+"Camden, NJ",2014,30
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,33
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,947
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,20
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,51
+"Reading, PA",2014,39
+"Rochester, NY",2014,119
+"Schenectady, NY",2014,10
+"Scranton, PA",2014,27
+"Syracuse, NY",2014,58
+"Trenton, NJ",2014,19
+"Utica, NY",2014,16
+"Yonkers, NY",2014,21
+E.N. Central,2014,1977
+"Akron, OH",2014,59
+"Canton, OH",2014,34
+"Chicago, IL",2014,253
+"Cincinnati, OH",2014,85
+"Cleveland, OH",2014,246
+"Columbus, OH",2014,238
+"Dayton, OH",2014,145
+"Detroit, MI",2014,111
+"Evansville, IN",2014,43
+"Fort Wayne, IN",2014,73
+"Gary, IN",2014,10
+"Grand Rapids, MI",2014,50
+"Indianapolis, IN",2014,176
+"Lansing, MI",2014,40
+"Milwaukee, WI",2014,89
+"Peoria, IL",2014,49
+"Rockford, IL",2014,54
+"South Bend, IN",2014,71
+"Toledo, OH",2014,96
+"Youngstown, OH",2014,55
+W.N. Central,2014,697
+"Des Moines, IA",2014,
+"Duluth, MN",2014,35
+"Kansas City, KS",2014,20
+"Kansas City, MO",2014,101
+"Lincoln, NC",2014,32
+"Minneapolis, MN",2014,53
+"Omaha, NE",2014,82
+"St. Louis, MO",2014,237
+"St. Paul, MN",2014,51
+"Wichita, KS",2014,86
+S. Atlantic,2014,1014
+"Atlanta, GA",2014,96
+"Baltimore, MD",2014,156
+"Charlotte, NC",2014,141
+"Jacksonville, FL",2014,154
+"Miami, FL",2014,70
+"Norfolk, VA",2014,52
+"Richmond, VA",2014,47
+"Savannah, GA",2014,56
+"St. Petersburg, FL",2014,53
+"Tampa, FL",2014,97
+"Washington, D.C.",2014,83
+"Wilmington, DE",2014,9
+E.S. Central,2014,939
+"Birmingham, AL",2014,180
+"Chattanooga, TN",2014,75
+"Knoxville, TN",2014,105
+"Lexington, KY",2014,90
+"Memphis, TN",2014,194
+"Mobile, AL",2014,89
+"Montgomery, AL",2014,32
+"Nashville, TN",2014,174
+W.S. Central,2014,1513
+"Austin, TX",2014,99
+"Baton Rouge, LA",2014,73
+"Corpus Christi, TX",2014,47
+"Dallas, TX",2014,203
+"El Paso, TX",2014,115
+"Fort Worth, TX",2014,
+"Houston, TX",2014,371
+"Little Rock, AR",2014,78
+"New Orleans, LA",2014,83
+"San Antonio, TX",2014,238
+"Shreveport, LA",2014,95
+"Tulsa, OK",2014,111
+Mountain,2014,1288
+"Albuquerque, NM",2014,111
+"Boise, ID",2014,68
+"Colorado Springs, CO",2014,61
+"Denver, CO",2014,81
+"Las Vegas, NV",2014,361
+"Ogden, UT",2014,46
+"Phoenix, AZ",2014,184
+"Pueblo, CO",2014,34
+"Salt Lake City, UT",2014,126
+"Tucson, AZ",2014,216
+Pacific,2014,1632
+"Berkeley, CA",2014,18
+"Fresno, CA",2014,118
+"Glendale, CA",2014,17
+"Honolulu, HI",2014,93
+"Long Beach, CA",2014,57
+"Los Angeles, CA",2014,266
+"Pasadena, CA",2014,28
+"Portland, OR",2014,98
+"Sacramento, CA",2014,199
+"San Diego, CA",2014,147
+"San Francisco, CA",2014,120
+"San Jose, CA",2014,180
+"Santa Cruz, CA",2014,32
+"Seattle, WA",2014,88
+"Spokane, WA",2014,43
+"Tacoma, WA",2014,128
+Totalå¦,2014,11240
+New England,2014,418
+"Boston, MA",2014,124
+"Bridgeport, CT",2014,35
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,22
+"Hartford, CT",2014,44
+"Lowell, MA",2014,21
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,32
+"Providence, RI",2014,
+"Somerville, MA",2014,1
+"Springfield, MA",2014,30
+"Waterbury, CT",2014,15
+"Worcester, MA",2014,53
+Mid. Atlantic,2014,1629
+"Albany, NY",2014,57
+"Allentown, PA",2014,17
+"Buffalo, NY",2014,86
+"Camden, NJ",2014,19
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,63
+"Jersey City, NJ",2014,16
+"New York City, NY",2014,951
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,11
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,28
+"Reading, PA",2014,21
+"Rochester, NY",2014,147
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,29
+"Syracuse, NY",2014,86
+"Trenton, NJ",2014,8
+"Utica, NY",2014,15
+"Yonkers, NY",2014,13
+E.N. Central,2014,1724
+"Akron, OH",2014,32
+"Canton, OH",2014,23
+"Chicago, IL",2014,239
+"Cincinnati, OH",2014,67
+"Cleveland, OH",2014,245
+"Columbus, OH",2014,207
+"Dayton, OH",2014,96
+"Detroit, MI",2014,155
+"Evansville, IN",2014,40
+"Fort Wayne, IN",2014,56
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,58
+"Indianapolis, IN",2014,218
+"Lansing, MI",2014,39
+"Milwaukee, WI",2014,29
+"Peoria, IL",2014,38
+"Rockford, IL",2014,39
+"South Bend, IN",2014,34
+"Toledo, OH",2014,55
+"Youngstown, OH",2014,43
+W.N. Central,2014,522
+"Des Moines, IA",2014,
+"Duluth, MN",2014,23
+"Kansas City, KS",2014,23
+"Kansas City, MO",2014,88
+"Lincoln, NC",2014,27
+"Minneapolis, MN",2014,75
+"Omaha, NE",2014,73
+"St. Louis, MO",2014,80
+"St. Paul, MN",2014,56
+"Wichita, KS",2014,77
+S. Atlantic,2014,888
+"Atlanta, GA",2014,64
+"Baltimore, MD",2014,172
+"Charlotte, NC",2014,96
+"Jacksonville, FL",2014,140
+"Miami, FL",2014,36
+"Norfolk, VA",2014,31
+"Richmond, VA",2014,67
+"Savannah, GA",2014,49
+"St. Petersburg, FL",2014,46
+"Tampa, FL",2014,87
+"Washington, D.C.",2014,94
+"Wilmington, DE",2014,6
+E.S. Central,2014,535
+"Birmingham, AL",2014,
+"Chattanooga, TN",2014,76
+"Knoxville, TN",2014,140
+"Lexington, KY",2014,59
+"Memphis, TN",2014,155
+"Mobile, AL",2014,
+"Montgomery, AL",2014,
+"Nashville, TN",2014,105
+W.S. Central,2014,1205
+"Austin, TX",2014,72
+"Baton Rouge, LA",2014,88
+"Corpus Christi, TX",2014,56
+"Dallas, TX",2014,182
+"El Paso, TX",2014,105
+"Fort Worth, TX",2014,
+"Houston, TX",2014,332
+"Little Rock, AR",2014,38
+"New Orleans, LA",2014,52
+"San Antonio, TX",2014,193
+"Shreveport, LA",2014,59
+"Tulsa, OK",2014,28
+Mountain,2014,921
+"Albuquerque, NM",2014,86
+"Boise, ID",2014,38
+"Colorado Springs, CO",2014,64
+"Denver, CO",2014,97
+"Las Vegas, NV",2014,196
+"Ogden, UT",2014,21
+"Phoenix, AZ",2014,145
+"Pueblo, CO",2014,34
+"Salt Lake City, UT",2014,123
+"Tucson, AZ",2014,117
+Pacific,2014,1404
+"Berkeley, CA",2014,8
+"Fresno, CA",2014,97
+"Glendale, CA",2014,12
+"Honolulu, HI",2014,61
+"Long Beach, CA",2014,34
+"Los Angeles, CA",2014,194
+"Pasadena, CA",2014,16
+"Portland, OR",2014,75
+"Sacramento, CA",2014,209
+"San Diego, CA",2014,134
+"San Francisco, CA",2014,86
+"San Jose, CA",2014,176
+"Santa Cruz, CA",2014,29
+"Seattle, WA",2014,89
+"Spokane, WA",2014,53
+"Tacoma, WA",2014,131
+Totalå¦,2014,9246
+New England,2014,519
+"Boston, MA",2014,136
+"Bridgeport, CT",2014,24
+"Cambridge, MA",2014,14
+"Fall River, MA",2014,22
+"Hartford, CT",2014,49
+"Lowell, MA",2014,28
+"Lynn, MA",2014,14
+"New Bedford, MA",2014,21
+"New Haven, CT",2014,40
+"Providence, RI",2014,41
+"Somerville, MA",2014,5
+"Springfield, MA",2014,29
+"Waterbury, CT",2014,29
+"Worcester, MA",2014,67
+Mid. Atlantic,2014,1622
+"Albany, NY",2014,40
+"Allentown, PA",2014,33
+"Buffalo, NY",2014,79
+"Camden, NJ",2014,25
+"Elizabeth, NJ",2014,27
+"Erie, PA",2014,50
+"Jersey City, NJ",2014,21
+"New York City, NY",2014,869
+"Newark, NJ",2014,35
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,41
+"Reading, PA",2014,34
+"Rochester, NY",2014,166
+"Schenectady, NY",2014,23
+"Scranton, PA",2014,20
+"Syracuse, NY",2014,85
+"Trenton, NJ",2014,26
+"Utica, NY",2014,11
+"Yonkers, NY",2014,20
+E.N. Central,2014,1856
+"Akron, OH",2014,51
+"Canton, OH",2014,22
+"Chicago, IL",2014,264
+"Cincinnati, OH",2014,75
+"Cleveland, OH",2014,225
+"Columbus, OH",2014,200
+"Dayton, OH",2014,123
+"Detroit, MI",2014,99
+"Evansville, IN",2014,42
+"Fort Wayne, IN",2014,70
+"Gary, IN",2014,10
+"Grand Rapids, MI",2014,55
+"Indianapolis, IN",2014,158
+"Lansing, MI",2014,50
+"Milwaukee, WI",2014,57
+"Peoria, IL",2014,72
+"Rockford, IL",2014,62
+"South Bend, IN",2014,48
+"Toledo, OH",2014,98
+"Youngstown, OH",2014,75
+W.N. Central,2014,737
+"Des Moines, IA",2014,
+"Duluth, MN",2014,28
+"Kansas City, KS",2014,22
+"Kansas City, MO",2014,113
+"Lincoln, NC",2014,46
+"Minneapolis, MN",2014,82
+"Omaha, NE",2014,102
+"St. Louis, MO",2014,192
+"St. Paul, MN",2014,48
+"Wichita, KS",2014,104
+S. Atlantic,2014,1216
+"Atlanta, GA",2014,102
+"Baltimore, MD",2014,169
+"Charlotte, NC",2014,155
+"Jacksonville, FL",2014,174
+"Miami, FL",2014,66
+"Norfolk, VA",2014,60
+"Richmond, VA",2014,81
+"Savannah, GA",2014,74
+"St. Petersburg, FL",2014,79
+"Tampa, FL",2014,115
+"Washington, D.C.",2014,130
+"Wilmington, DE",2014,11
+E.S. Central,2014,1000
+"Birmingham, AL",2014,206
+"Chattanooga, TN",2014,112
+"Knoxville, TN",2014,101
+"Lexington, KY",2014,89
+"Memphis, TN",2014,181
+"Mobile, AL",2014,96
+"Montgomery, AL",2014,50
+"Nashville, TN",2014,165
+W.S. Central,2014,1474
+"Austin, TX",2014,105
+"Baton Rouge, LA",2014,111
+"Corpus Christi, TX",2014,59
+"Dallas, TX",2014,228
+"El Paso, TX",2014,86
+"Fort Worth, TX",2014,
+"Houston, TX",2014,329
+"Little Rock, AR",2014,45
+"New Orleans, LA",2014,59
+"San Antonio, TX",2014,265
+"Shreveport, LA",2014,82
+"Tulsa, OK",2014,105
+Mountain,2014,1165
+"Albuquerque, NM",2014,133
+"Boise, ID",2014,60
+"Colorado Springs, CO",2014,96
+"Denver, CO",2014,68
+"Las Vegas, NV",2014,302
+"Ogden, UT",2014,36
+"Phoenix, AZ",2014,152
+"Pueblo, CO",2014,36
+"Salt Lake City, UT",2014,141
+"Tucson, AZ",2014,141
+Pacific,2014,1864
+"Berkeley, CA",2014,16
+"Fresno, CA",2014,127
+"Glendale, CA",2014,24
+"Honolulu, HI",2014,88
+"Long Beach, CA",2014,66
+"Los Angeles, CA",2014,251
+"Pasadena, CA",2014,22
+"Portland, OR",2014,147
+"Sacramento, CA",2014,228
+"San Diego, CA",2014,184
+"San Francisco, CA",2014,109
+"San Jose, CA",2014,212
+"Santa Cruz, CA",2014,35
+"Seattle, WA",2014,140
+"Spokane, WA",2014,62
+"Tacoma, WA",2014,153
+Totalå¦,2014,11453
+New England,2014,553
+"Boston, MA",2014,161
+"Bridgeport, CT",2014,31
+"Cambridge, MA",2014,10
+"Fall River, MA",2014,15
+"Hartford, CT",2014,53
+"Lowell, MA",2014,26
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,21
+"New Haven, CT",2014,50
+"Providence, RI",2014,84
+"Somerville, MA",2014,1
+"Springfield, MA",2014,23
+"Waterbury, CT",2014,15
+"Worcester, MA",2014,53
+Mid. Atlantic,2014,1695
+"Albany, NY",2014,46
+"Allentown, PA",2014,36
+"Buffalo, NY",2014,95
+"Camden, NJ",2014,17
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,46
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,993
+"Newark, NJ",2014,28
+"Paterson, NJ",2014,22
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,43
+"Reading, PA",2014,31
+"Rochester, NY",2014,133
+"Schenectady, NY",2014,23
+"Scranton, PA",2014,41
+"Syracuse, NY",2014,59
+"Trenton, NJ",2014,17
+"Utica, NY",2014,15
+"Yonkers, NY",2014,5
+E.N. Central,2014,2135
+"Akron, OH",2014,61
+"Canton, OH",2014,34
+"Chicago, IL",2014,279
+"Cincinnati, OH",2014,87
+"Cleveland, OH",2014,268
+"Columbus, OH",2014,247
+"Dayton, OH",2014,112
+"Detroit, MI",2014,170
+"Evansville, IN",2014,60
+"Fort Wayne, IN",2014,98
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,58
+"Indianapolis, IN",2014,226
+"Lansing, MI",2014,41
+"Milwaukee, WI",2014,71
+"Peoria, IL",2014,46
+"Rockford, IL",2014,48
+"South Bend, IN",2014,45
+"Toledo, OH",2014,105
+"Youngstown, OH",2014,64
+W.N. Central,2014,636
+"Des Moines, IA",2014,
+"Duluth, MN",2014,25
+"Kansas City, KS",2014,35
+"Kansas City, MO",2014,107
+"Lincoln, NC",2014,43
+"Minneapolis, MN",2014,75
+"Omaha, NE",2014,89
+"St. Louis, MO",2014,117
+"St. Paul, MN",2014,56
+"Wichita, KS",2014,89
+S. Atlantic,2014,936
+"Atlanta, GA",2014,71
+"Baltimore, MD",2014,125
+"Charlotte, NC",2014,141
+"Jacksonville, FL",2014,142
+"Miami, FL",2014,39
+"Norfolk, VA",2014,40
+"Richmond, VA",2014,74
+"Savannah, GA",2014,62
+"St. Petersburg, FL",2014,53
+"Tampa, FL",2014,85
+"Washington, D.C.",2014,98
+"Wilmington, DE",2014,6
+E.S. Central,2014,857
+"Birmingham, AL",2014,158
+"Chattanooga, TN",2014,78
+"Knoxville, TN",2014,106
+"Lexington, KY",2014,66
+"Memphis, TN",2014,170
+"Mobile, AL",2014,69
+"Montgomery, AL",2014,39
+"Nashville, TN",2014,171
+W.S. Central,2014,1598
+"Austin, TX",2014,81
+"Baton Rouge, LA",2014,101
+"Corpus Christi, TX",2014,66
+"Dallas, TX",2014,231
+"El Paso, TX",2014,142
+"Fort Worth, TX",2014,
+"Houston, TX",2014,425
+"Little Rock, AR",2014,48
+"New Orleans, LA",2014,36
+"San Antonio, TX",2014,271
+"Shreveport, LA",2014,52
+"Tulsa, OK",2014,145
+Mountain,2014,1095
+"Albuquerque, NM",2014,100
+"Boise, ID",2014,45
+"Colorado Springs, CO",2014,80
+"Denver, CO",2014,93
+"Las Vegas, NV",2014,239
+"Ogden, UT",2014,37
+"Phoenix, AZ",2014,176
+"Pueblo, CO",2014,30
+"Salt Lake City, UT",2014,140
+"Tucson, AZ",2014,155
+Pacific,2014,1657
+"Berkeley, CA",2014,7
+"Fresno, CA",2014,133
+"Glendale, CA",2014,17
+"Honolulu, HI",2014,82
+"Long Beach, CA",2014,65
+"Los Angeles, CA",2014,244
+"Pasadena, CA",2014,29
+"Portland, OR",2014,108
+"Sacramento, CA",2014,202
+"San Diego, CA",2014,162
+"San Francisco, CA",2014,96
+"San Jose, CA",2014,210
+"Santa Cruz, CA",2014,23
+"Seattle, WA",2014,114
+"Spokane, WA",2014,61
+"Tacoma, WA",2014,104
+Totalå¦,2014,11162
+New England,2014,508
+"Boston, MA",2014,121
+"Bridgeport, CT",2014,40
+"Cambridge, MA",2014,10
+"Fall River, MA",2014,30
+"Hartford, CT",2014,52
+"Lowell, MA",2014,22
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,33
+"Providence, RI",2014,56
+"Somerville, MA",2014,3
+"Springfield, MA",2014,31
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,56
+Mid. Atlantic,2014,1755
+"Albany, NY",2014,38
+"Allentown, PA",2014,28
+"Buffalo, NY",2014,82
+"Camden, NJ",2014,30
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,43
+"Jersey City, NJ",2014,14
+"New York City, NY",2014,1128
+"Newark, NJ",2014,18
+"Paterson, NJ",2014,14
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,33
+"Reading, PA",2014,33
+"Rochester, NY",2014,124
+"Schenectady, NY",2014,15
+"Scranton, PA",2014,39
+"Syracuse, NY",2014,63
+"Trenton, NJ",2014,12
+"Utica, NY",2014,15
+"Yonkers, NY",2014,15
+E.N. Central,2014,1977
+"Akron, OH",2014,54
+"Canton, OH",2014,22
+"Chicago, IL",2014,251
+"Cincinnati, OH",2014,108
+"Cleveland, OH",2014,280
+"Columbus, OH",2014,215
+"Dayton, OH",2014,132
+"Detroit, MI",2014,113
+"Evansville, IN",2014,43
+"Fort Wayne, IN",2014,68
+"Gary, IN",2014,9
+"Grand Rapids, MI",2014,56
+"Indianapolis, IN",2014,203
+"Lansing, MI",2014,48
+"Milwaukee, WI",2014,69
+"Peoria, IL",2014,49
+"Rockford, IL",2014,64
+"South Bend, IN",2014,36
+"Toledo, OH",2014,100
+"Youngstown, OH",2014,57
+W.N. Central,2014,761
+"Des Moines, IA",2014,
+"Duluth, MN",2014,24
+"Kansas City, KS",2014,21
+"Kansas City, MO",2014,113
+"Lincoln, NC",2014,47
+"Minneapolis, MN",2014,60
+"Omaha, NE",2014,86
+"St. Louis, MO",2014,231
+"St. Paul, MN",2014,65
+"Wichita, KS",2014,114
+S. Atlantic,2014,1124
+"Atlanta, GA",2014,80
+"Baltimore, MD",2014,170
+"Charlotte, NC",2014,154
+"Jacksonville, FL",2014,166
+"Miami, FL",2014,69
+"Norfolk, VA",2014,61
+"Richmond, VA",2014,53
+"Savannah, GA",2014,59
+"St. Petersburg, FL",2014,59
+"Tampa, FL",2014,114
+"Washington, D.C.",2014,132
+"Wilmington, DE",2014,7
+E.S. Central,2014,878
+"Birmingham, AL",2014,162
+"Chattanooga, TN",2014,119
+"Knoxville, TN",2014,150
+"Lexington, KY",2014,66
+"Memphis, TN",2014,180
+"Mobile, AL",2014,87
+"Montgomery, AL",2014,63
+"Nashville, TN",2014,51
+W.S. Central,2014,1612
+"Austin, TX",2014,90
+"Baton Rouge, LA",2014,93
+"Corpus Christi, TX",2014,54
+"Dallas, TX",2014,193
+"El Paso, TX",2014,112
+"Fort Worth, TX",2014,
+"Houston, TX",2014,441
+"Little Rock, AR",2014,60
+"New Orleans, LA",2014,47
+"San Antonio, TX",2014,286
+"Shreveport, LA",2014,78
+"Tulsa, OK",2014,158
+Mountain,2014,1226
+"Albuquerque, NM",2014,116
+"Boise, ID",2014,68
+"Colorado Springs, CO",2014,89
+"Denver, CO",2014,77
+"Las Vegas, NV",2014,359
+"Ogden, UT",2014,31
+"Phoenix, AZ",2014,169
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,103
+"Tucson, AZ",2014,185
+Pacific,2014,1666
+"Berkeley, CA",2014,8
+"Fresno, CA",2014,142
+"Glendale, CA",2014,20
+"Honolulu, HI",2014,64
+"Long Beach, CA",2014,51
+"Los Angeles, CA",2014,258
+"Pasadena, CA",2014,16
+"Portland, OR",2014,144
+"Sacramento, CA",2014,197
+"San Diego, CA",2014,163
+"San Francisco, CA",2014,86
+"San Jose, CA",2014,192
+"Santa Cruz, CA",2014,27
+"Seattle, WA",2014,103
+"Spokane, WA",2014,66
+"Tacoma, WA",2014,129
+Totalå¦,2014,11507
+New England,2014,510
+"Boston, MA",2014,143
+"Bridgeport, CT",2014,22
+"Cambridge, MA",2014,8
+"Fall River, MA",2014,22
+"Hartford, CT",2014,41
+"Lowell, MA",2014,19
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,24
+"New Haven, CT",2014,34
+"Providence, RI",2014,56
+"Somerville, MA",2014,4
+"Springfield, MA",2014,43
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,62
+Mid. Atlantic,2014,1645
+"Albany, NY",2014,32
+"Allentown, PA",2014,29
+"Buffalo, NY",2014,90
+"Camden, NJ",2014,21
+"Elizabeth, NJ",2014,17
+"Erie, PA",2014,43
+"Jersey City, NJ",2014,17
+"New York City, NY",2014,919
+"Newark, NJ",2014,42
+"Paterson, NJ",2014,15
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,35
+"Rochester, NY",2014,143
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,34
+"Syracuse, NY",2014,76
+"Trenton, NJ",2014,35
+"Utica, NY",2014,17
+"Yonkers, NY",2014,21
+E.N. Central,2014,1782
+"Akron, OH",2014,54
+"Canton, OH",2014,31
+"Chicago, IL",2014,249
+"Cincinnati, OH",2014,69
+"Cleveland, OH",2014,255
+"Columbus, OH",2014,
+"Dayton, OH",2014,125
+"Detroit, MI",2014,138
+"Evansville, IN",2014,43
+"Fort Wayne, IN",2014,72
+"Gary, IN",2014,8
+"Grand Rapids, MI",2014,64
+"Indianapolis, IN",2014,218
+"Lansing, MI",2014,54
+"Milwaukee, WI",2014,52
+"Peoria, IL",2014,65
+"Rockford, IL",2014,62
+"South Bend, IN",2014,57
+"Toledo, OH",2014,87
+"Youngstown, OH",2014,79
+W.N. Central,2014,605
+"Des Moines, IA",2014,
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,20
+"Kansas City, MO",2014,133
+"Lincoln, NC",2014,44
+"Minneapolis, MN",2014,68
+"Omaha, NE",2014,71
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,60
+"Wichita, KS",2014,88
+S. Atlantic,2014,1078
+"Atlanta, GA",2014,160
+"Baltimore, MD",2014,147
+"Charlotte, NC",2014,124
+"Jacksonville, FL",2014,159
+"Miami, FL",2014,58
+"Norfolk, VA",2014,51
+"Richmond, VA",2014,48
+"Savannah, GA",2014,56
+"St. Petersburg, FL",2014,56
+"Tampa, FL",2014,114
+"Washington, D.C.",2014,98
+"Wilmington, DE",2014,7
+E.S. Central,2014,959
+"Birmingham, AL",2014,169
+"Chattanooga, TN",2014,104
+"Knoxville, TN",2014,108
+"Lexington, KY",2014,77
+"Memphis, TN",2014,153
+"Mobile, AL",2014,88
+"Montgomery, AL",2014,60
+"Nashville, TN",2014,200
+W.S. Central,2014,1463
+"Austin, TX",2014,92
+"Baton Rouge, LA",2014,96
+"Corpus Christi, TX",2014,65
+"Dallas, TX",2014,211
+"El Paso, TX",2014,97
+"Fort Worth, TX",2014,
+"Houston, TX",2014,355
+"Little Rock, AR",2014,79
+"New Orleans, LA",2014,42
+"San Antonio, TX",2014,284
+"Shreveport, LA",2014,53
+"Tulsa, OK",2014,89
+Mountain,2014,1170
+"Albuquerque, NM",2014,143
+"Boise, ID",2014,48
+"Colorado Springs, CO",2014,64
+"Denver, CO",2014,92
+"Las Vegas, NV",2014,310
+"Ogden, UT",2014,43
+"Phoenix, AZ",2014,170
+"Pueblo, CO",2014,32
+"Salt Lake City, UT",2014,134
+"Tucson, AZ",2014,134
+Pacific,2014,1722
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,121
+"Glendale, CA",2014,39
+"Honolulu, HI",2014,70
+"Long Beach, CA",2014,64
+"Los Angeles, CA",2014,252
+"Pasadena, CA",2014,29
+"Portland, OR",2014,129
+"Sacramento, CA",2014,216
+"San Diego, CA",2014,155
+"San Francisco, CA",2014,117
+"San Jose, CA",2014,208
+"Santa Cruz, CA",2014,30
+"Seattle, WA",2014,84
+"Spokane, WA",2014,65
+"Tacoma, WA",2014,130
+Totalå¦,2014,10934
+New England,2014,489
+"Boston, MA",2014,128
+"Bridgeport, CT",2014,30
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,40
+"Hartford, CT",2014,40
+"Lowell, MA",2014,18
+"Lynn, MA",2014,9
+"New Bedford, MA",2014,26
+"New Haven, CT",2014,
+"Providence, RI",2014,81
+"Somerville, MA",2014,3
+"Springfield, MA",2014,29
+"Waterbury, CT",2014,25
+"Worcester, MA",2014,47
+Mid. Atlantic,2014,1589
+"Albany, NY",2014,39
+"Allentown, PA",2014,34
+"Buffalo, NY",2014,71
+"Camden, NJ",2014,13
+"Elizabeth, NJ",2014,19
+"Erie, PA",2014,51
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,890
+"Newark, NJ",2014,57
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,44
+"Reading, PA",2014,35
+"Rochester, NY",2014,128
+"Schenectady, NY",2014,16
+"Scranton, PA",2014,27
+"Syracuse, NY",2014,82
+"Trenton, NJ",2014,18
+"Utica, NY",2014,13
+"Yonkers, NY",2014,10
+E.N. Central,2014,1982
+"Akron, OH",2014,47
+"Canton, OH",2014,27
+"Chicago, IL",2014,248
+"Cincinnati, OH",2014,74
+"Cleveland, OH",2014,235
+"Columbus, OH",2014,242
+"Dayton, OH",2014,105
+"Detroit, MI",2014,157
+"Evansville, IN",2014,47
+"Fort Wayne, IN",2014,74
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,52
+"Indianapolis, IN",2014,213
+"Lansing, MI",2014,44
+"Milwaukee, WI",2014,80
+"Peoria, IL",2014,45
+"Rockford, IL",2014,61
+"South Bend, IN",2014,45
+"Toledo, OH",2014,95
+"Youngstown, OH",2014,79
+W.N. Central,2014,584
+"Des Moines, IA",2014,
+"Duluth, MN",2014,31
+"Kansas City, KS",2014,28
+"Kansas City, MO",2014,108
+"Lincoln, NC",2014,48
+"Minneapolis, MN",2014,53
+"Omaha, NE",2014,87
+"St. Louis, MO",2014,88
+"St. Paul, MN",2014,51
+"Wichita, KS",2014,90
+S. Atlantic,2014,923
+"Atlanta, GA",2014,138
+"Baltimore, MD",2014,119
+"Charlotte, NC",2014,129
+"Jacksonville, FL",2014,84
+"Miami, FL",2014,69
+"Norfolk, VA",2014,49
+"Richmond, VA",2014,57
+"Savannah, GA",2014,48
+"St. Petersburg, FL",2014,40
+"Tampa, FL",2014,74
+"Washington, D.C.",2014,104
+"Wilmington, DE",2014,12
+E.S. Central,2014,1027
+"Birmingham, AL",2014,214
+"Chattanooga, TN",2014,89
+"Knoxville, TN",2014,101
+"Lexington, KY",2014,75
+"Memphis, TN",2014,170
+"Mobile, AL",2014,158
+"Montgomery, AL",2014,69
+"Nashville, TN",2014,151
+W.S. Central,2014,1457
+"Austin, TX",2014,85
+"Baton Rouge, LA",2014,75
+"Corpus Christi, TX",2014,42
+"Dallas, TX",2014,207
+"El Paso, TX",2014,109
+"Fort Worth, TX",2014,
+"Houston, TX",2014,369
+"Little Rock, AR",2014,69
+"New Orleans, LA",2014,58
+"San Antonio, TX",2014,268
+"Shreveport, LA",2014,57
+"Tulsa, OK",2014,118
+Mountain,2014,1219
+"Albuquerque, NM",2014,123
+"Boise, ID",2014,69
+"Colorado Springs, CO",2014,65
+"Denver, CO",2014,87
+"Las Vegas, NV",2014,278
+"Ogden, UT",2014,42
+"Phoenix, AZ",2014,201
+"Pueblo, CO",2014,47
+"Salt Lake City, UT",2014,150
+"Tucson, AZ",2014,157
+Pacific,2014,1625
+"Berkeley, CA",2014,5
+"Fresno, CA",2014,110
+"Glendale, CA",2014,34
+"Honolulu, HI",2014,60
+"Long Beach, CA",2014,66
+"Los Angeles, CA",2014,254
+"Pasadena, CA",2014,18
+"Portland, OR",2014,125
+"Sacramento, CA",2014,196
+"San Diego, CA",2014,167
+"San Francisco, CA",2014,102
+"San Jose, CA",2014,194
+"Santa Cruz, CA",2014,27
+"Seattle, WA",2014,102
+"Spokane, WA",2014,62
+"Tacoma, WA",2014,103
+Totalå¦,2014,10895
+New England,2014,478
+"Boston, MA",2014,133
+"Bridgeport, CT",2014,31
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,14
+"Hartford, CT",2014,46
+"Lowell, MA",2014,28
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,29
+"Providence, RI",2014,39
+"Somerville, MA",2014,4
+"Springfield, MA",2014,37
+"Waterbury, CT",2014,22
+"Worcester, MA",2014,58
+Mid. Atlantic,2014,1608
+"Albany, NY",2014,39
+"Allentown, PA",2014,13
+"Buffalo, NY",2014,88
+"Camden, NJ",2014,26
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,53
+"Jersey City, NJ",2014,
+"New York City, NY",2014,931
+"Newark, NJ",2014,44
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,41
+"Reading, PA",2014,45
+"Rochester, NY",2014,158
+"Schenectady, NY",2014,21
+"Scranton, PA",2014,29
+"Syracuse, NY",2014,67
+"Trenton, NJ",2014,14
+"Utica, NY",2014,15
+"Yonkers, NY",2014,13
+E.N. Central,2014,2024
+"Akron, OH",2014,51
+"Canton, OH",2014,22
+"Chicago, IL",2014,251
+"Cincinnati, OH",2014,69
+"Cleveland, OH",2014,224
+"Columbus, OH",2014,232
+"Dayton, OH",2014,169
+"Detroit, MI",2014,180
+"Evansville, IN",2014,33
+"Fort Wayne, IN",2014,82
+"Gary, IN",2014,16
+"Grand Rapids, MI",2014,66
+"Indianapolis, IN",2014,184
+"Lansing, MI",2014,49
+"Milwaukee, WI",2014,66
+"Peoria, IL",2014,52
+"Rockford, IL",2014,53
+"South Bend, IN",2014,53
+"Toledo, OH",2014,107
+"Youngstown, OH",2014,65
+W.N. Central,2014,577
+"Des Moines, IA",2014,
+"Duluth, MN",2014,32
+"Kansas City, KS",2014,27
+"Kansas City, MO",2014,101
+"Lincoln, NC",2014,47
+"Minneapolis, MN",2014,65
+"Omaha, NE",2014,74
+"St. Louis, MO",2014,97
+"St. Paul, MN",2014,37
+"Wichita, KS",2014,97
+S. Atlantic,2014,1050
+"Atlanta, GA",2014,95
+"Baltimore, MD",2014,114
+"Charlotte, NC",2014,150
+"Jacksonville, FL",2014,169
+"Miami, FL",2014,74
+"Norfolk, VA",2014,44
+"Richmond, VA",2014,62
+"Savannah, GA",2014,55
+"St. Petersburg, FL",2014,76
+"Tampa, FL",2014,100
+"Washington, D.C.",2014,99
+"Wilmington, DE",2014,12
+E.S. Central,2014,1015
+"Birmingham, AL",2014,219
+"Chattanooga, TN",2014,79
+"Knoxville, TN",2014,142
+"Lexington, KY",2014,69
+"Memphis, TN",2014,161
+"Mobile, AL",2014,137
+"Montgomery, AL",2014,58
+"Nashville, TN",2014,150
+W.S. Central,2014,1566
+"Austin, TX",2014,109
+"Baton Rouge, LA",2014,118
+"Corpus Christi, TX",2014,85
+"Dallas, TX",2014,224
+"El Paso, TX",2014,83
+"Fort Worth, TX",2014,
+"Houston, TX",2014,304
+"Little Rock, AR",2014,51
+"New Orleans, LA",2014,113
+"San Antonio, TX",2014,282
+"Shreveport, LA",2014,74
+"Tulsa, OK",2014,123
+Mountain,2014,1121
+"Albuquerque, NM",2014,102
+"Boise, ID",2014,63
+"Colorado Springs, CO",2014,57
+"Denver, CO",2014,88
+"Las Vegas, NV",2014,298
+"Ogden, UT",2014,32
+"Phoenix, AZ",2014,169
+"Pueblo, CO",2014,37
+"Salt Lake City, UT",2014,122
+"Tucson, AZ",2014,153
+Pacific,2014,1554
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,118
+"Glendale, CA",2014,41
+"Honolulu, HI",2014,56
+"Long Beach, CA",2014,64
+"Los Angeles, CA",2014,218
+"Pasadena, CA",2014,17
+"Portland, OR",2014,112
+"Sacramento, CA",2014,189
+"San Diego, CA",2014,151
+"San Francisco, CA",2014,93
+"San Jose, CA",2014,185
+"Santa Cruz, CA",2014,
+"Seattle, WA",2014,109
+"Spokane, WA",2014,66
+"Tacoma, WA",2014,124
+Totalå¦,2014,10993
+New England,2014,507
+"Boston, MA",2014,124
+"Bridgeport, CT",2014,22
+"Cambridge, MA",2014,9
+"Fall River, MA",2014,26
+"Hartford, CT",2014,50
+"Lowell, MA",2014,21
+"Lynn, MA",2014,8
+"New Bedford, MA",2014,27
+"New Haven, CT",2014,37
+"Providence, RI",2014,76
+"Somerville, MA",2014,1
+"Springfield, MA",2014,23
+"Waterbury, CT",2014,32
+"Worcester, MA",2014,51
+Mid. Atlantic,2014,1569
+"Albany, NY",2014,39
+"Allentown, PA",2014,19
+"Buffalo, NY",2014,84
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,8
+"Erie, PA",2014,39
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,952
+"Newark, NJ",2014,37
+"Paterson, NJ",2014,13
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,47
+"Reading, PA",2014,31
+"Rochester, NY",2014,109
+"Schenectady, NY",2014,17
+"Scranton, PA",2014,20
+"Syracuse, NY",2014,61
+"Trenton, NJ",2014,13
+"Utica, NY",2014,16
+"Yonkers, NY",2014,15
+E.N. Central,2014,1961
+"Akron, OH",2014,56
+"Canton, OH",2014,27
+"Chicago, IL",2014,258
+"Cincinnati, OH",2014,87
+"Cleveland, OH",2014,237
+"Columbus, OH",2014,208
+"Dayton, OH",2014,141
+"Detroit, MI",2014,107
+"Evansville, IN",2014,45
+"Fort Wayne, IN",2014,77
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,71
+"Indianapolis, IN",2014,223
+"Lansing, MI",2014,43
+"Milwaukee, WI",2014,58
+"Peoria, IL",2014,53
+"Rockford, IL",2014,58
+"South Bend, IN",2014,41
+"Toledo, OH",2014,98
+"Youngstown, OH",2014,61
+W.N. Central,2014,571
+"Des Moines, IA",2014,
+"Duluth, MN",2014,21
+"Kansas City, KS",2014,30
+"Kansas City, MO",2014,97
+"Lincoln, NC",2014,41
+"Minneapolis, MN",2014,50
+"Omaha, NE",2014,88
+"St. Louis, MO",2014,84
+"St. Paul, MN",2014,70
+"Wichita, KS",2014,90
+S. Atlantic,2014,1122
+"Atlanta, GA",2014,165
+"Baltimore, MD",2014,170
+"Charlotte, NC",2014,101
+"Jacksonville, FL",2014,146
+"Miami, FL",2014,81
+"Norfolk, VA",2014,41
+"Richmond, VA",2014,63
+"Savannah, GA",2014,59
+"St. Petersburg, FL",2014,56
+"Tampa, FL",2014,111
+"Washington, D.C.",2014,115
+"Wilmington, DE",2014,14
+E.S. Central,2014,1166
+"Birmingham, AL",2014,276
+"Chattanooga, TN",2014,94
+"Knoxville, TN",2014,120
+"Lexington, KY",2014,85
+"Memphis, TN",2014,178
+"Mobile, AL",2014,186
+"Montgomery, AL",2014,106
+"Nashville, TN",2014,121
+W.S. Central,2014,1548
+"Austin, TX",2014,108
+"Baton Rouge, LA",2014,117
+"Corpus Christi, TX",2014,42
+"Dallas, TX",2014,220
+"El Paso, TX",2014,103
+"Fort Worth, TX",2014,
+"Houston, TX",2014,342
+"Little Rock, AR",2014,61
+"New Orleans, LA",2014,123
+"San Antonio, TX",2014,246
+"Shreveport, LA",2014,71
+"Tulsa, OK",2014,115
+Mountain,2014,1122
+"Albuquerque, NM",2014,113
+"Boise, ID",2014,58
+"Colorado Springs, CO",2014,84
+"Denver, CO",2014,69
+"Las Vegas, NV",2014,284
+"Ogden, UT",2014,22
+"Phoenix, AZ",2014,182
+"Pueblo, CO",2014,35
+"Salt Lake City, UT",2014,131
+"Tucson, AZ",2014,144
+Pacific,2014,1653
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,143
+"Glendale, CA",2014,33
+"Honolulu, HI",2014,83
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,255
+"Pasadena, CA",2014,24
+"Portland, OR",2014,109
+"Sacramento, CA",2014,201
+"San Diego, CA",2014,160
+"San Francisco, CA",2014,108
+"San Jose, CA",2014,183
+"Santa Cruz, CA",2014,26
+"Seattle, WA",2014,92
+"Spokane, WA",2014,64
+"Tacoma, WA",2014,106
+Totalå¦,2014,11219
+New England,2014,469
+"Boston, MA",2014,119
+"Bridgeport, CT",2014,29
+"Cambridge, MA",2014,12
+"Fall River, MA",2014,30
+"Hartford, CT",2014,37
+"Lowell, MA",2014,8
+"Lynn, MA",2014,6
+"New Bedford, MA",2014,20
+"New Haven, CT",2014,39
+"Providence, RI",2014,57
+"Somerville, MA",2014,1
+"Springfield, MA",2014,31
+"Waterbury, CT",2014,26
+"Worcester, MA",2014,54
+Mid. Atlantic,2014,1541
+"Albany, NY",2014,43
+"Allentown, PA",2014,23
+"Buffalo, NY",2014,87
+"Camden, NJ",2014,27
+"Elizabeth, NJ",2014,4
+"Erie, PA",2014,34
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,933
+"Newark, NJ",2014,20
+"Paterson, NJ",2014,14
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,46
+"Reading, PA",2014,24
+"Rochester, NY",2014,158
+"Schenectady, NY",2014,18
+"Scranton, PA",2014,21
+"Syracuse, NY",2014,22
+"Trenton, NJ",2014,15
+"Utica, NY",2014,18
+"Yonkers, NY",2014,15
+E.N. Central,2014,1880
+"Akron, OH",2014,49
+"Canton, OH",2014,32
+"Chicago, IL",2014,249
+"Cincinnati, OH",2014,81
+"Cleveland, OH",2014,249
+"Columbus, OH",2014,210
+"Dayton, OH",2014,127
+"Detroit, MI",2014,143
+"Evansville, IN",2014,46
+"Fort Wayne, IN",2014,74
+"Gary, IN",2014,7
+"Grand Rapids, MI",2014,68
+"Indianapolis, IN",2014,191
+"Lansing, MI",2014,43
+"Milwaukee, WI",2014,62
+"Peoria, IL",2014,49
+"Rockford, IL",2014,44
+"South Bend, IN",2014,56
+"Toledo, OH",2014,100
+"Youngstown, OH",2014,
+W.N. Central,2014,647
+"Des Moines, IA",2014,
+"Duluth, MN",2014,32
+"Kansas City, KS",2014,23
+"Kansas City, MO",2014,110
+"Lincoln, NC",2014,53
+"Minneapolis, MN",2014,77
+"Omaha, NE",2014,79
+"St. Louis, MO",2014,111
+"St. Paul, MN",2014,50
+"Wichita, KS",2014,112
+S. Atlantic,2014,1041
+"Atlanta, GA",2014,182
+"Baltimore, MD",2014,140
+"Charlotte, NC",2014,143
+"Jacksonville, FL",2014,133
+"Miami, FL",2014,66
+"Norfolk, VA",2014,32
+"Richmond, VA",2014,56
+"Savannah, GA",2014,43
+"St. Petersburg, FL",2014,60
+"Tampa, FL",2014,98
+"Washington, D.C.",2014,80
+"Wilmington, DE",2014,8
+E.S. Central,2014,1092
+"Birmingham, AL",2014,269
+"Chattanooga, TN",2014,96
+"Knoxville, TN",2014,127
+"Lexington, KY",2014,87
+"Memphis, TN",2014,184
+"Mobile, AL",2014,114
+"Montgomery, AL",2014,69
+"Nashville, TN",2014,146
+W.S. Central,2014,1451
+"Austin, TX",2014,85
+"Baton Rouge, LA",2014,62
+"Corpus Christi, TX",2014,56
+"Dallas, TX",2014,208
+"El Paso, TX",2014,84
+"Fort Worth, TX",2014,
+"Houston, TX",2014,373
+"Little Rock, AR",2014,57
+"New Orleans, LA",2014,56
+"San Antonio, TX",2014,281
+"Shreveport, LA",2014,60
+"Tulsa, OK",2014,129
+Mountain,2014,1131
+"Albuquerque, NM",2014,152
+"Boise, ID",2014,66
+"Colorado Springs, CO",2014,89
+"Denver, CO",2014,92
+"Las Vegas, NV",2014,249
+"Ogden, UT",2014,26
+"Phoenix, AZ",2014,174
+"Pueblo, CO",2014,32
+"Salt Lake City, UT",2014,117
+"Tucson, AZ",2014,134
+Pacific,2014,1745
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,154
+"Glendale, CA",2014,38
+"Honolulu, HI",2014,58
+"Long Beach, CA",2014,56
+"Los Angeles, CA",2014,262
+"Pasadena, CA",2014,21
+"Portland, OR",2014,119
+"Sacramento, CA",2014,218
+"San Diego, CA",2014,167
+"San Francisco, CA",2014,116
+"San Jose, CA",2014,202
+"Santa Cruz, CA",2014,28
+"Seattle, WA",2014,102
+"Spokane, WA",2014,65
+"Tacoma, WA",2014,126
+Totalå¦,2014,10997
+New England,2014,494
+"Boston, MA",2014,130
+"Bridgeport, CT",2014,33
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,20
+"Hartford, CT",2014,70
+"Lowell, MA",2014,25
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,25
+"Providence, RI",2014,59
+"Somerville, MA",2014,4
+"Springfield, MA",2014,20
+"Waterbury, CT",2014,21
+"Worcester, MA",2014,51
+Mid. Atlantic,2014,1554
+"Albany, NY",2014,49
+"Allentown, PA",2014,25
+"Buffalo, NY",2014,89
+"Camden, NJ",2014,18
+"Elizabeth, NJ",2014,17
+"Erie, PA",2014,45
+"Jersey City, NJ",2014,22
+"New York City, NY",2014,897
+"Newark, NJ",2014,13
+"Paterson, NJ",2014,20
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,45
+"Reading, PA",2014,29
+"Rochester, NY",2014,108
+"Schenectady, NY",2014,20
+"Scranton, PA",2014,22
+"Syracuse, NY",2014,80
+"Trenton, NJ",2014,25
+"Utica, NY",2014,14
+"Yonkers, NY",2014,16
+E.N. Central,2014,1727
+"Akron, OH",2014,42
+"Canton, OH",2014,20
+"Chicago, IL",2014,235
+"Cincinnati, OH",2014,65
+"Cleveland, OH",2014,182
+"Columbus, OH",2014,189
+"Dayton, OH",2014,122
+"Detroit, MI",2014,153
+"Evansville, IN",2014,37
+"Fort Wayne, IN",2014,74
+"Gary, IN",2014,14
+"Grand Rapids, MI",2014,44
+"Indianapolis, IN",2014,184
+"Lansing, MI",2014,41
+"Milwaukee, WI",2014,77
+"Peoria, IL",2014,45
+"Rockford, IL",2014,50
+"South Bend, IN",2014,41
+"Toledo, OH",2014,61
+"Youngstown, OH",2014,51
+W.N. Central,2014,520
+"Des Moines, IA",2014,
+"Duluth, MN",2014,31
+"Kansas City, KS",2014,31
+"Kansas City, MO",2014,85
+"Lincoln, NC",2014,23
+"Minneapolis, MN",2014,57
+"Omaha, NE",2014,85
+"St. Louis, MO",2014,69
+"St. Paul, MN",2014,73
+"Wichita, KS",2014,66
+S. Atlantic,2014,998
+"Atlanta, GA",2014,119
+"Baltimore, MD",2014,161
+"Charlotte, NC",2014,96
+"Jacksonville, FL",2014,135
+"Miami, FL",2014,64
+"Norfolk, VA",2014,33
+"Richmond, VA",2014,59
+"Savannah, GA",2014,64
+"St. Petersburg, FL",2014,53
+"Tampa, FL",2014,107
+"Washington, D.C.",2014,100
+"Wilmington, DE",2014,7
+E.S. Central,2014,895
+"Birmingham, AL",2014,175
+"Chattanooga, TN",2014,65
+"Knoxville, TN",2014,101
+"Lexington, KY",2014,54
+"Memphis, TN",2014,144
+"Mobile, AL",2014,101
+"Montgomery, AL",2014,84
+"Nashville, TN",2014,171
+W.S. Central,2014,1251
+"Austin, TX",2014,96
+"Baton Rouge, LA",2014,62
+"Corpus Christi, TX",2014,45
+"Dallas, TX",2014,200
+"El Paso, TX",2014,90
+"Fort Worth, TX",2014,
+"Houston, TX",2014,330
+"Little Rock, AR",2014,60
+"New Orleans, LA",2014,60
+"San Antonio, TX",2014,230
+"Shreveport, LA",2014,75
+"Tulsa, OK",2014,3
+Mountain,2014,1147
+"Albuquerque, NM",2014,105
+"Boise, ID",2014,54
+"Colorado Springs, CO",2014,80
+"Denver, CO",2014,84
+"Las Vegas, NV",2014,288
+"Ogden, UT",2014,45
+"Phoenix, AZ",2014,178
+"Pueblo, CO",2014,39
+"Salt Lake City, UT",2014,131
+"Tucson, AZ",2014,143
+Pacific,2014,1500
+"Berkeley, CA",2014,10
+"Fresno, CA",2014,107
+"Glendale, CA",2014,31
+"Honolulu, HI",2014,73
+"Long Beach, CA",2014,57
+"Los Angeles, CA",2014,246
+"Pasadena, CA",2014,16
+"Portland, OR",2014,97
+"Sacramento, CA",2014,196
+"San Diego, CA",2014,122
+"San Francisco, CA",2014,72
+"San Jose, CA",2014,166
+"Santa Cruz, CA",2014,28
+"Seattle, WA",2014,81
+"Spokane, WA",2014,72
+"Tacoma, WA",2014,126
+Totalå¦,2014,10086
+New England,2014,492
+"Boston, MA",2014,130
+"Bridgeport, CT",2014,34
+"Cambridge, MA",2014,23
+"Fall River, MA",2014,15
+"Hartford, CT",2014,49
+"Lowell, MA",2014,18
+"Lynn, MA",2014,7
+"New Bedford, MA",2014,18
+"New Haven, CT",2014,37
+"Providence, RI",2014,41
+"Somerville, MA",2014,2
+"Springfield, MA",2014,30
+"Waterbury, CT",2014,37
+"Worcester, MA",2014,51
+Mid. Atlantic,2014,1723
+"Albany, NY",2014,44
+"Allentown, PA",2014,25
+"Buffalo, NY",2014,91
+"Camden, NJ",2014,31
+"Elizabeth, NJ",2014,20
+"Erie, PA",2014,49
+"Jersey City, NJ",2014,22
+"New York City, NY",2014,1027
+"Newark, NJ",2014,11
+"Paterson, NJ",2014,16
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,36
+"Reading, PA",2014,41
+"Rochester, NY",2014,154
+"Schenectady, NY",2014,22
+"Scranton, PA",2014,28
+"Syracuse, NY",2014,68
+"Trenton, NJ",2014,16
+"Utica, NY",2014,11
+"Yonkers, NY",2014,11
+E.N. Central,2014,2089
+"Akron, OH",2014,55
+"Canton, OH",2014,41
+"Chicago, IL",2014,284
+"Cincinnati, OH",2014,81
+"Cleveland, OH",2014,250
+"Columbus, OH",2014,242
+"Dayton, OH",2014,146
+"Detroit, MI",2014,131
+"Evansville, IN",2014,48
+"Fort Wayne, IN",2014,76
+"Gary, IN",2014,5
+"Grand Rapids, MI",2014,66
+"Indianapolis, IN",2014,186
+"Lansing, MI",2014,64
+"Milwaukee, WI",2014,58
+"Peoria, IL",2014,60
+"Rockford, IL",2014,56
+"South Bend, IN",2014,54
+"Toledo, OH",2014,111
+"Youngstown, OH",2014,75
+W.N. Central,2014,594
+"Des Moines, IA",2014,
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,26
+"Kansas City, MO",2014,100
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,69
+"Omaha, NE",2014,102
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,50
+"Wichita, KS",2014,76
+S. Atlantic,2014,1126
+"Atlanta, GA",2014,182
+"Baltimore, MD",2014,125
+"Charlotte, NC",2014,114
+"Jacksonville, FL",2014,175
+"Miami, FL",2014,65
+"Norfolk, VA",2014,48
+"Richmond, VA",2014,51
+"Savannah, GA",2014,64
+"St. Petersburg, FL",2014,46
+"Tampa, FL",2014,132
+"Washington, D.C.",2014,109
+"Wilmington, DE",2014,15
+E.S. Central,2014,1135
+"Birmingham, AL",2014,254
+"Chattanooga, TN",2014,88
+"Knoxville, TN",2014,106
+"Lexington, KY",2014,104
+"Memphis, TN",2014,170
+"Mobile, AL",2014,161
+"Montgomery, AL",2014,93
+"Nashville, TN",2014,159
+W.S. Central,2014,1599
+"Austin, TX",2014,102
+"Baton Rouge, LA",2014,125
+"Corpus Christi, TX",2014,67
+"Dallas, TX",2014,236
+"El Paso, TX",2014,122
+"Fort Worth, TX",2014,
+"Houston, TX",2014,356
+"Little Rock, AR",2014,69
+"New Orleans, LA",2014,62
+"San Antonio, TX",2014,262
+"Shreveport, LA",2014,66
+"Tulsa, OK",2014,132
+Mountain,2014,1191
+"Albuquerque, NM",2014,134
+"Boise, ID",2014,77
+"Colorado Springs, CO",2014,58
+"Denver, CO",2014,99
+"Las Vegas, NV",2014,290
+"Ogden, UT",2014,27
+"Phoenix, AZ",2014,163
+"Pueblo, CO",2014,26
+"Salt Lake City, UT",2014,150
+"Tucson, AZ",2014,167
+Pacific,2014,1781
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,120
+"Glendale, CA",2014,26
+"Honolulu, HI",2014,89
+"Long Beach, CA",2014,67
+"Los Angeles, CA",2014,271
+"Pasadena, CA",2014,19
+"Portland, OR",2014,130
+"Sacramento, CA",2014,224
+"San Diego, CA",2014,149
+"San Francisco, CA",2014,122
+"San Jose, CA",2014,211
+"Santa Cruz, CA",2014,37
+"Seattle, WA",2014,131
+"Spokane, WA",2014,61
+"Tacoma, WA",2014,113
+Totalå¦,2014,11730
+New England,2014,497
+"Boston, MA",2014,116
+"Bridgeport, CT",2014,31
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,22
+"Hartford, CT",2014,53
+"Lowell, MA",2014,19
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,17
+"New Haven, CT",2014,37
+"Providence, RI",2014,62
+"Somerville, MA",2014,3
+"Springfield, MA",2014,23
+"Waterbury, CT",2014,21
+"Worcester, MA",2014,73
+Mid. Atlantic,2014,1587
+"Albany, NY",2014,56
+"Allentown, PA",2014,29
+"Buffalo, NY",2014,84
+"Camden, NJ",2014,24
+"Elizabeth, NJ",2014,18
+"Erie, PA",2014,47
+"Jersey City, NJ",2014,11
+"New York City, NY",2014,874
+"Newark, NJ",2014,48
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,29
+"Reading, PA",2014,36
+"Rochester, NY",2014,148
+"Schenectady, NY",2014,19
+"Scranton, PA",2014,18
+"Syracuse, NY",2014,97
+"Trenton, NJ",2014,16
+"Utica, NY",2014,15
+"Yonkers, NY",2014,18
+E.N. Central,2014,2026
+"Akron, OH",2014,55
+"Canton, OH",2014,31
+"Chicago, IL",2014,268
+"Cincinnati, OH",2014,87
+"Cleveland, OH",2014,234
+"Columbus, OH",2014,253
+"Dayton, OH",2014,142
+"Detroit, MI",2014,169
+"Evansville, IN",2014,37
+"Fort Wayne, IN",2014,63
+"Gary, IN",2014,10
+"Grand Rapids, MI",2014,62
+"Indianapolis, IN",2014,179
+"Lansing, MI",2014,52
+"Milwaukee, WI",2014,71
+"Peoria, IL",2014,56
+"Rockford, IL",2014,56
+"South Bend, IN",2014,59
+"Toledo, OH",2014,76
+"Youngstown, OH",2014,66
+W.N. Central,2014,686
+"Des Moines, IA",2014,
+"Duluth, MN",2014,43
+"Kansas City, KS",2014,25
+"Kansas City, MO",2014,116
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,92
+"Omaha, NE",2014,109
+"St. Louis, MO",2014,96
+"St. Paul, MN",2014,62
+"Wichita, KS",2014,93
+S. Atlantic,2014,1143
+"Atlanta, GA",2014,166
+"Baltimore, MD",2014,148
+"Charlotte, NC",2014,159
+"Jacksonville, FL",2014,151
+"Miami, FL",2014,64
+"Norfolk, VA",2014,46
+"Richmond, VA",2014,59
+"Savannah, GA",2014,56
+"St. Petersburg, FL",2014,73
+"Tampa, FL",2014,109
+"Washington, D.C.",2014,100
+"Wilmington, DE",2014,12
+E.S. Central,2014,1090
+"Birmingham, AL",2014,189
+"Chattanooga, TN",2014,99
+"Knoxville, TN",2014,131
+"Lexington, KY",2014,89
+"Memphis, TN",2014,190
+"Mobile, AL",2014,140
+"Montgomery, AL",2014,88
+"Nashville, TN",2014,164
+W.S. Central,2014,1498
+"Austin, TX",2014,91
+"Baton Rouge, LA",2014,83
+"Corpus Christi, TX",2014,50
+"Dallas, TX",2014,156
+"El Paso, TX",2014,102
+"Fort Worth, TX",2014,
+"Houston, TX",2014,351
+"Little Rock, AR",2014,104
+"New Orleans, LA",2014,74
+"San Antonio, TX",2014,303
+"Shreveport, LA",2014,66
+"Tulsa, OK",2014,118
+Mountain,2014,1228
+"Albuquerque, NM",2014,117
+"Boise, ID",2014,65
+"Colorado Springs, CO",2014,77
+"Denver, CO",2014,84
+"Las Vegas, NV",2014,289
+"Ogden, UT",2014,51
+"Phoenix, AZ",2014,165
+"Pueblo, CO",2014,38
+"Salt Lake City, UT",2014,151
+"Tucson, AZ",2014,191
+Pacific,2014,1724
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,121
+"Glendale, CA",2014,34
+"Honolulu, HI",2014,102
+"Long Beach, CA",2014,39
+"Los Angeles, CA",2014,233
+"Pasadena, CA",2014,21
+"Portland, OR",2014,134
+"Sacramento, CA",2014,200
+"San Diego, CA",2014,180
+"San Francisco, CA",2014,117
+"San Jose, CA",2014,198
+"Santa Cruz, CA",2014,33
+"Seattle, WA",2014,100
+"Spokane, WA",2014,75
+"Tacoma, WA",2014,126
+Totalå¦,2014,11479
+New England,2014,487
+"Boston, MA",2014,114
+"Bridgeport, CT",2014,34
+"Cambridge, MA",2014,22
+"Fall River, MA",2014,25
+"Hartford, CT",2014,45
+"Lowell, MA",2014,20
+"Lynn, MA",2014,2
+"New Bedford, MA",2014,14
+"New Haven, CT",2014,35
+"Providence, RI",2014,59
+"Somerville, MA",2014,6
+"Springfield, MA",2014,32
+"Waterbury, CT",2014,27
+"Worcester, MA",2014,52
+Mid. Atlantic,2014,1667
+"Albany, NY",2014,45
+"Allentown, PA",2014,24
+"Buffalo, NY",2014,85
+"Camden, NJ",2014,30
+"Elizabeth, NJ",2014,16
+"Erie, PA",2014,44
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,936
+"Newark, NJ",2014,34
+"Paterson, NJ",2014,15
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,32
+"Reading, PA",2014,34
+"Rochester, NY",2014,147
+"Schenectady, NY",2014,30
+"Scranton, PA",2014,28
+"Syracuse, NY",2014,84
+"Trenton, NJ",2014,21
+"Utica, NY",2014,21
+"Yonkers, NY",2014,18
+E.N. Central,2014,1842
+"Akron, OH",2014,49
+"Canton, OH",2014,31
+"Chicago, IL",2014,247
+"Cincinnati, OH",2014,74
+"Cleveland, OH",2014,239
+"Columbus, OH",2014,208
+"Dayton, OH",2014,127
+"Detroit, MI",2014,
+"Evansville, IN",2014,50
+"Fort Wayne, IN",2014,87
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,70
+"Indianapolis, IN",2014,196
+"Lansing, MI",2014,47
+"Milwaukee, WI",2014,74
+"Peoria, IL",2014,53
+"Rockford, IL",2014,68
+"South Bend, IN",2014,52
+"Toledo, OH",2014,85
+"Youngstown, OH",2014,74
+W.N. Central,2014,532
+"Des Moines, IA",2014,
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,68
+"Lincoln, NC",2014,54
+"Minneapolis, MN",2014,58
+"Omaha, NE",2014,79
+"St. Louis, MO",2014,84
+"St. Paul, MN",2014,59
+"Wichita, KS",2014,75
+S. Atlantic,2014,1076
+"Atlanta, GA",2014,140
+"Baltimore, MD",2014,156
+"Charlotte, NC",2014,136
+"Jacksonville, FL",2014,146
+"Miami, FL",2014,67
+"Norfolk, VA",2014,65
+"Richmond, VA",2014,48
+"Savannah, GA",2014,62
+"St. Petersburg, FL",2014,62
+"Tampa, FL",2014,104
+"Washington, D.C.",2014,79
+"Wilmington, DE",2014,11
+E.S. Central,2014,963
+"Birmingham, AL",2014,180
+"Chattanooga, TN",2014,94
+"Knoxville, TN",2014,124
+"Lexington, KY",2014,80
+"Memphis, TN",2014,186
+"Mobile, AL",2014,74
+"Montgomery, AL",2014,60
+"Nashville, TN",2014,165
+W.S. Central,2014,1520
+"Austin, TX",2014,83
+"Baton Rouge, LA",2014,96
+"Corpus Christi, TX",2014,64
+"Dallas, TX",2014,187
+"El Paso, TX",2014,121
+"Fort Worth, TX",2014,
+"Houston, TX",2014,353
+"Little Rock, AR",2014,101
+"New Orleans, LA",2014,61
+"San Antonio, TX",2014,248
+"Shreveport, LA",2014,64
+"Tulsa, OK",2014,142
+Mountain,2014,998
+"Albuquerque, NM",2014,130
+"Boise, ID",2014,55
+"Colorado Springs, CO",2014,78
+"Denver, CO",2014,81
+"Las Vegas, NV",2014,300
+"Ogden, UT",2014,30
+"Phoenix, AZ",2014,160
+"Pueblo, CO",2014,35
+"Salt Lake City, UT",2014,129
+"Tucson, AZ",2014,
+Pacific,2014,1714
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,141
+"Glendale, CA",2014,33
+"Honolulu, HI",2014,91
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,267
+"Pasadena, CA",2014,23
+"Portland, OR",2014,119
+"Sacramento, CA",2014,196
+"San Diego, CA",2014,159
+"San Francisco, CA",2014,85
+"San Jose, CA",2014,197
+"Santa Cruz, CA",2014,36
+"Seattle, WA",2014,98
+"Spokane, WA",2014,71
+"Tacoma, WA",2014,130
+Totalå¦,2014,10799
+New England,2014,512
+"Boston, MA",2014,120
+"Bridgeport, CT",2014,32
+"Cambridge, MA",2014,13
+"Fall River, MA",2014,26
+"Hartford, CT",2014,46
+"Lowell, MA",2014,21
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,19
+"New Haven, CT",2014,31
+"Providence, RI",2014,73
+"Somerville, MA",2014,6
+"Springfield, MA",2014,27
+"Waterbury, CT",2014,24
+"Worcester, MA",2014,70
+Mid. Atlantic,2014,1735
+"Albany, NY",2014,47
+"Allentown, PA",2014,31
+"Buffalo, NY",2014,86
+"Camden, NJ",2014,26
+"Elizabeth, NJ",2014,7
+"Erie, PA",2014,41
+"Jersey City, NJ",2014,32
+"New York City, NY",2014,1017
+"Newark, NJ",2014,36
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,49
+"Reading, PA",2014,26
+"Rochester, NY",2014,151
+"Schenectady, NY",2014,20
+"Scranton, PA",2014,24
+"Syracuse, NY",2014,75
+"Trenton, NJ",2014,14
+"Utica, NY",2014,12
+"Yonkers, NY",2014,24
+E.N. Central,2014,1879
+"Akron, OH",2014,47
+"Canton, OH",2014,37
+"Chicago, IL",2014,249
+"Cincinnati, OH",2014,76
+"Cleveland, OH",2014,253
+"Columbus, OH",2014,254
+"Dayton, OH",2014,155
+"Detroit, MI",2014,
+"Evansville, IN",2014,30
+"Fort Wayne, IN",2014,67
+"Gary, IN",2014,4
+"Grand Rapids, MI",2014,73
+"Indianapolis, IN",2014,177
+"Lansing, MI",2014,72
+"Milwaukee, WI",2014,83
+"Peoria, IL",2014,48
+"Rockford, IL",2014,56
+"South Bend, IN",2014,47
+"Toledo, OH",2014,98
+"Youngstown, OH",2014,53
+W.N. Central,2014,602
+"Des Moines, IA",2014,
+"Duluth, MN",2014,26
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,105
+"Lincoln, NC",2014,50
+"Minneapolis, MN",2014,65
+"Omaha, NE",2014,96
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,52
+"Wichita, KS",2014,84
+S. Atlantic,2014,1061
+"Atlanta, GA",2014,129
+"Baltimore, MD",2014,146
+"Charlotte, NC",2014,135
+"Jacksonville, FL",2014,120
+"Miami, FL",2014,65
+"Norfolk, VA",2014,43
+"Richmond, VA",2014,77
+"Savannah, GA",2014,59
+"St. Petersburg, FL",2014,63
+"Tampa, FL",2014,95
+"Washington, D.C.",2014,123
+"Wilmington, DE",2014,6
+E.S. Central,2014,1042
+"Birmingham, AL",2014,226
+"Chattanooga, TN",2014,83
+"Knoxville, TN",2014,96
+"Lexington, KY",2014,68
+"Memphis, TN",2014,182
+"Mobile, AL",2014,140
+"Montgomery, AL",2014,81
+"Nashville, TN",2014,166
+W.S. Central,2014,1446
+"Austin, TX",2014,103
+"Baton Rouge, LA",2014,80
+"Corpus Christi, TX",2014,47
+"Dallas, TX",2014,192
+"El Paso, TX",2014,95
+"Fort Worth, TX",2014,
+"Houston, TX",2014,398
+"Little Rock, AR",2014,106
+"New Orleans, LA",2014,79
+"San Antonio, TX",2014,258
+"Shreveport, LA",2014,55
+"Tulsa, OK",2014,33
+Mountain,2014,1130
+"Albuquerque, NM",2014,112
+"Boise, ID",2014,86
+"Colorado Springs, CO",2014,58
+"Denver, CO",2014,96
+"Las Vegas, NV",2014,278
+"Ogden, UT",2014,32
+"Phoenix, AZ",2014,181
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,122
+"Tucson, AZ",2014,136
+Pacific,2014,1695
+"Berkeley, CA",2014,14
+"Fresno, CA",2014,110
+"Glendale, CA",2014,32
+"Honolulu, HI",2014,105
+"Long Beach, CA",2014,56
+"Los Angeles, CA",2014,239
+"Pasadena, CA",2014,24
+"Portland, OR",2014,113
+"Sacramento, CA",2014,212
+"San Diego, CA",2014,158
+"San Francisco, CA",2014,119
+"San Jose, CA",2014,189
+"Santa Cruz, CA",2014,24
+"Seattle, WA",2014,103
+"Spokane, WA",2014,72
+"Tacoma, WA",2014,125
+Totalå¦,2014,11102
+New England,2014,494
+"Boston, MA",2014,102
+"Bridgeport, CT",2014,32
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,29
+"Hartford, CT",2014,53
+"Lowell, MA",2014,18
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,17
+"New Haven, CT",2014,32
+"Providence, RI",2014,46
+"Somerville, MA",2014,7
+"Springfield, MA",2014,34
+"Waterbury, CT",2014,40
+"Worcester, MA",2014,64
+Mid. Atlantic,2014,1332
+"Albany, NY",2014,52
+"Allentown, PA",2014,32
+"Buffalo, NY",2014,100
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,13
+"Erie, PA",2014,44
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,587
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,28
+"Reading, PA",2014,29
+"Rochester, NY",2014,171
+"Schenectady, NY",2014,27
+"Scranton, PA",2014,24
+"Syracuse, NY",2014,78
+"Trenton, NJ",2014,18
+"Utica, NY",2014,20
+"Yonkers, NY",2014,12
+E.N. Central,2014,2000
+"Akron, OH",2014,69
+"Canton, OH",2014,30
+"Chicago, IL",2014,281
+"Cincinnati, OH",2014,80
+"Cleveland, OH",2014,279
+"Columbus, OH",2014,215
+"Dayton, OH",2014,129
+"Detroit, MI",2014,
+"Evansville, IN",2014,49
+"Fort Wayne, IN",2014,84
+"Gary, IN",2014,28
+"Grand Rapids, MI",2014,68
+"Indianapolis, IN",2014,204
+"Lansing, MI",2014,54
+"Milwaukee, WI",2014,86
+"Peoria, IL",2014,52
+"Rockford, IL",2014,68
+"South Bend, IN",2014,50
+"Toledo, OH",2014,109
+"Youngstown, OH",2014,65
+W.N. Central,2014,576
+"Des Moines, IA",2014,
+"Duluth, MN",2014,30
+"Kansas City, KS",2014,12
+"Kansas City, MO",2014,93
+"Lincoln, NC",2014,39
+"Minneapolis, MN",2014,67
+"Omaha, NE",2014,93
+"St. Louis, MO",2014,95
+"St. Paul, MN",2014,63
+"Wichita, KS",2014,84
+S. Atlantic,2014,1040
+"Atlanta, GA",2014,131
+"Baltimore, MD",2014,150
+"Charlotte, NC",2014,136
+"Jacksonville, FL",2014,138
+"Miami, FL",2014,64
+"Norfolk, VA",2014,
+"Richmond, VA",2014,56
+"Savannah, GA",2014,61
+"St. Petersburg, FL",2014,60
+"Tampa, FL",2014,103
+"Washington, D.C.",2014,133
+"Wilmington, DE",2014,8
+E.S. Central,2014,944
+"Birmingham, AL",2014,183
+"Chattanooga, TN",2014,72
+"Knoxville, TN",2014,104
+"Lexington, KY",2014,70
+"Memphis, TN",2014,231
+"Mobile, AL",2014,85
+"Montgomery, AL",2014,39
+"Nashville, TN",2014,160
+W.S. Central,2014,1463
+"Austin, TX",2014,62
+"Baton Rouge, LA",2014,89
+"Corpus Christi, TX",2014,61
+"Dallas, TX",2014,201
+"El Paso, TX",2014,100
+"Fort Worth, TX",2014,
+"Houston, TX",2014,362
+"Little Rock, AR",2014,90
+"New Orleans, LA",2014,45
+"San Antonio, TX",2014,275
+"Shreveport, LA",2014,73
+"Tulsa, OK",2014,105
+Mountain,2014,1219
+"Albuquerque, NM",2014,105
+"Boise, ID",2014,59
+"Colorado Springs, CO",2014,71
+"Denver, CO",2014,91
+"Las Vegas, NV",2014,327
+"Ogden, UT",2014,34
+"Phoenix, AZ",2014,193
+"Pueblo, CO",2014,22
+"Salt Lake City, UT",2014,134
+"Tucson, AZ",2014,183
+Pacific,2014,1694
+"Berkeley, CA",2014,14
+"Fresno, CA",2014,125
+"Glendale, CA",2014,37
+"Honolulu, HI",2014,92
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,248
+"Pasadena, CA",2014,21
+"Portland, OR",2014,125
+"Sacramento, CA",2014,212
+"San Diego, CA",2014,147
+"San Francisco, CA",2014,99
+"San Jose, CA",2014,206
+"Santa Cruz, CA",2014,22
+"Seattle, WA",2014,104
+"Spokane, WA",2014,70
+"Tacoma, WA",2014,117
+Totalå¦,2014,10762
+New England,2014,443
+"Boston, MA",2014,91
+"Bridgeport, CT",2014,23
+"Cambridge, MA",2014,7
+"Fall River, MA",2014,27
+"Hartford, CT",2014,47
+"Lowell, MA",2014,20
+"Lynn, MA",2014,3
+"New Bedford, MA",2014,17
+"New Haven, CT",2014,40
+"Providence, RI",2014,59
+"Somerville, MA",2014,2
+"Springfield, MA",2014,24
+"Waterbury, CT",2014,27
+"Worcester, MA",2014,56
+Mid. Atlantic,2014,1718
+"Albany, NY",2014,49
+"Allentown, PA",2014,26
+"Buffalo, NY",2014,85
+"Camden, NJ",2014,46
+"Elizabeth, NJ",2014,24
+"Erie, PA",2014,47
+"Jersey City, NJ",2014,30
+"New York City, NY",2014,980
+"Newark, NJ",2014,26
+"Paterson, NJ",2014,14
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,35
+"Reading, PA",2014,44
+"Rochester, NY",2014,142
+"Schenectady, NY",2014,20
+"Scranton, PA",2014,25
+"Syracuse, NY",2014,73
+"Trenton, NJ",2014,21
+"Utica, NY",2014,12
+"Yonkers, NY",2014,19
+E.N. Central,2014,1816
+"Akron, OH",2014,47
+"Canton, OH",2014,25
+"Chicago, IL",2014,277
+"Cincinnati, OH",2014,78
+"Cleveland, OH",2014,222
+"Columbus, OH",2014,235
+"Dayton, OH",2014,124
+"Detroit, MI",2014,
+"Evansville, IN",2014,53
+"Fort Wayne, IN",2014,78
+"Gary, IN",2014,8
+"Grand Rapids, MI",2014,55
+"Indianapolis, IN",2014,195
+"Lansing, MI",2014,48
+"Milwaukee, WI",2014,92
+"Peoria, IL",2014,57
+"Rockford, IL",2014,45
+"South Bend, IN",2014,44
+"Toledo, OH",2014,80
+"Youngstown, OH",2014,53
+W.N. Central,2014,431
+"Des Moines, IA",2014,
+"Duluth, MN",2014,19
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,28
+"Lincoln, NC",2014,41
+"Minneapolis, MN",2014,54
+"Omaha, NE",2014,82
+"St. Louis, MO",2014,33
+"St. Paul, MN",2014,73
+"Wichita, KS",2014,72
+S. Atlantic,2014,934
+"Atlanta, GA",2014,
+"Baltimore, MD",2014,150
+"Charlotte, NC",2014,132
+"Jacksonville, FL",2014,159
+"Miami, FL",2014,64
+"Norfolk, VA",2014,50
+"Richmond, VA",2014,40
+"Savannah, GA",2014,54
+"St. Petersburg, FL",2014,64
+"Tampa, FL",2014,122
+"Washington, D.C.",2014,90
+"Wilmington, DE",2014,9
+E.S. Central,2014,910
+"Birmingham, AL",2014,197
+"Chattanooga, TN",2014,79
+"Knoxville, TN",2014,128
+"Lexington, KY",2014,58
+"Memphis, TN",2014,151
+"Mobile, AL",2014,94
+"Montgomery, AL",2014,43
+"Nashville, TN",2014,160
+W.S. Central,2014,1408
+"Austin, TX",2014,106
+"Baton Rouge, LA",2014,86
+"Corpus Christi, TX",2014,53
+"Dallas, TX",2014,183
+"El Paso, TX",2014,100
+"Fort Worth, TX",2014,
+"Houston, TX",2014,314
+"Little Rock, AR",2014,59
+"New Orleans, LA",2014,63
+"San Antonio, TX",2014,249
+"Shreveport, LA",2014,65
+"Tulsa, OK",2014,130
+Mountain,2014,1093
+"Albuquerque, NM",2014,100
+"Boise, ID",2014,70
+"Colorado Springs, CO",2014,61
+"Denver, CO",2014,72
+"Las Vegas, NV",2014,275
+"Ogden, UT",2014,39
+"Phoenix, AZ",2014,171
+"Pueblo, CO",2014,41
+"Salt Lake City, UT",2014,127
+"Tucson, AZ",2014,137
+Pacific,2014,1602
+"Berkeley, CA",2014,17
+"Fresno, CA",2014,131
+"Glendale, CA",2014,32
+"Honolulu, HI",2014,59
+"Long Beach, CA",2014,61
+"Los Angeles, CA",2014,226
+"Pasadena, CA",2014,23
+"Portland, OR",2014,110
+"Sacramento, CA",2014,183
+"San Diego, CA",2014,163
+"San Francisco, CA",2014,86
+"San Jose, CA",2014,194
+"Santa Cruz, CA",2014,25
+"Seattle, WA",2014,111
+"Spokane, WA",2014,60
+"Tacoma, WA",2014,121
+Totalå¦,2014,10355
+New England,2014,517
+"Boston, MA",2014,88
+"Bridgeport, CT",2014,32
+"Cambridge, MA",2014,9
+"Fall River, MA",2014,31
+"Hartford, CT",2014,53
+"Lowell, MA",2014,23
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,16
+"New Haven, CT",2014,32
+"Providence, RI",2014,75
+"Somerville, MA",2014,6
+"Springfield, MA",2014,33
+"Waterbury, CT",2014,30
+"Worcester, MA",2014,84
+Mid. Atlantic,2014,1727
+"Albany, NY",2014,47
+"Allentown, PA",2014,30
+"Buffalo, NY",2014,96
+"Camden, NJ",2014,35
+"Elizabeth, NJ",2014,20
+"Erie, PA",2014,35
+"Jersey City, NJ",2014,19
+"New York City, NY",2014,1028
+"Newark, NJ",2014,23
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,37
+"Reading, PA",2014,37
+"Rochester, NY",2014,130
+"Schenectady, NY",2014,26
+"Scranton, PA",2014,25
+"Syracuse, NY",2014,59
+"Trenton, NJ",2014,29
+"Utica, NY",2014,12
+"Yonkers, NY",2014,20
+E.N. Central,2014,1911
+"Akron, OH",2014,57
+"Canton, OH",2014,16
+"Chicago, IL",2014,275
+"Cincinnati, OH",2014,81
+"Cleveland, OH",2014,273
+"Columbus, OH",2014,224
+"Dayton, OH",2014,140
+"Detroit, MI",2014,
+"Evansville, IN",2014,49
+"Fort Wayne, IN",2014,101
+"Gary, IN",2014,18
+"Grand Rapids, MI",2014,67
+"Indianapolis, IN",2014,216
+"Lansing, MI",2014,46
+"Milwaukee, WI",2014,54
+"Peoria, IL",2014,43
+"Rockford, IL",2014,56
+"South Bend, IN",2014,42
+"Toledo, OH",2014,84
+"Youngstown, OH",2014,69
+W.N. Central,2014,532
+"Des Moines, IA",2014,
+"Duluth, MN",2014,32
+"Kansas City, KS",2014,29
+"Kansas City, MO",2014,97
+"Lincoln, NC",2014,42
+"Minneapolis, MN",2014,56
+"Omaha, NE",2014,92
+"St. Louis, MO",2014,43
+"St. Paul, MN",2014,55
+"Wichita, KS",2014,86
+S. Atlantic,2014,1163
+"Atlanta, GA",2014,182
+"Baltimore, MD",2014,159
+"Charlotte, NC",2014,140
+"Jacksonville, FL",2014,167
+"Miami, FL",2014,69
+"Norfolk, VA",2014,38
+"Richmond, VA",2014,41
+"Savannah, GA",2014,73
+"St. Petersburg, FL",2014,66
+"Tampa, FL",2014,115
+"Washington, D.C.",2014,110
+"Wilmington, DE",2014,3
+E.S. Central,2014,917
+"Birmingham, AL",2014,158
+"Chattanooga, TN",2014,58
+"Knoxville, TN",2014,138
+"Lexington, KY",2014,90
+"Memphis, TN",2014,181
+"Mobile, AL",2014,74
+"Montgomery, AL",2014,71
+"Nashville, TN",2014,147
+W.S. Central,2014,1413
+"Austin, TX",2014,87
+"Baton Rouge, LA",2014,90
+"Corpus Christi, TX",2014,52
+"Dallas, TX",2014,227
+"El Paso, TX",2014,97
+"Fort Worth, TX",2014,
+"Houston, TX",2014,336
+"Little Rock, AR",2014,42
+"New Orleans, LA",2014,80
+"San Antonio, TX",2014,244
+"Shreveport, LA",2014,44
+"Tulsa, OK",2014,114
+Mountain,2014,1217
+"Albuquerque, NM",2014,107
+"Boise, ID",2014,66
+"Colorado Springs, CO",2014,99
+"Denver, CO",2014,95
+"Las Vegas, NV",2014,304
+"Ogden, UT",2014,54
+"Phoenix, AZ",2014,183
+"Pueblo, CO",2014,44
+"Salt Lake City, UT",2014,123
+"Tucson, AZ",2014,142
+Pacific,2014,1687
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,116
+"Glendale, CA",2014,34
+"Honolulu, HI",2014,62
+"Long Beach, CA",2014,58
+"Los Angeles, CA",2014,248
+"Pasadena, CA",2014,29
+"Portland, OR",2014,122
+"Sacramento, CA",2014,235
+"San Diego, CA",2014,146
+"San Francisco, CA",2014,102
+"San Jose, CA",2014,202
+"Santa Cruz, CA",2014,27
+"Seattle, WA",2014,130
+"Spokane, WA",2014,60
+"Tacoma, WA",2014,105
+Totalå¦,2014,11084
+New England,2014,493
+"Boston, MA",2014,79
+"Bridgeport, CT",2014,38
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,27
+"Hartford, CT",2014,47
+"Lowell, MA",2014,24
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,15
+"New Haven, CT",2014,41
+"Providence, RI",2014,83
+"Somerville, MA",2014,1
+"Springfield, MA",2014,37
+"Waterbury, CT",2014,31
+"Worcester, MA",2014,46
+Mid. Atlantic,2014,1864
+"Albany, NY",2014,43
+"Allentown, PA",2014,33
+"Buffalo, NY",2014,113
+"Camden, NJ",2014,13
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,64
+"Jersey City, NJ",2014,18
+"New York City, NY",2014,1010
+"Newark, NJ",2014,32
+"Paterson, NJ",2014,13
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,122
+"Reading, PA",2014,28
+"Rochester, NY",2014,164
+"Schenectady, NY",2014,30
+"Scranton, PA",2014,24
+"Syracuse, NY",2014,85
+"Trenton, NJ",2014,22
+"Utica, NY",2014,9
+"Yonkers, NY",2014,19
+E.N. Central,2014,1960
+"Akron, OH",2014,57
+"Canton, OH",2014,34
+"Chicago, IL",2014,249
+"Cincinnati, OH",2014,77
+"Cleveland, OH",2014,265
+"Columbus, OH",2014,232
+"Dayton, OH",2014,129
+"Detroit, MI",2014,
+"Evansville, IN",2014,44
+"Fort Wayne, IN",2014,96
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,77
+"Indianapolis, IN",2014,200
+"Lansing, MI",2014,52
+"Milwaukee, WI",2014,87
+"Peoria, IL",2014,54
+"Rockford, IL",2014,79
+"South Bend, IN",2014,53
+"Toledo, OH",2014,94
+"Youngstown, OH",2014,66
+W.N. Central,2014,623
+"Des Moines, IA",2014,
+"Duluth, MN",2014,28
+"Kansas City, KS",2014,20
+"Kansas City, MO",2014,117
+"Lincoln, NC",2014,60
+"Minneapolis, MN",2014,59
+"Omaha, NE",2014,102
+"St. Louis, MO",2014,99
+"St. Paul, MN",2014,69
+"Wichita, KS",2014,69
+S. Atlantic,2014,1162
+"Atlanta, GA",2014,150
+"Baltimore, MD",2014,153
+"Charlotte, NC",2014,139
+"Jacksonville, FL",2014,168
+"Miami, FL",2014,68
+"Norfolk, VA",2014,57
+"Richmond, VA",2014,59
+"Savannah, GA",2014,53
+"St. Petersburg, FL",2014,64
+"Tampa, FL",2014,110
+"Washington, D.C.",2014,122
+"Wilmington, DE",2014,19
+E.S. Central,2014,896
+"Birmingham, AL",2014,173
+"Chattanooga, TN",2014,98
+"Knoxville, TN",2014,66
+"Lexington, KY",2014,88
+"Memphis, TN",2014,173
+"Mobile, AL",2014,88
+"Montgomery, AL",2014,47
+"Nashville, TN",2014,163
+W.S. Central,2014,1519
+"Austin, TX",2014,124
+"Baton Rouge, LA",2014,91
+"Corpus Christi, TX",2014,71
+"Dallas, TX",2014,207
+"El Paso, TX",2014,128
+"Fort Worth, TX",2014,
+"Houston, TX",2014,351
+"Little Rock, AR",2014,54
+"New Orleans, LA",2014,50
+"San Antonio, TX",2014,262
+"Shreveport, LA",2014,63
+"Tulsa, OK",2014,118
+Mountain,2014,1128
+"Albuquerque, NM",2014,107
+"Boise, ID",2014,51
+"Colorado Springs, CO",2014,82
+"Denver, CO",2014,89
+"Las Vegas, NV",2014,274
+"Ogden, UT",2014,39
+"Phoenix, AZ",2014,156
+"Pueblo, CO",2014,22
+"Salt Lake City, UT",2014,148
+"Tucson, AZ",2014,160
+Pacific,2014,2419
+"Berkeley, CA",2014,16
+"Fresno, CA",2014,144
+"Glendale, CA",2014,30
+"Honolulu, HI",2014,65
+"Long Beach, CA",2014,56
+"Los Angeles, CA",2014,1018
+"Pasadena, CA",2014,28
+"Portland, OR",2014,107
+"Sacramento, CA",2014,200
+"San Diego, CA",2014,167
+"San Francisco, CA",2014,103
+"San Jose, CA",2014,202
+"Santa Cruz, CA",2014,25
+"Seattle, WA",2014,97
+"Spokane, WA",2014,46
+"Tacoma, WA",2014,115
+Totalå¦,2014,12064
+New England,2014,430
+"Boston, MA",2014,61
+"Bridgeport, CT",2014,34
+"Cambridge, MA",2014,16
+"Fall River, MA",2014,19
+"Hartford, CT",2014,45
+"Lowell, MA",2014,16
+"Lynn, MA",2014,2
+"New Bedford, MA",2014,22
+"New Haven, CT",2014,35
+"Providence, RI",2014,67
+"Somerville, MA",2014,
+"Springfield, MA",2014,15
+"Waterbury, CT",2014,45
+"Worcester, MA",2014,53
+Mid. Atlantic,2014,1739
+"Albany, NY",2014,54
+"Allentown, PA",2014,34
+"Buffalo, NY",2014,59
+"Camden, NJ",2014,29
+"Elizabeth, NJ",2014,13
+"Erie, PA",2014,50
+"Jersey City, NJ",2014,16
+"New York City, NY",2014,1011
+"Newark, NJ",2014,13
+"Paterson, NJ",2014,11
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,70
+"Reading, PA",2014,41
+"Rochester, NY",2014,155
+"Schenectady, NY",2014,23
+"Scranton, PA",2014,27
+"Syracuse, NY",2014,77
+"Trenton, NJ",2014,22
+"Utica, NY",2014,19
+"Yonkers, NY",2014,15
+E.N. Central,2014,1870
+"Akron, OH",2014,48
+"Canton, OH",2014,33
+"Chicago, IL",2014,287
+"Cincinnati, OH",2014,61
+"Cleveland, OH",2014,265
+"Columbus, OH",2014,208
+"Dayton, OH",2014,133
+"Detroit, MI",2014,
+"Evansville, IN",2014,47
+"Fort Wayne, IN",2014,69
+"Gary, IN",2014,12
+"Grand Rapids, MI",2014,70
+"Indianapolis, IN",2014,171
+"Lansing, MI",2014,51
+"Milwaukee, WI",2014,66
+"Peoria, IL",2014,71
+"Rockford, IL",2014,65
+"South Bend, IN",2014,55
+"Toledo, OH",2014,103
+"Youngstown, OH",2014,55
+W.N. Central,2014,757
+"Des Moines, IA",2014,
+"Duluth, MN",2014,22
+"Kansas City, KS",2014,38
+"Kansas City, MO",2014,164
+"Lincoln, NC",2014,40
+"Minneapolis, MN",2014,67
+"Omaha, NE",2014,113
+"St. Louis, MO",2014,145
+"St. Paul, MN",2014,77
+"Wichita, KS",2014,91
+S. Atlantic,2014,1037
+"Atlanta, GA",2014,139
+"Baltimore, MD",2014,145
+"Charlotte, NC",2014,140
+"Jacksonville, FL",2014,148
+"Miami, FL",2014,49
+"Norfolk, VA",2014,53
+"Richmond, VA",2014,65
+"Savannah, GA",2014,51
+"St. Petersburg, FL",2014,51
+"Tampa, FL",2014,125
+"Washington, D.C.",2014,67
+"Wilmington, DE",2014,4
+E.S. Central,2014,1004
+"Birmingham, AL",2014,222
+"Chattanooga, TN",2014,98
+"Knoxville, TN",2014,106
+"Lexington, KY",2014,92
+"Memphis, TN",2014,199
+"Mobile, AL",2014,92
+"Montgomery, AL",2014,42
+"Nashville, TN",2014,153
+W.S. Central,2014,1566
+"Austin, TX",2014,91
+"Baton Rouge, LA",2014,96
+"Corpus Christi, TX",2014,65
+"Dallas, TX",2014,225
+"El Paso, TX",2014,127
+"Fort Worth, TX",2014,
+"Houston, TX",2014,405
+"Little Rock, AR",2014,61
+"New Orleans, LA",2014,39
+"San Antonio, TX",2014,275
+"Shreveport, LA",2014,44
+"Tulsa, OK",2014,138
+Mountain,2014,1231
+"Albuquerque, NM",2014,113
+"Boise, ID",2014,72
+"Colorado Springs, CO",2014,76
+"Denver, CO",2014,87
+"Las Vegas, NV",2014,333
+"Ogden, UT",2014,33
+"Phoenix, AZ",2014,159
+"Pueblo, CO",2014,28
+"Salt Lake City, UT",2014,151
+"Tucson, AZ",2014,179
+Pacific,2014,1661
+"Berkeley, CA",2014,13
+"Fresno, CA",2014,118
+"Glendale, CA",2014,27
+"Honolulu, HI",2014,68
+"Long Beach, CA",2014,59
+"Los Angeles, CA",2014,240
+"Pasadena, CA",2014,31
+"Portland, OR",2014,131
+"Sacramento, CA",2014,207
+"San Diego, CA",2014,143
+"San Francisco, CA",2014,110
+"San Jose, CA",2014,181
+"Santa Cruz, CA",2014,28
+"Seattle, WA",2014,110
+"Spokane, WA",2014,63
+"Tacoma, WA",2014,132
+Totalå¦,2014,11295
+New England,2014,574
+"Boston, MA",2014,143
+"Bridgeport, CT",2014,31
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,24
+"Hartford, CT",2014,56
+"Lowell, MA",2014,25
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,24
+"New Haven, CT",2014,35
+"Providence, RI",2014,73
+"Somerville, MA",2014,3
+"Springfield, MA",2014,26
+"Waterbury, CT",2014,31
+"Worcester, MA",2014,80
+Mid. Atlantic,2014,1843
+"Albany, NY",2014,50
+"Allentown, PA",2014,25
+"Buffalo, NY",2014,105
+"Camden, NJ",2014,33
+"Elizabeth, NJ",2014,15
+"Erie, PA",2014,40
+"Jersey City, NJ",2014,20
+"New York City, NY",2014,1056
+"Newark, NJ",2014,36
+"Paterson, NJ",2014,17
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,55
+"Reading, PA",2014,31
+"Rochester, NY",2014,153
+"Schenectady, NY",2014,22
+"Scranton, PA",2014,36
+"Syracuse, NY",2014,99
+"Trenton, NJ",2014,14
+"Utica, NY",2014,17
+"Yonkers, NY",2014,19
+E.N. Central,2014,1913
+"Akron, OH",2014,47
+"Canton, OH",2014,27
+"Chicago, IL",2014,262
+"Cincinnati, OH",2014,83
+"Cleveland, OH",2014,248
+"Columbus, OH",2014,238
+"Dayton, OH",2014,131
+"Detroit, MI",2014,
+"Evansville, IN",2014,66
+"Fort Wayne, IN",2014,69
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,52
+"Indianapolis, IN",2014,213
+"Lansing, MI",2014,60
+"Milwaukee, WI",2014,97
+"Peoria, IL",2014,46
+"Rockford, IL",2014,45
+"South Bend, IN",2014,46
+"Toledo, OH",2014,105
+"Youngstown, OH",2014,63
+W.N. Central,2014,547
+"Des Moines, IA",2014,
+"Duluth, MN",2014,25
+"Kansas City, KS",2014,19
+"Kansas City, MO",2014,114
+"Lincoln, NC",2014,40
+"Minneapolis, MN",2014,74
+"Omaha, NE",2014,68
+"St. Louis, MO",2014,44
+"St. Paul, MN",2014,56
+"Wichita, KS",2014,107
+S. Atlantic,2014,1082
+"Atlanta, GA",2014,141
+"Baltimore, MD",2014,95
+"Charlotte, NC",2014,141
+"Jacksonville, FL",2014,159
+"Miami, FL",2014,72
+"Norfolk, VA",2014,43
+"Richmond, VA",2014,42
+"Savannah, GA",2014,75
+"St. Petersburg, FL",2014,57
+"Tampa, FL",2014,121
+"Washington, D.C.",2014,120
+"Wilmington, DE",2014,16
+E.S. Central,2014,828
+"Birmingham, AL",2014,145
+"Chattanooga, TN",2014,72
+"Knoxville, TN",2014,114
+"Lexington, KY",2014,71
+"Memphis, TN",2014,159
+"Mobile, AL",2014,92
+"Montgomery, AL",2014,52
+"Nashville, TN",2014,123
+W.S. Central,2014,1567
+"Austin, TX",2014,91
+"Baton Rouge, LA",2014,115
+"Corpus Christi, TX",2014,66
+"Dallas, TX",2014,223
+"El Paso, TX",2014,87
+"Fort Worth, TX",2014,
+"Houston, TX",2014,359
+"Little Rock, AR",2014,75
+"New Orleans, LA",2014,80
+"San Antonio, TX",2014,282
+"Shreveport, LA",2014,61
+"Tulsa, OK",2014,128
+Mountain,2014,1172
+"Albuquerque, NM",2014,104
+"Boise, ID",2014,46
+"Colorado Springs, CO",2014,92
+"Denver, CO",2014,85
+"Las Vegas, NV",2014,304
+"Ogden, UT",2014,32
+"Phoenix, AZ",2014,170
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,145
+"Tucson, AZ",2014,165
+Pacific,2014,1626
+"Berkeley, CA",2014,12
+"Fresno, CA",2014,133
+"Glendale, CA",2014,24
+"Honolulu, HI",2014,51
+"Long Beach, CA",2014,57
+"Los Angeles, CA",2014,243
+"Pasadena, CA",2014,30
+"Portland, OR",2014,111
+"Sacramento, CA",2014,212
+"San Diego, CA",2014,151
+"San Francisco, CA",2014,97
+"San Jose, CA",2014,183
+"Santa Cruz, CA",2014,36
+"Seattle, WA",2014,98
+"Spokane, WA",2014,71
+"Tacoma, WA",2014,117
+Totalå¦,2014,11152
+New England,2014,546
+"Boston, MA",2014,128
+"Bridgeport, CT",2014,25
+"Cambridge, MA",2014,15
+"Fall River, MA",2014,21
+"Hartford, CT",2014,48
+"Lowell, MA",2014,18
+"Lynn, MA",2014,4
+"New Bedford, MA",2014,29
+"New Haven, CT",2014,36
+"Providence, RI",2014,90
+"Somerville, MA",2014,2
+"Springfield, MA",2014,31
+"Waterbury, CT",2014,34
+"Worcester, MA",2014,65
+Mid. Atlantic,2014,1751
+"Albany, NY",2014,55
+"Allentown, PA",2014,34
+"Buffalo, NY",2014,35
+"Camden, NJ",2014,26
+"Elizabeth, NJ",2014,17
+"Erie, PA",2014,65
+"Jersey City, NJ",2014,10
+"New York City, NY",2014,1066
+"Newark, NJ",2014,34
+"Paterson, NJ",2014,12
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,36
+"Reading, PA",2014,36
+"Rochester, NY",2014,177
+"Schenectady, NY",2014,21
+"Scranton, PA",2014,20
+"Syracuse, NY",2014,49
+"Trenton, NJ",2014,17
+"Utica, NY",2014,21
+"Yonkers, NY",2014,20
+E.N. Central,2014,2101
+"Akron, OH",2014,49
+"Canton, OH",2014,25
+"Chicago, IL",2014,241
+"Cincinnati, OH",2014,82
+"Cleveland, OH",2014,281
+"Columbus, OH",2014,255
+"Dayton, OH",2014,141
+"Detroit, MI",2014,174
+"Evansville, IN",2014,43
+"Fort Wayne, IN",2014,67
+"Gary, IN",2014,4
+"Grand Rapids, MI",2014,71
+"Indianapolis, IN",2014,186
+"Lansing, MI",2014,64
+"Milwaukee, WI",2014,45
+"Peoria, IL",2014,72
+"Rockford, IL",2014,67
+"South Bend, IN",2014,53
+"Toledo, OH",2014,115
+"Youngstown, OH",2014,66
+W.N. Central,2014,686
+"Des Moines, IA",2014,
+"Duluth, MN",2014,42
+"Kansas City, KS",2014,30
+"Kansas City, MO",2014,84
+"Lincoln, NC",2014,69
+"Minneapolis, MN",2014,68
+"Omaha, NE",2014,117
+"St. Louis, MO",2014,132
+"St. Paul, MN",2014,65
+"Wichita, KS",2014,79
+S. Atlantic,2014,1130
+"Atlanta, GA",2014,153
+"Baltimore, MD",2014,169
+"Charlotte, NC",2014,125
+"Jacksonville, FL",2014,165
+"Miami, FL",2014,46
+"Norfolk, VA",2014,46
+"Richmond, VA",2014,46
+"Savannah, GA",2014,51
+"St. Petersburg, FL",2014,71
+"Tampa, FL",2014,134
+"Washington, D.C.",2014,113
+"Wilmington, DE",2014,11
+E.S. Central,2014,960
+"Birmingham, AL",2014,210
+"Chattanooga, TN",2014,99
+"Knoxville, TN",2014,133
+"Lexington, KY",2014,73
+"Memphis, TN",2014,146
+"Mobile, AL",2014,60
+"Montgomery, AL",2014,67
+"Nashville, TN",2014,172
+W.S. Central,2014,1581
+"Austin, TX",2014,107
+"Baton Rouge, LA",2014,81
+"Corpus Christi, TX",2014,56
+"Dallas, TX",2014,194
+"El Paso, TX",2014,111
+"Fort Worth, TX",2014,
+"Houston, TX",2014,387
+"Little Rock, AR",2014,137
+"New Orleans, LA",2014,53
+"San Antonio, TX",2014,241
+"Shreveport, LA",2014,78
+"Tulsa, OK",2014,136
+Mountain,2014,1241
+"Albuquerque, NM",2014,141
+"Boise, ID",2014,82
+"Colorado Springs, CO",2014,82
+"Denver, CO",2014,96
+"Las Vegas, NV",2014,272
+"Ogden, UT",2014,33
+"Phoenix, AZ",2014,180
+"Pueblo, CO",2014,48
+"Salt Lake City, UT",2014,167
+"Tucson, AZ",2014,140
+Pacific,2014,1886
+"Berkeley, CA",2014,
+"Fresno, CA",2014,144
+"Glendale, CA",2014,40
+"Honolulu, HI",2014,75
+"Long Beach, CA",2014,55
+"Los Angeles, CA",2014,272
+"Pasadena, CA",2014,31
+"Portland, OR",2014,137
+"Sacramento, CA",2014,241
+"San Diego, CA",2014,175
+"San Francisco, CA",2014,125
+"San Jose, CA",2014,220
+"Santa Cruz, CA",2014,33
+"Seattle, WA",2014,137
+"Spokane, WA",2014,79
+"Tacoma, WA",2014,122
+Totalå¦,2014,11882
+New England,2014,397
+"Boston, MA",2014,119
+"Bridgeport, CT",2014,17
+"Cambridge, MA",2014,16
+"Fall River, MA",2014,12
+"Hartford, CT",2014,28
+"Lowell, MA",2014,13
+"Lynn, MA",2014,12
+"New Bedford, MA",2014,13
+"New Haven, CT",2014,30
+"Providence, RI",2014,38
+"Somerville, MA",2014,2
+"Springfield, MA",2014,25
+"Waterbury, CT",2014,21
+"Worcester, MA",2014,51
+Mid. Atlantic,2014,1818
+"Albany, NY",2014,40
+"Allentown, PA",2014,38
+"Buffalo, NY",2014,163
+"Camden, NJ",2014,35
+"Elizabeth, NJ",2014,6
+"Erie, PA",2014,44
+"Jersey City, NJ",2014,
+"New York City, NY",2014,1118
+"Newark, NJ",2014,43
+"Paterson, NJ",2014,
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,32
+"Reading, PA",2014,26
+"Rochester, NY",2014,108
+"Schenectady, NY",2014,15
+"Scranton, PA",2014,19
+"Syracuse, NY",2014,78
+"Trenton, NJ",2014,15
+"Utica, NY",2014,22
+"Yonkers, NY",2014,16
+E.N. Central,2014,1734
+"Akron, OH",2014,38
+"Canton, OH",2014,22
+"Chicago, IL",2014,278
+"Cincinnati, OH",2014,74
+"Cleveland, OH",2014,230
+"Columbus, OH",2014,192
+"Dayton, OH",2014,79
+"Detroit, MI",2014,94
+"Evansville, IN",2014,37
+"Fort Wayne, IN",2014,77
+"Gary, IN",2014,15
+"Grand Rapids, MI",2014,66
+"Indianapolis, IN",2014,159
+"Lansing, MI",2014,25
+"Milwaukee, WI",2014,63
+"Peoria, IL",2014,50
+"Rockford, IL",2014,42
+"South Bend, IN",2014,45
+"Toledo, OH",2014,97
+"Youngstown, OH",2014,51
+W.N. Central,2014,443
+"Des Moines, IA",2014,
+"Duluth, MN",2014,17
+"Kansas City, KS",2014,35
+"Kansas City, MO",2014,76
+"Lincoln, NC",2014,30
+"Minneapolis, MN",2014,47
+"Omaha, NE",2014,56
+"St. Louis, MO",2014,65
+"St. Paul, MN",2014,44
+"Wichita, KS",2014,73
+S. Atlantic,2014,654
+"Atlanta, GA",2014,93
+"Baltimore, MD",2014,131
+"Charlotte, NC",2014,113
+"Jacksonville, FL",2014,35
+"Miami, FL",2014,48
+"Norfolk, VA",2014,22
+"Richmond, VA",2014,63
+"Savannah, GA",2014,31
+"St. Petersburg, FL",2014,11
+"Tampa, FL",2014,27
+"Washington, D.C.",2014,72
+"Wilmington, DE",2014,8
+E.S. Central,2014,616
+"Birmingham, AL",2014,97
+"Chattanooga, TN",2014,71
+"Knoxville, TN",2014,106
+"Lexington, KY",2014,62
+"Memphis, TN",2014,109
+"Mobile, AL",2014,42
+"Montgomery, AL",2014,32
+"Nashville, TN",2014,97
+W.S. Central,2014,1088
+"Austin, TX",2014,71
+"Baton Rouge, LA",2014,71
+"Corpus Christi, TX",2014,28
+"Dallas, TX",2014,132
+"El Paso, TX",2014,109
+"Fort Worth, TX",2014,
+"Houston, TX",2014,258
+"Little Rock, AR",2014,56
+"New Orleans, LA",2014,47
+"San Antonio, TX",2014,179
+"Shreveport, LA",2014,29
+"Tulsa, OK",2014,108
+Mountain,2014,950
+"Albuquerque, NM",2014,92
+"Boise, ID",2014,52
+"Colorado Springs, CO",2014,70
+"Denver, CO",2014,61
+"Las Vegas, NV",2014,256
+"Ogden, UT",2014,19
+"Phoenix, AZ",2014,136
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,109
+"Tucson, AZ",2014,126
+Pacific,2014,1311
+"Berkeley, CA",2014,14
+"Fresno, CA",2014,148
+"Glendale, CA",2014,23
+"Honolulu, HI",2014,62
+"Long Beach, CA",2014,46
+"Los Angeles, CA",2014,161
+"Pasadena, CA",2014,20
+"Portland, OR",2014,109
+"Sacramento, CA",2014,156
+"San Diego, CA",2014,100
+"San Francisco, CA",2014,71
+"San Jose, CA",2014,168
+"Santa Cruz, CA",2014,23
+"Seattle, WA",2014,61
+"Spokane, WA",2014,43
+"Tacoma, WA",2014,106
+Totalå¦,2014,9011
+New England,2014,656
+"Boston, MA",2014,146
+"Bridgeport, CT",2014,38
+"Cambridge, MA",2014,19
+"Fall River, MA",2014,32
+"Hartford, CT",2014,59
+"Lowell, MA",2014,40
+"Lynn, MA",2014,10
+"New Bedford, MA",2014,38
+"New Haven, CT",2014,39
+"Providence, RI",2014,84
+"Somerville, MA",2014,4
+"Springfield, MA",2014,40
+"Waterbury, CT",2014,29
+"Worcester, MA",2014,78
+Mid. Atlantic,2014,1844
+"Albany, NY",2014,58
+"Allentown, PA",2014,31
+"Buffalo, NY",2014,101
+"Camden, NJ",2014,25
+"Elizabeth, NJ",2014,15
+"Erie, PA",2014,79
+"Jersey City, NJ",2014,18
+"New York City, NY",2014,925
+"Newark, NJ",2014,49
+"Paterson, NJ",2014,23
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,62
+"Reading, PA",2014,43
+"Rochester, NY",2014,202
+"Schenectady, NY",2014,30
+"Scranton, PA",2014,38
+"Syracuse, NY",2014,82
+"Trenton, NJ",2014,23
+"Utica, NY",2014,15
+"Yonkers, NY",2014,25
+E.N. Central,2014,2246
+"Akron, OH",2014,50
+"Canton, OH",2014,43
+"Chicago, IL",2014,243
+"Cincinnati, OH",2014,101
+"Cleveland, OH",2014,277
+"Columbus, OH",2014,236
+"Dayton, OH",2014,165
+"Detroit, MI",2014,201
+"Evansville, IN",2014,44
+"Fort Wayne, IN",2014,83
+"Gary, IN",2014,11
+"Grand Rapids, MI",2014,37
+"Indianapolis, IN",2014,215
+"Lansing, MI",2014,75
+"Milwaukee, WI",2014,100
+"Peoria, IL",2014,56
+"Rockford, IL",2014,78
+"South Bend, IN",2014,73
+"Toledo, OH",2014,67
+"Youngstown, OH",2014,91
+W.N. Central,2014,770
+"Des Moines, IA",2014,
+"Duluth, MN",2014,39
+"Kansas City, KS",2014,32
+"Kansas City, MO",2014,138
+"Lincoln, NC",2014,62
+"Minneapolis, MN",2014,78
+"Omaha, NE",2014,116
+"St. Louis, MO",2014,112
+"St. Paul, MN",2014,74
+"Wichita, KS",2014,119
+S. Atlantic,2014,1237
+"Atlanta, GA",2014,169
+"Baltimore, MD",2014,151
+"Charlotte, NC",2014,147
+"Jacksonville, FL",2014,184
+"Miami, FL",2014,60
+"Norfolk, VA",2014,51
+"Richmond, VA",2014,60
+"Savannah, GA",2014,80
+"St. Petersburg, FL",2014,68
+"Tampa, FL",2014,137
+"Washington, D.C.",2014,118
+"Wilmington, DE",2014,12
+E.S. Central,2014,1056
+"Birmingham, AL",2014,188
+"Chattanooga, TN",2014,119
+"Knoxville, TN",2014,114
+"Lexington, KY",2014,94
+"Memphis, TN",2014,183
+"Mobile, AL",2014,96
+"Montgomery, AL",2014,59
+"Nashville, TN",2014,203
+W.S. Central,2014,1905
+"Austin, TX",2014,117
+"Baton Rouge, LA",2014,128
+"Corpus Christi, TX",2014,79
+"Dallas, TX",2014,282
+"El Paso, TX",2014,118
+"Fort Worth, TX",2014,
+"Houston, TX",2014,414
+"Little Rock, AR",2014,81
+"New Orleans, LA",2014,94
+"San Antonio, TX",2014,351
+"Shreveport, LA",2014,93
+"Tulsa, OK",2014,148
+Mountain,2014,1467
+"Albuquerque, NM",2014,168
+"Boise, ID",2014,68
+"Colorado Springs, CO",2014,100
+"Denver, CO",2014,68
+"Las Vegas, NV",2014,351
+"Ogden, UT",2014,56
+"Phoenix, AZ",2014,216
+"Pueblo, CO",2014,42
+"Salt Lake City, UT",2014,166
+"Tucson, AZ",2014,232
+Pacific,2014,2080
+"Berkeley, CA",2014,12
+"Fresno, CA",2014,182
+"Glendale, CA",2014,35
+"Honolulu, HI",2014,92
+"Long Beach, CA",2014,77
+"Los Angeles, CA",2014,307
+"Pasadena, CA",2014,39
+"Portland, OR",2014,107
+"Sacramento, CA",2014,246
+"San Diego, CA",2014,198
+"San Francisco, CA",2014,135
+"San Jose, CA",2014,238
+"Santa Cruz, CA",2014,43
+"Seattle, WA",2014,137
+"Spokane, WA",2014,88
+"Tacoma, WA",2014,144
+Totalå¦,2014,13261
+New England,2014,573
+"Boston, MA",2014,141
+"Bridgeport, CT",2014,27
+"Cambridge, MA",2014,21
+"Fall River, MA",2014,31
+"Hartford, CT",2014,54
+"Lowell, MA",2014,27
+"Lynn, MA",2014,3
+"New Bedford, MA",2014,30
+"New Haven, CT",2014,31
+"Providence, RI",2014,68
+"Somerville, MA",2014,2
+"Springfield, MA",2014,35
+"Waterbury, CT",2014,29
+"Worcester, MA",2014,74
+Mid. Atlantic,2014,1876
+"Albany, NY",2014,47
+"Allentown, PA",2014,32
+"Buffalo, NY",2014,97
+"Camden, NJ",2014,16
+"Elizabeth, NJ",2014,17
+"Erie, PA",2014,55
+"Jersey City, NJ",2014,15
+"New York City, NY",2014,1089
+"Newark, NJ",2014,28
+"Paterson, NJ",2014,23
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,40
+"Reading, PA",2014,44
+"Rochester, NY",2014,137
+"Schenectady, NY",2014,25
+"Scranton, PA",2014,17
+"Syracuse, NY",2014,141
+"Trenton, NJ",2014,19
+"Utica, NY",2014,17
+"Yonkers, NY",2014,17
+E.N. Central,2014,2294
+"Akron, OH",2014,52
+"Canton, OH",2014,35
+"Chicago, IL",2014,275
+"Cincinnati, OH",2014,84
+"Cleveland, OH",2014,302
+"Columbus, OH",2014,258
+"Dayton, OH",2014,136
+"Detroit, MI",2014,168
+"Evansville, IN",2014,48
+"Fort Wayne, IN",2014,105
+"Gary, IN",2014,16
+"Grand Rapids, MI",2014,72
+"Indianapolis, IN",2014,197
+"Lansing, MI",2014,57
+"Milwaukee, WI",2014,100
+"Peoria, IL",2014,63
+"Rockford, IL",2014,74
+"South Bend, IN",2014,85
+"Toledo, OH",2014,96
+"Youngstown, OH",2014,71
+W.N. Central,2014,663
+"Des Moines, IA",2014,
+"Duluth, MN",2014,24
+"Kansas City, KS",2014,49
+"Kansas City, MO",2014,89
+"Lincoln, NC",2014,52
+"Minneapolis, MN",2014,68
+"Omaha, NE",2014,111
+"St. Louis, MO",2014,86
+"St. Paul, MN",2014,54
+"Wichita, KS",2014,130
+S. Atlantic,2014,1133
+"Atlanta, GA",2014,102
+"Baltimore, MD",2014,139
+"Charlotte, NC",2014,161
+"Jacksonville, FL",2014,148
+"Miami, FL",2014,71
+"Norfolk, VA",2014,54
+"Richmond, VA",2014,62
+"Savannah, GA",2014,52
+"St. Petersburg, FL",2014,94
+"Tampa, FL",2014,134
+"Washington, D.C.",2014,101
+"Wilmington, DE",2014,15
+E.S. Central,2014,1059
+"Birmingham, AL",2014,178
+"Chattanooga, TN",2014,97
+"Knoxville, TN",2014,148
+"Lexington, KY",2014,66
+"Memphis, TN",2014,224
+"Mobile, AL",2014,91
+"Montgomery, AL",2014,59
+"Nashville, TN",2014,196
+W.S. Central,2014,1505
+"Austin, TX",2014,111
+"Baton Rouge, LA",2014,112
+"Corpus Christi, TX",2014,68
+"Dallas, TX",2014,223
+"El Paso, TX",2014,87
+"Fort Worth, TX",2014,
+"Houston, TX",2014,250
+"Little Rock, AR",2014,71
+"New Orleans, LA",2014,68
+"San Antonio, TX",2014,331
+"Shreveport, LA",2014,53
+"Tulsa, OK",2014,131
+Mountain,2014,1339
+"Albuquerque, NM",2014,140
+"Boise, ID",2014,79
+"Colorado Springs, CO",2014,88
+"Denver, CO",2014,94
+"Las Vegas, NV",2014,347
+"Ogden, UT",2014,42
+"Phoenix, AZ",2014,205
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,157
+"Tucson, AZ",2014,158
+Pacific,2014,1904
+"Berkeley, CA",2014,9
+"Fresno, CA",2014,133
+"Glendale, CA",2014,31
+"Honolulu, HI",2014,90
+"Long Beach, CA",2014,87
+"Los Angeles, CA",2014,267
+"Pasadena, CA",2014,31
+"Portland, OR",2014,139
+"Sacramento, CA",2014,223
+"San Diego, CA",2014,160
+"San Francisco, CA",2014,134
+"San Jose, CA",2014,217
+"Santa Cruz, CA",2014,36
+"Seattle, WA",2014,133
+"Spokane, WA",2014,73
+"Tacoma, WA",2014,141
+Totalå¦,2014,12346
+New England,2014,627
+"Boston, MA",2014,148
+"Bridgeport, CT",2014,30
+"Cambridge, MA",2014,17
+"Fall River, MA",2014,27
+"Hartford, CT",2014,60
+"Lowell, MA",2014,40
+"Lynn, MA",2014,8
+"New Bedford, MA",2014,28
+"New Haven, CT",2014,42
+"Providence, RI",2014,68
+"Somerville, MA",2014,6
+"Springfield, MA",2014,52
+"Waterbury, CT",2014,25
+"Worcester, MA",2014,76
+Mid. Atlantic,2014,1791
+"Albany, NY",2014,51
+"Allentown, PA",2014,39
+"Buffalo, NY",2014,86
+"Camden, NJ",2014,19
+"Elizabeth, NJ",2014,18
+"Erie, PA",2014,51
+"Jersey City, NJ",2014,22
+"New York City, NY",2014,1063
+"Newark, NJ",2014,34
+"Paterson, NJ",2014,18
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,43
+"Reading, PA",2014,40
+"Rochester, NY",2014,140
+"Schenectady, NY",2014,33
+"Scranton, PA",2014,22
+"Syracuse, NY",2014,55
+"Trenton, NJ",2014,27
+"Utica, NY",2014,13
+"Yonkers, NY",2014,17
+E.N. Central,2014,2112
+"Akron, OH",2014,67
+"Canton, OH",2014,32
+"Chicago, IL",2014,
+"Cincinnati, OH",2014,97
+"Cleveland, OH",2014,284
+"Columbus, OH",2014,273
+"Dayton, OH",2014,154
+"Detroit, MI",2014,189
+"Evansville, IN",2014,44
+"Fort Wayne, IN",2014,99
+"Gary, IN",2014,6
+"Grand Rapids, MI",2014,93
+"Indianapolis, IN",2014,241
+"Lansing, MI",2014,46
+"Milwaukee, WI",2014,84
+"Peoria, IL",2014,66
+"Rockford, IL",2014,76
+"South Bend, IN",2014,70
+"Toledo, OH",2014,107
+"Youngstown, OH",2014,84
+W.N. Central,2014,629
+"Des Moines, IA",2014,
+"Duluth, MN",2014,42
+"Kansas City, KS",2014,20
+"Kansas City, MO",2014,101
+"Lincoln, NC",2014,43
+"Minneapolis, MN",2014,81
+"Omaha, NE",2014,106
+"St. Louis, MO",2014,82
+"St. Paul, MN",2014,75
+"Wichita, KS",2014,79
+S. Atlantic,2014,1267
+"Atlanta, GA",2014,215
+"Baltimore, MD",2014,184
+"Charlotte, NC",2014,142
+"Jacksonville, FL",2014,161
+"Miami, FL",2014,41
+"Norfolk, VA",2014,51
+"Richmond, VA",2014,55
+"Savannah, GA",2014,86
+"St. Petersburg, FL",2014,77
+"Tampa, FL",2014,142
+"Washington, D.C.",2014,96
+"Wilmington, DE",2014,17
+E.S. Central,2014,1129
+"Birmingham, AL",2014,189
+"Chattanooga, TN",2014,115
+"Knoxville, TN",2014,148
+"Lexington, KY",2014,84
+"Memphis, TN",2014,231
+"Mobile, AL",2014,98
+"Montgomery, AL",2014,57
+"Nashville, TN",2014,207
+W.S. Central,2014,1798
+"Austin, TX",2014,129
+"Baton Rouge, LA",2014,124
+"Corpus Christi, TX",2014,66
+"Dallas, TX",2014,242
+"El Paso, TX",2014,143
+"Fort Worth, TX",2014,
+"Houston, TX",2014,364
+"Little Rock, AR",2014,98
+"New Orleans, LA",2014,75
+"San Antonio, TX",2014,335
+"Shreveport, LA",2014,89
+"Tulsa, OK",2014,133
+Mountain,2014,1210
+"Albuquerque, NM",2014,150
+"Boise, ID",2014,60
+"Colorado Springs, CO",2014,93
+"Denver, CO",2014,111
+"Las Vegas, NV",2014,207
+"Ogden, UT",2014,46
+"Phoenix, AZ",2014,176
+"Pueblo, CO",2014,43
+"Salt Lake City, UT",2014,169
+"Tucson, AZ",2014,155
+Pacific,2014,1795
+"Berkeley, CA",2014,11
+"Fresno, CA",2014,133
+"Glendale, CA",2014,27
+"Honolulu, HI",2014,75
+"Long Beach, CA",2014,67
+"Los Angeles, CA",2014,235
+"Pasadena, CA",2014,24
+"Portland, OR",2014,124
+"Sacramento, CA",2014,233
+"San Diego, CA",2014,176
+"San Francisco, CA",2014,121
+"San Jose, CA",2014,217
+"Santa Cruz, CA",2014,39
+"Seattle, WA",2014,108
+"Spokane, WA",2014,81
+"Tacoma, WA",2014,124
+Totalå¦,2014,12358
+New England,2014,395
+"Boston, MA",2014,107
+"Bridgeport, CT",2014,25
+"Cambridge, MA",2014,8
+"Fall River, MA",2014,17
+"Hartford, CT",2014,27
+"Lowell, MA",2014,19
+"Lynn, MA",2014,7
+"New Bedford, MA",2014,9
+"New Haven, CT",2014,
+"Providence, RI",2014,62
+"Somerville, MA",2014,2
+"Springfield, MA",2014,40
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,44
+Mid. Atlantic,2014,1783
+"Albany, NY",2014,50
+"Allentown, PA",2014,47
+"Buffalo, NY",2014,94
+"Camden, NJ",2014,13
+"Elizabeth, NJ",2014,11
+"Erie, PA",2014,47
+"Jersey City, NJ",2014,
+"New York City, NY",2014,1075
+"Newark, NJ",2014,39
+"Paterson, NJ",2014,11
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,14
+"Reading, PA",2014,37
+"Rochester, NY",2014,168
+"Schenectady, NY",2014,26
+"Scranton, PA",2014,20
+"Syracuse, NY",2014,84
+"Trenton, NJ",2014,13
+"Utica, NY",2014,15
+"Yonkers, NY",2014,19
+E.N. Central,2014,1307
+"Akron, OH",2014,42
+"Canton, OH",2014,23
+"Chicago, IL",2014,
+"Cincinnati, OH",2014,68
+"Cleveland, OH",2014,223
+"Columbus, OH",2014,170
+"Dayton, OH",2014,112
+"Detroit, MI",2014,
+"Evansville, IN",2014,42
+"Fort Wayne, IN",2014,60
+"Gary, IN",2014,9
+"Grand Rapids, MI",2014,49
+"Indianapolis, IN",2014,160
+"Lansing, MI",2014,23
+"Milwaukee, WI",2014,69
+"Peoria, IL",2014,64
+"Rockford, IL",2014,51
+"South Bend, IN",2014,44
+"Toledo, OH",2014,49
+"Youngstown, OH",2014,49
+W.N. Central,2014,476
+"Des Moines, IA",2014,
+"Duluth, MN",2014,21
+"Kansas City, KS",2014,17
+"Kansas City, MO",2014,64
+"Lincoln, NC",2014,48
+"Minneapolis, MN",2014,53
+"Omaha, NE",2014,82
+"St. Louis, MO",2014,87
+"St. Paul, MN",2014,33
+"Wichita, KS",2014,71
+S. Atlantic,2014,918
+"Atlanta, GA",2014,110
+"Baltimore, MD",2014,172
+"Charlotte, NC",2014,91
+"Jacksonville, FL",2014,119
+"Miami, FL",2014,53
+"Norfolk, VA",2014,32
+"Richmond, VA",2014,36
+"Savannah, GA",2014,38
+"St. Petersburg, FL",2014,46
+"Tampa, FL",2014,80
+"Washington, D.C.",2014,134
+"Wilmington, DE",2014,7
+E.S. Central,2014,716
+"Birmingham, AL",2014,153
+"Chattanooga, TN",2014,58
+"Knoxville, TN",2014,94
+"Lexington, KY",2014,52
+"Memphis, TN",2014,140
+"Mobile, AL",2014,48
+"Montgomery, AL",2014,52
+"Nashville, TN",2014,119
+W.S. Central,2014,849
+"Austin, TX",2014,73
+"Baton Rouge, LA",2014,42
+"Corpus Christi, TX",2014,56
+"Dallas, TX",2014,164
+"El Paso, TX",2014,60
+"Fort Worth, TX",2014,
+"Houston, TX",2014,228
+"Little Rock, AR",2014,60
+"New Orleans, LA",2014,36
+"San Antonio, TX",2014,
+"Shreveport, LA",2014,48
+"Tulsa, OK",2014,82
+Mountain,2014,1061
+"Albuquerque, NM",2014,98
+"Boise, ID",2014,43
+"Colorado Springs, CO",2014,68
+"Denver, CO",2014,94
+"Las Vegas, NV",2014,287
+"Ogden, UT",2014,28
+"Phoenix, AZ",2014,142
+"Pueblo, CO",2014,29
+"Salt Lake City, UT",2014,123
+"Tucson, AZ",2014,149
+Pacific,2014,1388
+"Berkeley, CA",2014,3
+"Fresno, CA",2014,91
+"Glendale, CA",2014,20
+"Honolulu, HI",2014,58
+"Long Beach, CA",2014,39
+"Los Angeles, CA",2014,225
+"Pasadena, CA",2014,17
+"Portland, OR",2014,135
+"Sacramento, CA",2014,140
+"San Diego, CA",2014,131
+"San Francisco, CA",2014,70
+"San Jose, CA",2014,147
+"Santa Cruz, CA",2014,23
+"Seattle, WA",2014,133
+"Spokane, WA",2014,26
+"Tacoma, WA",2014,130
+Totalå¦,2014,8893
+New England,2014,650
+"Boston, MA",2014,160
+"Bridgeport, CT",2014,37
+"Cambridge, MA",2014,17
+"Fall River, MA",2014,33
+"Hartford, CT",2014,75
+"Lowell, MA",2014,31
+"Lynn, MA",2014,5
+"New Bedford, MA",2014,27
+"New Haven, CT",2014,37
+"Providence, RI",2014,88
+"Somerville, MA",2014,4
+"Springfield, MA",2014,22
+"Waterbury, CT",2014,28
+"Worcester, MA",2014,86
+Mid. Atlantic,2014,1852
+"Albany, NY",2014,57
+"Allentown, PA",2014,43
+"Buffalo, NY",2014,114
+"Camden, NJ",2014,35
+"Elizabeth, NJ",2014,22
+"Erie, PA",2014,63
+"Jersey City, NJ",2014,23
+"New York City, NY",2014,1040
+"Newark, NJ",2014,39
+"Paterson, NJ",2014,19
+"Philadelphia, PA",2014,
+"Pittsburgh, PAå¤",2014,47
+"Reading, PA",2014,32
+"Rochester, NY",2014,160
+"Schenectady, NY",2014,27
+"Scranton, PA",2014,23
+"Syracuse, NY",2014,59
+"Trenton, NJ",2014,6
+"Utica, NY",2014,24
+"Yonkers, NY",2014,19
+E.N. Central,2014,1736
+"Akron, OH",2014,51
+"Canton, OH",2014,39
+"Chicago, IL",2014,304
+"Cincinnati, OH",2014,67
+"Cleveland, OH",2014,220
+"Columbus, OH",2014,234
+"Dayton, OH",2014,126
+"Detroit, MI",2014,
+"Evansville, IN",2014,68
+"Fort Wayne, IN",2014,79
+"Gary, IN",2014,9
+"Grand Rapids, MI",2014,90
+"Indianapolis, IN",2014,
+"Lansing, MI",2014,47
+"Milwaukee, WI",2014,25
+"Peoria, IL",2014,62
+"Rockford, IL",2014,82
+"South Bend, IN",2014,62
+"Toledo, OH",2014,102
+"Youngstown, OH",2014,69
+W.N. Central,2014,554
+"Des Moines, IA",2014,
+"Duluth, MN",2014,24
+"Kansas City, KS",2014,16
+"Kansas City, MO",2014,93
+"Lincoln, NC",2014,38
+"Minneapolis, MN",2014,60
+"Omaha, NE",2014,84
+"St. Louis, MO",2014,62
+"St. Paul, MN",2014,73
+"Wichita, KS",2014,104
+S. Atlantic,2014,997
+"Atlanta, GA",2014,139
+"Baltimore, MD",2014,147
+"Charlotte, NC",2014,125
+"Jacksonville, FL",2014,163
+"Miami, FL",2014,47
+"Norfolk, VA",2014,31
+"Richmond, VA",2014,49
+"Savannah, GA",2014,45
+"St. Petersburg, FL",2014,66
+"Tampa, FL",2014,126
+"Washington, D.C.",2014,44
+"Wilmington, DE",2014,15
+E.S. Central,2014,810
+"Birmingham, AL",2014,106
+"Chattanooga, TN",2014,123
+"Knoxville, TN",2014,113
+"Lexington, KY",2014,46
+"Memphis, TN",2014,143
+"Mobile, AL",2014,57
+"Montgomery, AL",2014,44
+"Nashville, TN",2014,178
+W.S. Central,2014,1470
+"Austin, TX",2014,95
+"Baton Rouge, LA",2014,67
+"Corpus Christi, TX",2014,50
+"Dallas, TX",2014,213
+"El Paso, TX",2014,88
+"Fort Worth, TX",2014,
+"Houston, TX",2014,401
+"Little Rock, AR",2014,50
+"New Orleans, LA",2014,57
+"San Antonio, TX",2014,310
+"Shreveport, LA",2014,31
+"Tulsa, OK",2014,108
+Mountain,2014,1196
+"Albuquerque, NM",2014,131
+"Boise, ID",2014,51
+"Colorado Springs, CO",2014,98
+"Denver, CO",2014,70
+"Las Vegas, NV",2014,323
+"Ogden, UT",2014,41
+"Phoenix, AZ",2014,182
+"Pueblo, CO",2014,39
+"Salt Lake City, UT",2014,148
+"Tucson, AZ",2014,113
+Pacific,2014,1716
+"Berkeley, CA",2014,18
+"Fresno, CA",2014,145
+"Glendale, CA",2014,21
+"Honolulu, HI",2014,67
+"Long Beach, CA",2014,56
+"Los Angeles, CA",2014,239
+"Pasadena, CA",2014,20
+"Portland, OR",2014,95
+"Sacramento, CA",2014,207
+"San Diego, CA",2014,156
+"San Francisco, CA",2014,112
+"San Jose, CA",2014,213
+"Santa Cruz, CA",2014,41
+"Seattle, WA",2014,89
+"Spokane, WA",2014,111
+"Tacoma, WA",2014,126
+Totalå¦,2014,10981
